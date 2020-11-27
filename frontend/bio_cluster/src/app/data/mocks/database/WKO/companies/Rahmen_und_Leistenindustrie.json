@@ -1,0 +1,42 @@
+[
+    {
+        "branche_layer_3":"Rahmen- und Leistenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Johannes Postl Ges.m.b.H.",
+        "street":"Miesenbach 65",
+        "zip_code":2761,
+        "locality":"Miesenbach",
+        "id":35517
+    },
+    {
+        "branche_layer_3":"Rahmen- und Leistenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Stix GmbH",
+        "street":"Oed 231",
+        "zip_code":2755,
+        "locality":"Waldegg",
+        "id":35518
+    },
+    {
+        "branche_layer_3":"Rahmen- und Leistenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Eferding",
+        "company_name":"Hubert Gillhofer, Bilderleisten- und Rahmenfabrik Aschach an der Donau e.U.",
+        "street":"Bahnhofstra\u00dfe 27",
+        "zip_code":4082,
+        "locality":"Aschach an der Donau",
+        "id":35519
+    },
+    {
+        "branche_layer_3":"Rahmen- und Leistenindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Josef Mitter",
+        "street":"Gebr\u00fcder-Lang-Gasse 13",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":35520
+    }
+]

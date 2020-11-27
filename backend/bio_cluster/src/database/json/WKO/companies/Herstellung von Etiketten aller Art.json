@@ -1,0 +1,52 @@
+[
+    {
+        "branche_layer_3":"Herstellung von Etiketten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Ulrich Etiketten Gesellschaft m.b.H.",
+        "street":"Marksteinergasse 11",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":28562
+    },
+    {
+        "branche_layer_3":"Herstellung von Etiketten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Ulrich Etiketten Gesellschaft m.b.H.",
+        "street":"Marksteinergasse 2",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":28563
+    },
+    {
+        "branche_layer_3":"Herstellung von Etiketten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Ulrich Etiketten Gesellschaft m.b.H.",
+        "street":"Marksteinergasse 9",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":28564
+    },
+    {
+        "branche_layer_3":"Herstellung von Etiketten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"INSIGNIS Etiketten Erzeugung und Vertrieb GmbH - INSIGNIS Etiketten",
+        "street":"Gro\u00dfmarktstra\u00dfe 5B",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":28565
+    },
+    {
+        "branche_layer_3":"Herstellung von Etiketten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"ULIKETT GmbH - Rollen- und Etikettendruck",
+        "street":"Wiegelestra\u00dfe 26",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":28566
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "branche_layer_3":"Klavierindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"L. B\u00f6sendorfer Klavierfabrik GmbH",
+        "street":"Gymelsdorfer Gasse 42",
+        "zip_code":2700,
+        "locality":"Wiener Neustadt",
+        "id":31575
+    },
+    {
+        "branche_layer_3":"Klavierindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"L. B\u00f6sendorfer Klavierfabrik GmbH",
+        "street":"Canovagasse 4",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":31576
+    },
+    {
+        "branche_layer_3":"Klavierindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"L. B\u00f6sendorfer Klavierfabrik GmbH",
+        "street":"Schleiergasse 20",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":31577
+    }
+]

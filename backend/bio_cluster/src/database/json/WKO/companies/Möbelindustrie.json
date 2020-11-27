@@ -1,0 +1,612 @@
+[
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Neudoerfler Office Systems GmbH",
+        "street":"Kommerzialrat-Karl-Markon-Stra\u00dfe 530",
+        "zip_code":7201,
+        "locality":"Neud\u00f6rfl",
+        "id":34979
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"BRAUN LOCKENHAUS GmbH",
+        "street":"Fabriksgasse 9-13",
+        "zip_code":7442,
+        "locality":"Hammerteich",
+        "id":34980
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"BENE GmbH",
+        "street":"Schwarzwiesenstra\u00dfe 3",
+        "zip_code":3340,
+        "locality":"Waidhofen an der Ybbs",
+        "id":34981
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"umdasch Store Makers Amstetten GmbH",
+        "street":"Josef-Umdasch-Platz 1",
+        "zip_code":3300,
+        "locality":"Amstetten",
+        "id":34982
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"Holz Neubauer GmbH",
+        "street":"Retzer Bundesstra\u00dfe 2",
+        "zip_code":3741,
+        "locality":"Pulkau",
+        "id":34983
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Franz Blaha, Sitz- und B\u00fcrom\u00f6bel Industriegesellschaft m.b.H.",
+        "street":"Klein-Engersdorfer Stra\u00dfe 100",
+        "zip_code":2100,
+        "locality":"Bisamberg",
+        "id":34984
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Peter Max Produktionsgesellschaft m.b.H.",
+        "street":"Hornerstra\u00dfe 103",
+        "zip_code":2000,
+        "locality":"Stockerau",
+        "id":34985
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Peter Max Produktionsgesellschaft m.b.H.",
+        "street":"Hornerstra\u00dfe 106",
+        "zip_code":2000,
+        "locality":"Stockerau",
+        "id":34986
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Wittmann M\u00f6belwerkst\u00e4tten GmbH",
+        "street":"Grafenegger Stra\u00dfe (Etsdorf) 24",
+        "zip_code":3492,
+        "locality":"Etsdorf am Kamp",
+        "id":34987
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Wittmann M\u00f6belwerkst\u00e4tten GmbH",
+        "street":"Obere Marktstra\u00dfe (Etsdorf) 5",
+        "zip_code":3492,
+        "locality":"Etsdorf am Kamp",
+        "id":34988
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Umdasch Store Makers Leibnitz GmbH",
+        "street":"IZ-N\u00d6-S\u00dcD Stra\u00dfe 7,Obj. 58, C, Top 3",
+        "zip_code":2361,
+        "locality":"Laxenburg",
+        "id":34989
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Franz Priesching & Sohn",
+        "street":"Roseggerstra\u00dfe 8",
+        "zip_code":3385,
+        "locality":"Prinzersdorf",
+        "id":34990
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Europaplatz 7",
+        "zip_code":3100,
+        "locality":"St.P\u00f6lten",
+        "id":34991
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Sachseneder GmbH",
+        "street":"Gewerbering 5",
+        "zip_code":3484,
+        "locality":"Grafenw\u00f6rth",
+        "id":34992
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"OPTIMO Schlafsysteme Gesellschaft m.b.H.",
+        "street":"Industriezeile 10",
+        "zip_code":5280,
+        "locality":"Braunau am Inn",
+        "id":34993
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Wenatex Forschung - Entwicklung - Produktion GmbH",
+        "street":"Schlo\u00dfstra\u00dfe 49",
+        "zip_code":5282,
+        "locality":"Braunau am Inn",
+        "id":34994
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Wiesner - Hager M\u00f6bel KG",
+        "street":"Linzer Stra\u00dfe 22",
+        "zip_code":4950,
+        "locality":"Altheim",
+        "id":34995
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Wiesner-Hager M\u00f6bel Gesellschaft m.b.H.",
+        "street":"Linzer Stra\u00dfe 22",
+        "zip_code":4950,
+        "locality":"Altheim",
+        "id":34996
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Eferding",
+        "company_name":"hali gmbh",
+        "street":"K.-Schachinger-Str. 1",
+        "zip_code":4070,
+        "locality":"Eferding",
+        "id":34997
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"ewe K\u00fcchen GmbH",
+        "street":"Galgenau 30",
+        "zip_code":4240,
+        "locality":"Kefermarkt",
+        "id":34998
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Gaspo Sportartikel- und Gartenm\u00f6bel Gesellschaft mbH",
+        "street":"Peiskam 6",
+        "zip_code":4694,
+        "locality":"Ohlsdorf",
+        "id":34999
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Mayr - Schulm\u00f6bel Gesellschaft m.b.H.",
+        "street":"M\u00fchldorf 2",
+        "zip_code":4644,
+        "locality":"Scharnstein",
+        "id":35000
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"sedda Polsterm\u00f6belwerke Hans Thalermaier GmbH",
+        "street":"Linzer Stra\u00dfe 5",
+        "zip_code":4701,
+        "locality":"Bad Schallerbach",
+        "id":35001
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"sedda Polsterm\u00f6belwerke Hans Thalermaier GmbH",
+        "street":"Mitterweg 45",
+        "zip_code":4702,
+        "locality":"Wallern an der Trattnach",
+        "id":35002
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Elefant-M\u00f6bel VertriebsgmbH",
+        "street":"Sepp-Huber-Stra\u00dfe 1",
+        "zip_code":4591,
+        "locality":"Molln",
+        "id":35003
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"KLINGER M\u00f6belbau GmbH & Co.KG.",
+        "street":"Edelhofstr. 14",
+        "zip_code":4563,
+        "locality":"Micheldorf",
+        "id":35004
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Dan-K\u00fcchen M\u00f6belfabrik M. Danzer Gesellschaft m.b.H.",
+        "street":"Hafenstra\u00dfe 61",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":35005
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"B\u00fcrgerstra\u00dfe 26",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":35006
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"HAKA K\u00fcche GmbH - HAKA K\u00fcche GmbH",
+        "street":"Hackl-Stra\u00dfe 1",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":35007
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Streitner Gesellschaft m.b.H.",
+        "street":"Ipftal 1",
+        "zip_code":4491,
+        "locality":"Niederneukirchen",
+        "id":35008
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"TEAM 7 Nat\u00fcrlich Wohnen GmbH",
+        "street":"Braunauer Stra\u00dfe 26",
+        "zip_code":4910,
+        "locality":"Ried im Innkreis",
+        "id":35009
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Ing. Walter Furthner Gesellschaft m.b.H.",
+        "street":"Bernetsedt 4",
+        "zip_code":4755,
+        "locality":"Zell an der Pram",
+        "id":35010
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Elefant-M\u00f6bel VertriebsgmbH",
+        "street":"Wimbergstra\u00dfe 11",
+        "zip_code":4595,
+        "locality":"Waldneukirchen",
+        "id":35011
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"GESTRA Spiel- und Freizeiteinrichtungen GmbH",
+        "street":"Wimbergstra\u00dfe 11 (Betrieb)",
+        "zip_code":4595,
+        "locality":"Waldneukirchen",
+        "id":35012
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"GESTRA Spiel- und Freizeiteinrichtungen GmbH",
+        "street":"Wimbergstra\u00dfe 12a",
+        "zip_code":4595,
+        "locality":"Waldneukirchen",
+        "id":35013
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Dan-K\u00fcchen M\u00f6belfabrik M. Danzer Gesellschaft m.b.H.",
+        "street":"Fabrikstra\u00dfe 16",
+        "zip_code":4210,
+        "locality":"Gallneukirchen",
+        "id":35014
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Enzi GmbH",
+        "street":"Walsberg 15",
+        "zip_code":4880,
+        "locality":"Berg im Attergau",
+        "id":35015
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Atzbacher Stra\u00dfe 17",
+        "zip_code":4690,
+        "locality":"Oberndorf bei Schwanenstadt",
+        "id":35016
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Salzburger Stra\u00dfe 22a",
+        "zip_code":4690,
+        "locality":"Schwanenstadt",
+        "id":35017
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"M\u00f6bel Feichtenschlager GmbH",
+        "street":"Pfaffinger Stra\u00dfe 6",
+        "zip_code":4870,
+        "locality":"V\u00f6cklamarkt",
+        "id":35018
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Sembella GmbH - sembella Schlafkultur Orientierungspunkte f\u00fcr gesundes Liegen und Schlafen. Mit der Vielfalt innovativer Schlafsysteme. sembella Schlafkultur - die Matratze ist \u00fcberall.",
+        "street":"Aderstra\u00dfe 35",
+        "zip_code":4850,
+        "locality":"Timelkam",
+        "id":35019
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Standfest \"Wohnen im Bad\" Ges.m.b.H.",
+        "street":"Roith 2",
+        "zip_code":4849,
+        "locality":"Puchkirchen am Trattberg",
+        "id":35020
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Topalit GmbH",
+        "street":"Bahnhofstra\u00dfe 11",
+        "zip_code":4843,
+        "locality":"Ampflwang im Hausruckwald",
+        "id":35021
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Villeroy & Boch Austria GmbH",
+        "street":"Guggenbergstra\u00dfe 2",
+        "zip_code":5310,
+        "locality":"Tiefgraben",
+        "id":35022
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"ewe K\u00fcchen GmbH",
+        "street":"Dieselstra\u00dfe 14",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":35023
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Schweitzer Ladenbau GmbH",
+        "street":"Ginzkeystra\u00dfe 29",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":35024
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Andreas Bregenzer",
+        "street":"Moosanger 938",
+        "zip_code":6473,
+        "locality":"Wenns",
+        "id":35025
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Conform Badm\u00f6bel GmbH",
+        "street":"Brennbichl 60",
+        "zip_code":6460,
+        "locality":"Imst",
+        "id":35026
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Jewa Profi-Massm\u00f6bel GmbH - M\u00f6belfertigteilhersteller",
+        "street":"Gewerbepark 9",
+        "zip_code":6142,
+        "locality":"Mieders",
+        "id":35027
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Reichenauer Stra\u00dfe 19",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":35028
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"HAAPO 1910 GmbH",
+        "street":"Achenkirch 584",
+        "zip_code":6215,
+        "locality":"Achenkirch",
+        "id":35029
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Bundesstra\u00dfe 95",
+        "zip_code":6923,
+        "locality":"Lauterach",
+        "id":35030
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"SPAR \u00d6sterreichische Warenhandels-Aktiengesellschaft",
+        "street":"Wallenmahd 46",
+        "zip_code":6850,
+        "locality":"Dornbirn",
+        "id":35031
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Singerstra\u00dfe 27",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35032
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Stubenring 12",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35033
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Wiesner-Hager M\u00f6bel Gesellschaft m.b.H.",
+        "street":"Gonzagagasse 15",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35034
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Mariahilfer Stra\u00dfe 90",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":35035
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"Friedrich Otto Schmidt",
+        "street":"W\u00e4hringer Stra\u00dfe 28",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":35036
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Joka Kapsamer GmbH",
+        "street":"Sagedergasse 50",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":35037
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"sedda Polsterm\u00f6belwerke Hans Thalermaier GmbH",
+        "street":"Vorarlberger Allee 28",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":35038
+    },
+    {
+        "branche_layer_3":"M\u00f6belindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"St. Karasek & Co Gesellschaft m.b.H. & Co. KG",
+        "street":"Steinergasse (Liesing) 32",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":35039
+    }
+]

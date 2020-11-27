@@ -1,0 +1,3902 @@
+[
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Christian B\u00fcrger",
+        "street":"Buchscheiden 17",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":35521
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Michael Drothler",
+        "street":"Habichtweg 11",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":35522
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Johann Feichter",
+        "street":"Pfaffendorf 22",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":35523
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Gerhard Gailer",
+        "street":"Seeblick 20",
+        "zip_code":9554,
+        "locality":"St. Urban",
+        "id":35524
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Lammer Installationen GmbH",
+        "street":"Dobra 4",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":35525
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Hubert Ofner",
+        "street":"Am Waldrand 6",
+        "zip_code":9554,
+        "locality":"St. Urban",
+        "id":35526
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Johann Sallinger",
+        "street":"Friedlach-Gewerbepark 4",
+        "zip_code":9555,
+        "locality":"Glanegg",
+        "id":35527
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Reinhold Hackhofer - Spenglerei - Sanit\u00e4r - Heizung",
+        "street":"Klebas 31",
+        "zip_code":9653,
+        "locality":"Liesing im Lesachtal",
+        "id":35528
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Johannes Alexander Spie\u00df",
+        "street":"Kornat 19",
+        "zip_code":9652,
+        "locality":"Birnbaum",
+        "id":35529
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"\u0160aban Alibabic",
+        "street":"Keutschacher Stra\u00dfe 143",
+        "zip_code":9073,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35530
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Erra Installations-und Geb\u00e4udetechnik e.U.",
+        "street":"Heimgasse 18",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35531
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Oliver Gamper",
+        "street":"Siebenh\u00fcgelstra\u00dfe 128",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35532
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Gerald Jegg",
+        "street":"Adi Dassler Gasse 2",
+        "zip_code":9073,
+        "locality":"Klagenfurt-Viktring",
+        "id":35533
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Johann WANK & S\u00d6HNE Sanit\u00e4r- und Heizungsanlagen Gesellschaft m.b.H. - Wank & S\u00f6hne",
+        "street":"Inglitschstra\u00dfe 2",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35534
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"LPC Service GmbH",
+        "street":"Pischeldorfer Stra\u00dfe 120",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35535
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"J\u00f6rg Peyker - Rohrleitungsservice J\u00f6rg Peyker",
+        "street":"Bahnweg 43",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35536
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Ralf-Peter Proprentner",
+        "street":"Pischeldorfer Stra\u00dfe 93",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35537
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"SHM GmbH - SHM - Ihr Fachmarkt und Installateur f\u00fcr Heizung, Klima, Sanit\u00e4r in Klagenfurt",
+        "street":"Lodengasse 28",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35538
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Friedrich Robert Stadlober",
+        "street":"M\u00f6rtschenstra\u00dfe 72",
+        "zip_code":9061,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35539
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"\"UNSER LAGERHAUS\" WARENHANDELSGESELLSCHAFT m.b.H.",
+        "street":"S\u00fcdring 244",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35540
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"WET Wassertechnik GmbH",
+        "street":"Hirschstra\u00dfe 25",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":35541
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Peter Johann Adamitsch",
+        "street":"Brandnerweg 3",
+        "zip_code":9062,
+        "locality":"Moosburg in K\u00e4rnten",
+        "id":35542
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"BJ Haustechnik GmbH",
+        "street":"Klagenfurter Stra\u00dfe 15",
+        "zip_code":9170,
+        "locality":"Ferlach",
+        "id":35543
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Brandschutz GROSS GmbH",
+        "street":"Zettereier Stra\u00dfe 21",
+        "zip_code":9065,
+        "locality":"Ebenthal",
+        "id":35544
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Mijo Domic",
+        "street":"Moosburger Stra\u00dfe 107",
+        "zip_code":9210,
+        "locality":"P\u00f6rtschach am W\u00f6rther See",
+        "id":35545
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Wolfgang Drausnik",
+        "street":"Sekull 9",
+        "zip_code":9212,
+        "locality":"St. Martin am Techelsberg",
+        "id":35546
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Alfred Hudelist",
+        "street":"Thomas Koschat Stra\u00dfe 6",
+        "zip_code":9065,
+        "locality":"Ebenthal",
+        "id":35547
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Daniel Kovacevic",
+        "street":"Hauptstra\u00dfe 171",
+        "zip_code":9201,
+        "locality":"Krumpendorf",
+        "id":35548
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Werner Modestus Krakolinig, BA - Installationstechnik Krakolinig Heizung-L\u00fcftung-Sanit\u00e4r-Erneuerbare Energie",
+        "street":"Arndorf 23",
+        "zip_code":9212,
+        "locality":"St. Martin am Techelsberg",
+        "id":35549
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Hartwig Richard Krassnig",
+        "street":"Hauptplatz 13",
+        "zip_code":9170,
+        "locality":"Ferlach",
+        "id":35550
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Horst Kurath",
+        "street":"Preliebler Stra\u00dfe 11",
+        "zip_code":9071,
+        "locality":"K\u00f6ttmannsdorf",
+        "id":35551
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Langgner GmbH",
+        "street":"Waidischer Stra\u00dfe 15",
+        "zip_code":9170,
+        "locality":"Ferlach",
+        "id":35552
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Willibald Perdacher",
+        "street":"Schelesnitz 5",
+        "zip_code":9074,
+        "locality":"Keutschach",
+        "id":35553
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Franz Schinegger",
+        "street":"B\u00e4rndorf 28",
+        "zip_code":9062,
+        "locality":"Moosburg in K\u00e4rnten",
+        "id":35554
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Thomas Scheck Heizung-Sanit\u00e4r e. U.",
+        "street":"Lanzendorf 36",
+        "zip_code":9130,
+        "locality":"Poggersdorf",
+        "id":35555
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"TR Elektro-Haustechnik GmbH",
+        "street":"Froschendorf 7",
+        "zip_code":9131,
+        "locality":"Grafenstein",
+        "id":35556
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Peter Weratschnig",
+        "street":"Rain 34",
+        "zip_code":9130,
+        "locality":"Poggersdorf",
+        "id":35557
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Anton Wieser",
+        "street":"Oberkreuth 7",
+        "zip_code":9065,
+        "locality":"Ebenthal",
+        "id":35558
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Walter Wilhelmer",
+        "street":"Gupf 40",
+        "zip_code":9173,
+        "locality":"St. Margareten im Rosental",
+        "id":35559
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Valentin Zunder",
+        "street":"G\u00f6rtschitztalstra\u00dfe 121",
+        "zip_code":9064,
+        "locality":"Magdalensberg",
+        "id":35560
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Josef Zussner - Montage-Reparatur-Beratung",
+        "street":"St. Margarethen 19",
+        "zip_code":9074,
+        "locality":"Keutschach",
+        "id":35561
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"E.A Haustechnik e.U.",
+        "street":"Dr. Spitzer Siedlung 13",
+        "zip_code":9372,
+        "locality":"Eberstein",
+        "id":35562
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Miran Golob",
+        "street":"Knappenberg 9",
+        "zip_code":9376,
+        "locality":"Knappenberg",
+        "id":35563
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Valentin Kosche",
+        "street":"Ochsendorf 17",
+        "zip_code":9064,
+        "locality":"Pischeldorf",
+        "id":35564
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"G\u00fcnther Ruhrmann",
+        "street":"Holzerweg 2",
+        "zip_code":9334,
+        "locality":"Guttaring",
+        "id":35565
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Karl Salbrechter",
+        "street":"Thalsdorf 31",
+        "zip_code":9314,
+        "locality":"Launsdorf",
+        "id":35566
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Benjamin Sauritschnig",
+        "street":"Brugga 36",
+        "zip_code":9330,
+        "locality":"M\u00f6lbling",
+        "id":35567
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Stadtgemeinde St.Veit\/Glan - Wasserwerk",
+        "street":"Handelsstra\u00dfe 21",
+        "zip_code":9300,
+        "locality":"St.Veit an der Glan",
+        "id":35568
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Gerhard Brandst\u00e4tter",
+        "street":"Kalvarienberggasse 63",
+        "zip_code":9872,
+        "locality":"Millstatt",
+        "id":35569
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Canimar Schwimmbadtechnik GmbH - Canimar Schwimmbadtechnik GmbH",
+        "street":"Gewerbezeile 1",
+        "zip_code":9800,
+        "locality":"Spittal an der Drau",
+        "id":35570
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Arno Grell",
+        "street":"Obermillstatt 85",
+        "zip_code":9872,
+        "locality":"Millstatt",
+        "id":35571
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Dietmar Klammer",
+        "street":"Tannenweg 1",
+        "zip_code":9545,
+        "locality":"Radenthein",
+        "id":35572
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Gerhard Mayer",
+        "street":"Glanz 21\/2",
+        "zip_code":9773,
+        "locality":"Irschen",
+        "id":35573
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Bernd Nu\u00dfbaumer",
+        "street":"Am Pfarrfeld 26",
+        "zip_code":9851,
+        "locality":"Lieserbr\u00fccke",
+        "id":35574
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Harald Oberbucher",
+        "street":"Baldramsdorf 190",
+        "zip_code":9805,
+        "locality":"Baldramsdorf",
+        "id":35575
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Steiner CP GmbH",
+        "street":"Winklern 115",
+        "zip_code":9841,
+        "locality":"Winklern",
+        "id":35576
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"\"UNSER LAGERHAUS\" WARENHANDELSGESELLSCHAFT m.b.H.",
+        "street":"Bahnhofstra\u00dfe 2",
+        "zip_code":9812,
+        "locality":"Pusarnitz",
+        "id":35577
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Franz Wirnsberger",
+        "street":"Schlo\u00dfbichl 3",
+        "zip_code":9853,
+        "locality":"Gm\u00fcnd",
+        "id":35578
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Drasko Divljak",
+        "street":"Robert Musil Stra\u00dfe 5\/4",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35579
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Ilir Gashi",
+        "street":"Gr\u00fcnweg 3",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35580
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Franz Bernhard Grumeth - Grumeth Franz Bernhard",
+        "street":"V\u00f6lkendorfer Stra\u00dfe 90\/a",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35581
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Kaplenig GmbH - Kaplenig GmbH",
+        "street":"Tiroler Stra\u00dfe 75",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35582
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Dean Kurtovic",
+        "street":"Oberer Heidenweg 40",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35583
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Aleksandar Maric",
+        "street":"Treffner Stra\u00dfe 2",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35584
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"MIDZAN INSTALLATIONS GMBH",
+        "street":"Haydnstra\u00dfe 7",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35585
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Andreas Prohinigg",
+        "street":"Schm\u00f6lzingerweg 18",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35586
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Stadt Villach",
+        "street":"Klagenfurter Stra\u00dfe 66",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35587
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Techem Wassertechnik GmbH",
+        "street":"Italiener Stra\u00dfe 56",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35588
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Manfred Unterweger",
+        "street":"Dr. Semmelweis Stra\u00dfe 18",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35589
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Ingo Peter Wieltschnig",
+        "street":"St. Leonharder Stra\u00dfe 1",
+        "zip_code":9523,
+        "locality":"Villach-Landskron",
+        "id":35590
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"ALBERER - M\u00d6LLER OG",
+        "street":"Keutschacher Stra\u00dfe 96a",
+        "zip_code":9220,
+        "locality":"Velden am W\u00f6rther See",
+        "id":35591
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Reinhold Baumann",
+        "street":"Regenbogenweg 2",
+        "zip_code":9232,
+        "locality":"Rosegg",
+        "id":35592
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Alexander Gr\u00e4fitsch",
+        "street":"Rajacher Stra\u00dfe 44",
+        "zip_code":9220,
+        "locality":"Velden am W\u00f6rther See",
+        "id":35593
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Josef Hulko",
+        "street":"Riegersdorf 9",
+        "zip_code":9587,
+        "locality":"Riegersdorf",
+        "id":35594
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Peter Brandst\u00e4tter GmbH",
+        "street":"N\u00f6tsch 88",
+        "zip_code":9611,
+        "locality":"N\u00f6tsch im Gailtal",
+        "id":35595
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"PIPLAN Industrieanlagen Planungs- und Montagegesellschaft m.b.H. - Piplan Industrieanlagen Planungs- u.Montageges.m.b.H.",
+        "street":"Gewerbepark 56, P\u00f6llan",
+        "zip_code":9710,
+        "locality":"Feistritz an der Drau",
+        "id":35596
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"S&R Heizung&Sanit\u00e4r Schleicher OG",
+        "street":"Lilienweg 12",
+        "zip_code":9581,
+        "locality":"Ledenitzen",
+        "id":35597
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Stefan Schleicher",
+        "street":"Taubenwaldweg 9",
+        "zip_code":9232,
+        "locality":"Rosegg",
+        "id":35598
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Manfred Seebacher",
+        "street":"Alte Hauptstra\u00dfe 8",
+        "zip_code":9542,
+        "locality":"Afritz am See",
+        "id":35599
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Balthasar Stingl",
+        "street":"Tallach 41\/2",
+        "zip_code":9182,
+        "locality":"Maria Elend im Rosental",
+        "id":35600
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Widmann Sanit\u00e4r und Heizungstechnik GmbH",
+        "street":"St. Jakob im Rosental 90",
+        "zip_code":9184,
+        "locality":"St. Jakob im Rosental",
+        "id":35601
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Markus Winkler",
+        "street":"Mauthbr\u00fccken 4",
+        "zip_code":9701,
+        "locality":"Rothenthurn",
+        "id":35602
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Michael Wulz",
+        "street":"Gailbr\u00fcckenweg 7",
+        "zip_code":9585,
+        "locality":"G\u00f6dersdorf",
+        "id":35603
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Gerhard Wuzella",
+        "street":"Wildparkweg 4",
+        "zip_code":9232,
+        "locality":"Rosegg",
+        "id":35604
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Markus Gregoric",
+        "street":"Kleindorf 63",
+        "zip_code":9142,
+        "locality":"Globasnitz",
+        "id":35605
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Werner Otto Jernej",
+        "street":"Feld 4",
+        "zip_code":9132,
+        "locality":"Gallizien",
+        "id":35606
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Rudolf Kamnik",
+        "street":"W\u00f6lfnitzbachweg 3",
+        "zip_code":9112,
+        "locality":"Griffen",
+        "id":35607
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Jochen Bernd Legat",
+        "street":"Leppen 40",
+        "zip_code":9135,
+        "locality":"Bad Eisenkappel",
+        "id":35608
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Martin Polesnig GmbH",
+        "street":"V\u00f6lkermarkter Stra\u00dfe 14",
+        "zip_code":9150,
+        "locality":"Bleiburg",
+        "id":35609
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Bernhard Johannes Rebernig",
+        "street":"Lind 19",
+        "zip_code":9112,
+        "locality":"Griffen",
+        "id":35610
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"SIM Service - Installationen Malle KG",
+        "street":"Gablerner Stra\u00dfe 56",
+        "zip_code":9141,
+        "locality":"Eberndorf",
+        "id":35611
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"DHT GmbH - W\u00e4rmepumpe vom Profi",
+        "street":"Alte Stra\u00dfe 3",
+        "zip_code":9431,
+        "locality":"St.Stefan im Lavanttal",
+        "id":35612
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Michael Martin D\u00f6lder",
+        "street":"Elsenweg 2\/8",
+        "zip_code":9400,
+        "locality":"Wolfsberg",
+        "id":35613
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Ferlin GmbH",
+        "street":"Klagenfurter Stra\u00dfe 19",
+        "zip_code":9400,
+        "locality":"Wolfsberg",
+        "id":35614
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Ferlin GmbH",
+        "street":"Bahnhofstra\u00dfe 1",
+        "zip_code":9470,
+        "locality":"St. Paul im Lavanttal",
+        "id":35615
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Werner Michael Friesacher",
+        "street":"Prebl 63",
+        "zip_code":9461,
+        "locality":"Prebl",
+        "id":35616
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Marco Gonzi",
+        "street":"Achalm 24",
+        "zip_code":9473,
+        "locality":"Lavam\u00fcnd",
+        "id":35617
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"GW Tech Serv GmbH",
+        "street":"Preitenegg 103",
+        "zip_code":9451,
+        "locality":"Preitenegg",
+        "id":35618
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Holz Klade GmbH",
+        "street":"Auenfischerstra\u00dfe 61",
+        "zip_code":9400,
+        "locality":"Wolfsberg",
+        "id":35619
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"ICON INFRASTRUKTUR BAU GmbH",
+        "street":"Auenfischerstra\u00dfe 100",
+        "zip_code":9431,
+        "locality":"St.Stefan im Lavanttal",
+        "id":35620
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Installationstechnik Jauernig OG",
+        "street":"Granitztal-Wei\u00dfenegg 38",
+        "zip_code":9470,
+        "locality":"St. Paul im Lavanttal",
+        "id":35621
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Martin Gerhard Kainz",
+        "street":"Ro\u00dfhaltweg 2",
+        "zip_code":9400,
+        "locality":"Wolfsberg",
+        "id":35622
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Gerald Karl Kl\u00f6sch - Geh zu Kl\u00f6sch",
+        "street":"St. Jakober Stra\u00dfe 55",
+        "zip_code":9400,
+        "locality":"Wolfsberg",
+        "id":35623
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Kostmann GesmbH",
+        "street":"Burgstall 44",
+        "zip_code":9433,
+        "locality":"St. Andr\u00e4 im Lavanttal",
+        "id":35624
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"J\u00fcrgen Franz Leopold - LEO-TEC",
+        "street":"Th\u00fcrn 53",
+        "zip_code":9431,
+        "locality":"St. Stefan",
+        "id":35625
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Karl Heinz Marolt",
+        "street":"Am Gewerbepark 11",
+        "zip_code":9431,
+        "locality":"St. Stefan im Lavanttal",
+        "id":35626
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Andreas Niesl",
+        "street":"Dachberg 14\/1",
+        "zip_code":9422,
+        "locality":"Maria Rojach",
+        "id":35627
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"SHE POOLSANIERUNG LTD & CO. KG",
+        "street":"St. Andr\u00e4 98",
+        "zip_code":9433,
+        "locality":"St. Andr\u00e4",
+        "id":35628
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Hermann Gerhard Turni",
+        "street":"Oberauerling 25",
+        "zip_code":9451,
+        "locality":"Preitenegg",
+        "id":35629
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Johann Walzl",
+        "street":"Eitweg 177",
+        "zip_code":9421,
+        "locality":"Eitweg",
+        "id":35630
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"GEPA Trend GmbH",
+        "street":"Pollirm\u00fchlstra\u00dfe 35",
+        "zip_code":2442,
+        "locality":"Unterwaltersdorf",
+        "id":35631
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Philipp Kirchknopf",
+        "street":"G\u00e4rtnerei 10",
+        "zip_code":2444,
+        "locality":"Seibersdorf",
+        "id":35632
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Ren\u00e9 Sirowatka",
+        "street":"Licht\u00e4ckerstra\u00dfe 9a",
+        "zip_code":2522,
+        "locality":"Oberwaltersdorf",
+        "id":35633
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"UNION Logistik GmbH & Co KG",
+        "street":"Bergfeldweg 9",
+        "zip_code":2284,
+        "locality":"Untersiebenbrunn",
+        "id":35634
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Dorel Grigora\u0219",
+        "street":"Missongasse 38\/5",
+        "zip_code":3500,
+        "locality":"Krems an der Donau",
+        "id":35635
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"AOM Verwaltung & Vertrieb GmbH - AOM-IMMOBILIENTREUHAND",
+        "street":"Liesingtalstra\u00dfe 107",
+        "zip_code":2384,
+        "locality":"Breitenfurt bei Wien",
+        "id":35636
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Alfred Berger",
+        "street":"Waldstra\u00dfe 11\/2",
+        "zip_code":3124,
+        "locality":"Oberw\u00f6lbling",
+        "id":35637
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Solkav GmbH",
+        "street":"Heidenheimer Stra\u00dfe 55",
+        "zip_code":3100,
+        "locality":"St.P\u00f6lten",
+        "id":35638
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Zoran \u0160krobi\u0107",
+        "street":"Raimundgasse 18, T\u00fcr 1",
+        "zip_code":2601,
+        "locality":"Sollenau",
+        "id":35639
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Zolt\u00e1n S\u00fcveges",
+        "street":"Waldegg 51\/T\u00fcr 3",
+        "zip_code":2754,
+        "locality":"Waldegg",
+        "id":35640
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"GIA Austria GmbH",
+        "street":"Salzburger Stra\u00dfe 138",
+        "zip_code":5280,
+        "locality":"Braunau am Inn",
+        "id":35641
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"J\u00fcrgen Pr\u00fcwasser - Hausmeisterservice und Garten-Objetktbetreunug",
+        "street":"Reichsdorf 17",
+        "zip_code":5261,
+        "locality":"Helpfau-Uttendorf",
+        "id":35642
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Manfred Helmuth Wurhofer",
+        "street":"Gartensiedlung 21",
+        "zip_code":5224,
+        "locality":"Auerbach",
+        "id":35643
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Eferding",
+        "company_name":"SLA L\u00fcftungsreinigung GmbH",
+        "street":"Weinberg 16",
+        "zip_code":4731,
+        "locality":"Prambachkirchen",
+        "id":35644
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Markus Lang",
+        "street":"Sankt Peter 101",
+        "zip_code":4240,
+        "locality":"Waldburg",
+        "id":35645
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Stefan Loidl",
+        "street":"Offenseestra\u00dfe 93a",
+        "zip_code":4802,
+        "locality":"Ebensee",
+        "id":35646
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"mitech GmbH",
+        "street":"Traxenbichl 28",
+        "zip_code":4644,
+        "locality":"Scharnstein",
+        "id":35647
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Peter Klaus Rusnak",
+        "street":"Buchenstra\u00dfe 5",
+        "zip_code":4694,
+        "locality":"Ohlsdorf",
+        "id":35648
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Hy Bra Tec e.U.",
+        "street":"Gro\u00dfendorf 57b",
+        "zip_code":4551,
+        "locality":"Ried im Traunkreis",
+        "id":35649
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"ABL Abluftreinigung e.U.",
+        "street":"H\u00f6rzingerstra\u00dfe 72",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":35650
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Stefanie Bieber",
+        "street":"Unionstra\u00dfe 58",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":35651
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"G\u00fcvenc-Installationen gmbh",
+        "street":"Wiener Stra\u00dfe 300",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":35652
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Kacorraj KG",
+        "street":"Stadlerstra\u00dfe 31",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":35653
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Constantin Sebastian Sandu",
+        "street":"Kremsm\u00fcnsterer Stra\u00dfe 183",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":35654
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Katarina Vulin",
+        "street":"Himmelbergerstra\u00dfe 16",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":35655
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"W\u00e4rWas Installationen e.U.",
+        "street":"Knappenederweg 66",
+        "zip_code":4040,
+        "locality":"Linz",
+        "id":35656
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Georges Leonard Muca",
+        "street":"Leerwies 28a, T\u00fcr 1",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":35657
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Gattermaier Installationen GmbH",
+        "street":"Wolfau 7",
+        "zip_code":4973,
+        "locality":"Senftenbach",
+        "id":35658
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"H&G Montageservice OG",
+        "street":"Alter Berg 13",
+        "zip_code":4153,
+        "locality":"Peilstein im M\u00fchlviertel",
+        "id":35659
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Harald Leibetseder",
+        "street":"Pesenbachstra\u00dfe 29",
+        "zip_code":4172,
+        "locality":"St. Johann am Wimberg",
+        "id":35660
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Wolfgang Dubovski",
+        "street":"Freinberg 134, T\u00fcr 1",
+        "zip_code":4785,
+        "locality":"Freinberg",
+        "id":35661
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Christian Essl",
+        "street":"Waldkirchen 64",
+        "zip_code":4085,
+        "locality":"Waldkirchen am Wesen",
+        "id":35662
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Roman Eidinger",
+        "street":"Gro\u00dfmengersdorf 62",
+        "zip_code":4540,
+        "locality":"Bad Hall",
+        "id":35663
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Gassner GmbH",
+        "street":"Betriebsstra\u00dfe 6",
+        "zip_code":4523,
+        "locality":"Sierning",
+        "id":35664
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Gebr\u00fcder Haider, Bauunternehmung Gesellschaft m.b.H.",
+        "street":"Gro\u00dframing 40",
+        "zip_code":4463,
+        "locality":"Gro\u00dframing",
+        "id":35665
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"rabmer Bau & Umwelttechnik GmbH",
+        "street":"Bruckbachweg 23",
+        "zip_code":4203,
+        "locality":"Altenberg bei Linz",
+        "id":35666
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Rohrexpress e.U. - Rohrreinigung",
+        "street":"Schwemmweg 23",
+        "zip_code":4211,
+        "locality":"Alberndorf in der Riedmark",
+        "id":35667
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Solide Installations GmbH",
+        "street":"Gewerbepark 1",
+        "zip_code":4192,
+        "locality":"Schenkenfelden",
+        "id":35668
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Ovidiu-Calin Bala",
+        "street":"Tegetthoffstra\u00dfe 5a, T\u00fcr 56",
+        "zip_code":4840,
+        "locality":"V\u00f6cklabruck",
+        "id":35669
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Daniel Benza",
+        "street":"Hochrain 35",
+        "zip_code":4842,
+        "locality":"Zell am Pettenfirst",
+        "id":35670
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Christoph Emeder",
+        "street":"Pabing 1",
+        "zip_code":4881,
+        "locality":"Stra\u00df im Attergau",
+        "id":35671
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Karl Klenner",
+        "street":"D\u00fcrnauer Stra\u00dfe 47",
+        "zip_code":4840,
+        "locality":"V\u00f6cklabruck",
+        "id":35672
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Stefan Szabo",
+        "street":"Hueb 26, T\u00fcr 8",
+        "zip_code":4902,
+        "locality":"Wolfsegg am Hausruck",
+        "id":35673
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Steffen Rene Vana",
+        "street":"Werksweg 3",
+        "zip_code":4864,
+        "locality":"Attersee am Attersee",
+        "id":35674
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Hermann Dichtl",
+        "street":"Straubinger Stra\u00dfe 15",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":35675
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Roman Josef Krumphuber",
+        "street":"Gr\u00fcnbach 26a",
+        "zip_code":4623,
+        "locality":"Gunskirchen",
+        "id":35676
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"TB-Limbacher GmbH - Technisches B\u00fcro Limbacher GmbH",
+        "street":"Siemensstra\u00dfe 4",
+        "zip_code":4614,
+        "locality":"Marchtrenk",
+        "id":35677
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Lars Viebig",
+        "street":"Littring 34\/7",
+        "zip_code":4653,
+        "locality":"Eberstalzell",
+        "id":35678
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"HASAG Service GmbH",
+        "street":"Wiestalstra\u00dfe 12",
+        "zip_code":5411,
+        "locality":"Oberalm",
+        "id":35679
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Georg Seidl",
+        "street":"Kellau 155",
+        "zip_code":5431,
+        "locality":"Kuchl",
+        "id":35680
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Christian Feil",
+        "street":"Glaserstra\u00dfe 10A",
+        "zip_code":5026,
+        "locality":"Salzburg",
+        "id":35681
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Robert F\u00fcssl - Sanit\u00e4rinstallationen-Gas-Heizungen",
+        "street":"H\u00f6glw\u00f6rthweg 29",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35682
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Andreas H\u00e4mmerle",
+        "street":"Amselstra\u00dfe 7",
+        "zip_code":5023,
+        "locality":"Salzburg",
+        "id":35683
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Ing. Rupert Weiser Haustechnik GmbH",
+        "street":"F\u00fcrbergstra\u00dfe 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35684
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Markus Michael Kasinger",
+        "street":"Quellenweg 7",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35685
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Nagl Sanit\u00e4r- und Heizungsinstallationsgesellschaft m.b.H.",
+        "street":"Austra\u00dfensiedlung 25",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35686
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Hagenau 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35687
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Skopec Elektro-Wasser- und Heizungsinstallationen Gesellschaft m.b.H.",
+        "street":"Werner-v.-Siemens-Platz 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35688
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Techem Messtechnik GmbH",
+        "street":"Hannakstra\u00dfe 21",
+        "zip_code":5023,
+        "locality":"Salzburg",
+        "id":35689
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"ALFATOP OG",
+        "street":"Rosenweg 5",
+        "zip_code":5301,
+        "locality":"Eugendorf",
+        "id":35690
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Wilhelm Brugger",
+        "street":"D\u00f6bringstra\u00dfe 22",
+        "zip_code":5300,
+        "locality":"Hallwang",
+        "id":35691
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Dr. Ing. Franz B\u00f6hm, Erzeugung chem. Produkte Gesellschaft m.b.H.",
+        "street":"Handelszentrum 7",
+        "zip_code":5101,
+        "locality":"Bergheim bei Salzburg",
+        "id":35692
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Helmut Eisl",
+        "street":"Pater-Stefan-Stra\u00dfe 17",
+        "zip_code":5061,
+        "locality":"Elsbethen",
+        "id":35693
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Eisl-Sanit\u00e4r-Gesellschaft m.b.H.",
+        "street":"Himmelreich 1",
+        "zip_code":5071,
+        "locality":"Salzburg",
+        "id":35694
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Manfred Kahr",
+        "street":"Kapellenstra\u00dfe 2",
+        "zip_code":5302,
+        "locality":"Henndorf am Wallersee",
+        "id":35695
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Ronge GmbH",
+        "street":"Lohm\u00fchle 11 a",
+        "zip_code":5324,
+        "locality":"Faistenau",
+        "id":35696
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"s.nahwaerme.at Energiecontracting GmbH",
+        "street":"Brunnbachweg 70",
+        "zip_code":5303,
+        "locality":"Thalgau",
+        "id":35697
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Lukas Mario Aita",
+        "street":"H\u00fcttau 25",
+        "zip_code":5511,
+        "locality":"H\u00fcttau",
+        "id":35698
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Erwin Ammerer",
+        "street":"Hofmark 8",
+        "zip_code":5602,
+        "locality":"Wagrain",
+        "id":35699
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Anton Bauer",
+        "street":"B\u00f6cksteiner Bundesstra\u00dfe 8",
+        "zip_code":5640,
+        "locality":"Bad Gastein",
+        "id":35700
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Ernst Fasching",
+        "street":"Nr. 322",
+        "zip_code":5640,
+        "locality":"Bad Gastein",
+        "id":35701
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Kreuzberger & Hauser Energietechnik GmbH",
+        "street":"Werksgel\u00e4nde 25",
+        "zip_code":5500,
+        "locality":"Bischofshofen",
+        "id":35702
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Slavko Mari\u0107",
+        "street":"Salzachweg 12",
+        "zip_code":5600,
+        "locality":"Sankt Johann im Pongau",
+        "id":35703
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Michael Neureiter GmbH",
+        "street":"H\u00f6ggenstra\u00dfe 54",
+        "zip_code":5550,
+        "locality":"Radstadt",
+        "id":35704
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Bernhard Pichler",
+        "street":"Harbach 47",
+        "zip_code":5630,
+        "locality":"Bad Hofgastein",
+        "id":35705
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"VitaMonte GmbH",
+        "street":"Niedernfritzerstra\u00dfe 120",
+        "zip_code":5531,
+        "locality":"Eben im Pongau",
+        "id":35706
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"STEINWENDER INSTALLATIONSGESELLSCHAFT mbH & Co KG - GEB\u00c4UDETECHNIK - Sanit\u00e4r \/ Heizung \/ L\u00fcftung",
+        "street":"Johann-Kopfm\u00fcller-Stra\u00dfe 3",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":35707
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Anton Eder GmbH",
+        "street":"Weyerstra\u00dfe 350",
+        "zip_code":5733,
+        "locality":"Bramberg am Wildkogel",
+        "id":35708
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Josef Buchner - Josef Buchner Installationen",
+        "street":"Nr. 39",
+        "zip_code":5722,
+        "locality":"Niedernsill",
+        "id":35709
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Hermann Vogl Ges.m.b.H. & Co KG",
+        "street":"Loferer Bundesstra\u00dfe 20",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":35710
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Otmar M\u00fcllauer KG",
+        "street":"Loferer Bundesstra\u00dfe 989",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":35711
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Nedeljko Basic",
+        "street":"Margarete-Sch\u00fctte-Lihotzky-Siedlung 5\/39",
+        "zip_code":8605,
+        "locality":"Kapfenberg",
+        "id":35712
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Erwin Fuchs B\u00e4derstudio Heizungs- und Sanit\u00e4rbau Ges.m.b.H. - Kapfenberg",
+        "street":"Wiener Stra\u00dfe 122",
+        "zip_code":8605,
+        "locality":"Kapfenberg",
+        "id":35713
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Johannes Gurdet",
+        "street":"Stanz i.M. 51",
+        "zip_code":8653,
+        "locality":"Stanz im M\u00fcrztal",
+        "id":35714
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Paul Klaudius Josef Gurdet",
+        "street":"Edelsdorf 106",
+        "zip_code":8643,
+        "locality":"Allerheiligen im M\u00fcrztal",
+        "id":35715
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Korak GmbH",
+        "street":"Grazer Stra\u00dfe 23",
+        "zip_code":8665,
+        "locality":"Langenwang",
+        "id":35716
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Gerhard Klaus Kothgassner",
+        "street":"Untertal 65",
+        "zip_code":8611,
+        "locality":"Untertal",
+        "id":35717
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Richard Jun. Kvatschek - Kvatschek Richard",
+        "street":"St. Katharein an der Laming 52, T\u00fcr 1",
+        "zip_code":8611,
+        "locality":"Sankt Katharein an der Laming",
+        "id":35718
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Peter Sch\u00f6ggl Gesellschaft m.b.H.",
+        "street":"Hauptstra\u00dfe 70",
+        "zip_code":8641,
+        "locality":"St. Marein im M\u00fcrztal",
+        "id":35719
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Steinwender Installations-Gesellschaft m.b.H.",
+        "street":"Wienerstra\u00dfe 59",
+        "zip_code":8605,
+        "locality":"Kapfenberg",
+        "id":35720
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Horst Kurt Ehmann",
+        "street":"Trah\u00fctten 44",
+        "zip_code":8530,
+        "locality":"Deutschlandsberg",
+        "id":35721
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"F&K Rohrreinigung OG",
+        "street":"Hauptstra\u00dfe 83",
+        "zip_code":8502,
+        "locality":"Heuholz",
+        "id":35722
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Franz Wre\u00dfnig GmbH & Co KG",
+        "street":"Grazerstra\u00dfe 14",
+        "zip_code":8522,
+        "locality":"Gro\u00df Sankt Florian",
+        "id":35723
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Gitec Geb\u00e4udetechnik GmbH",
+        "street":"Gewerbepark West 2",
+        "zip_code":8504,
+        "locality":"Preding",
+        "id":35724
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Johann Reiterer Gesellschaft m.b.H.",
+        "street":"Bundesstra\u00dfe 15",
+        "zip_code":8541,
+        "locality":"Schwanberg",
+        "id":35725
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Lagerhaus Gleinst\u00e4tten-Ehrenhausen-Wies eGen - LGH WIES",
+        "street":"Am Bahnhof 4",
+        "zip_code":8551,
+        "locality":"Wies",
+        "id":35726
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"SANCAR - Wolfgang Sattinger KG",
+        "street":"Gundersdorf 38A",
+        "zip_code":8511,
+        "locality":"St. Stefan ob Stainz",
+        "id":35727
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Pierre Schnabl",
+        "street":"Ing.-Hubert-Zingler-Stra\u00dfe 9, T\u00fcr 30",
+        "zip_code":8530,
+        "locality":"Deutschlandsberg",
+        "id":35728
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"TEC Thermic Energiesystems & Consulting KG",
+        "street":"Aibl 191",
+        "zip_code":8552,
+        "locality":"Eibiswald",
+        "id":35729
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Zinell, Wasser- und Heizungsinstallationen KG.",
+        "street":"Obere Schmiedgasse 1",
+        "zip_code":8530,
+        "locality":"Deutschlandsberg",
+        "id":35730
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Muhamed Berbic",
+        "street":"Puchstra\u00dfe 34",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":35731
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Br\u00fcder Thumfort Gesellschaft m.b.H.",
+        "street":"Puchstra\u00dfe 164",
+        "zip_code":8055,
+        "locality":"Graz",
+        "id":35732
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"CPA Building & Factory Technologies GmbH",
+        "street":"Lagergasse 322",
+        "zip_code":8055,
+        "locality":"Graz",
+        "id":35733
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Ebner & Spuller GmbH",
+        "street":"Liebenauer G\u00fcrtel 10",
+        "zip_code":8041,
+        "locality":"Graz",
+        "id":35734
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Georg Glatz",
+        "street":"Vaterdorfstra\u00dfe 35\/1",
+        "zip_code":8041,
+        "locality":"Graz",
+        "id":35735
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Erich Golob",
+        "street":"Rainleiten 44",
+        "zip_code":8045,
+        "locality":"Graz",
+        "id":35736
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"HKLS Stering Haustechnik GmbH",
+        "street":"St.-Peter-Hauptstra\u00dfe 232",
+        "zip_code":8042,
+        "locality":"Graz",
+        "id":35737
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Holding Graz - Kommunale Dienstleistungen GmbH - Holding Graz",
+        "street":"Andreas-Hofer-Platz 15",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":35738
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Hoval Gesellschaft m.b.H. - Hoval Regionalcenter S\u00fcd",
+        "street":"Messendorferstra\u00dfe 6",
+        "zip_code":8041,
+        "locality":"Graz-Liebenau",
+        "id":35739
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Anton Juric - Heizungs- und Sanit\u00e4rtechnik",
+        "street":"Ragnitzstra\u00dfe 91",
+        "zip_code":8047,
+        "locality":"Graz",
+        "id":35740
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Melletz Installationen e.U.",
+        "street":"Eichenweg 5",
+        "zip_code":8042,
+        "locality":"Graz",
+        "id":35741
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"L\u00f3r\u00e1nt Nagybali",
+        "street":"Klusemannstra\u00dfe 34a, T\u00fcr 2",
+        "zip_code":8053,
+        "locality":"Graz",
+        "id":35742
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Sauseng Installationen GmbH",
+        "street":"Harter Stra\u00dfe 122",
+        "zip_code":8053,
+        "locality":"Graz",
+        "id":35743
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"SEWIS GmbH",
+        "street":"Herrgottwiesgasse 125",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":35744
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Karl-Heinz Speiser",
+        "street":"Peter-Rosegger-Stra\u00dfe 42a\/1",
+        "zip_code":8053,
+        "locality":"Graz",
+        "id":35745
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Techem Messtechnik GmbH",
+        "street":"Casalgasse 3",
+        "zip_code":8041,
+        "locality":"Graz",
+        "id":35746
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"TOP Wasser- und Schwimmbadtechnik GmbH",
+        "street":"Herrgottwiesgasse 125",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":35747
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"BRUGGER Entfeuchtungs- & Kanaltechnik GmbH",
+        "street":"Hauptstra\u00dfe 154",
+        "zip_code":8077,
+        "locality":"G\u00f6ssendorf",
+        "id":35748
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Dipl.Ing. Anton Hofst\u00e4tter Gesellschaft m.b.H.",
+        "street":"Werschweg 8",
+        "zip_code":8054,
+        "locality":"Seiersberg",
+        "id":35749
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"eco-san gmbh",
+        "street":"Hofgasse 8",
+        "zip_code":8501,
+        "locality":"Spatenhof",
+        "id":35750
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Robert Hatzl",
+        "street":"Lembachweg 3, T\u00fcr 1",
+        "zip_code":8063,
+        "locality":"H\u00f6f",
+        "id":35751
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Haustechnik Schinnerl GesmbH",
+        "street":"Grazer Stra\u00dfe 155a",
+        "zip_code":8062,
+        "locality":"Kumberg",
+        "id":35752
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Erwin Heric",
+        "street":"Hangweg 8",
+        "zip_code":8142,
+        "locality":"Wundschuh",
+        "id":35753
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Installationen Haas GmbH",
+        "street":"Grazer Stra\u00dfe 45b",
+        "zip_code":8062,
+        "locality":"Rabnitz",
+        "id":35754
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Milan Jankovic",
+        "street":"Judendorfstra\u00dfe 96",
+        "zip_code":8071,
+        "locality":"Hausmannst\u00e4tten",
+        "id":35755
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Kahr & Kahr Installation GmbH",
+        "street":"Schemerlh\u00f6he 15",
+        "zip_code":8302,
+        "locality":"Nestelbach bei Graz",
+        "id":35756
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"KBE HAUSTECHNIK GMBH",
+        "street":"Hauptstra\u00dfe 148",
+        "zip_code":8301,
+        "locality":"La\u00dfnitzh\u00f6he",
+        "id":35757
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Nenad Klaic",
+        "street":"Hundsdorf 115",
+        "zip_code":8111,
+        "locality":"Hundsdorf",
+        "id":35758
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Kreativ-Bad Prommer e.U.",
+        "street":"Packer Stra\u00dfe 122",
+        "zip_code":8501,
+        "locality":"Lieboch",
+        "id":35759
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Gerhard Alois Lackner",
+        "street":"S\u00f6dingberg 5",
+        "zip_code":8561,
+        "locality":"S\u00f6dingberg",
+        "id":35760
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"LOCDRY GmbH",
+        "street":"Panoramaweg 8",
+        "zip_code":8101,
+        "locality":"Kirchenviertl",
+        "id":35761
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Mario Ogrisek",
+        "street":"Stiwoll 236",
+        "zip_code":8113,
+        "locality":"Stiwoll",
+        "id":35762
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Thomas Pichler - INSTALLATEUR - PICHLER",
+        "street":"K\u00fchlenbrunn 42",
+        "zip_code":8076,
+        "locality":"Vasoldsberg",
+        "id":35763
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Ulrich Klaus Stadler",
+        "street":"Hofweinzierl 2",
+        "zip_code":8121,
+        "locality":"Deutschfeistritz",
+        "id":35764
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Udo Marchel Installation e.U.",
+        "street":"St. Bartholom\u00e4 104",
+        "zip_code":8151,
+        "locality":"St.Bartholom\u00e4",
+        "id":35765
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"W. Paulus Gesellschaft m.b.H.",
+        "street":"Dietersdorf 45",
+        "zip_code":8142,
+        "locality":"Zwaring-P\u00f6ls",
+        "id":35766
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Gr\u00f6bming",
+        "company_name":"Franz Matthias Gewessler",
+        "street":"Mitterberger Stra\u00dfe 590",
+        "zip_code":8962,
+        "locality":"Gr\u00f6bming",
+        "id":35767
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Gr\u00f6bming",
+        "company_name":"Erhard Ferdinand Trinker",
+        "street":"Warterdorf 132",
+        "zip_code":8974,
+        "locality":"Pichl-Preunegg",
+        "id":35768
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Roland Fuchs",
+        "street":"Kaibing 11, T\u00fcr 1",
+        "zip_code":8222,
+        "locality":"Kaibing",
+        "id":35769
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Gebro-Tech. GmbH - Geb\u00e4ude- und Rohrleitungstechnik",
+        "street":"Gewerbepark Greinbach West 270",
+        "zip_code":8230,
+        "locality":"Penzendorf",
+        "id":35770
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Ing. Reinhold Josef G\u00f6lles",
+        "street":"Zeil b. St. 41",
+        "zip_code":8223,
+        "locality":"Stubenberg am See",
+        "id":35771
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Johann Gro\u00df",
+        "street":"Leithen 6",
+        "zip_code":8262,
+        "locality":"Ilz",
+        "id":35772
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"H. Handler Gesellschaft m.b.H. - H.Handler Ges.m.b.H",
+        "street":"Oberlungitz 68",
+        "zip_code":8230,
+        "locality":"Oberlungitz",
+        "id":35773
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Josef Koch - Sanit\u00e4r - Heizung - Alternativenergie",
+        "street":"Sebersdorf, Wagenhals 41",
+        "zip_code":8271,
+        "locality":"Waltersdorf in Oststeiermark",
+        "id":35774
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Helmut Wagner",
+        "street":"Kirchenviertel 126",
+        "zip_code":8255,
+        "locality":"St. Jakob",
+        "id":35775
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Gerhard Josef Bochel",
+        "street":"Unterhaag 99a",
+        "zip_code":8455,
+        "locality":"Oberhaag",
+        "id":35776
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"H2O Umwelttechnik GmbH - ehem. IngH2O Wassertechnik",
+        "street":"Gewerbepark 4",
+        "zip_code":8434,
+        "locality":"Tillmitsch",
+        "id":35777
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Hans Christian H\u00f6rmann",
+        "street":"Fantsch 6",
+        "zip_code":8443,
+        "locality":"Fantsch",
+        "id":35778
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Pratter GmbH",
+        "street":"Pleysteinplatz 402",
+        "zip_code":8462,
+        "locality":"Gamlitz",
+        "id":35779
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"\u00dclk\u00fc Caliskan",
+        "street":"Homanngasse 20",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":35780
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"FINK Installationen GmbH",
+        "street":"Pestalozzistra\u00dfe 63",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":35781
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Haidn Gesellschaft m.b.H.",
+        "street":"Vordernbergerstra\u00dfe 5",
+        "zip_code":8790,
+        "locality":"Eisenerz",
+        "id":35782
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Karl-Heinz Reisenhofer",
+        "street":"Grabenstra\u00dfe 25d",
+        "zip_code":8712,
+        "locality":"Niklasdorf",
+        "id":35783
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"SecoSan GmbH",
+        "street":"Fichtenstra\u00dfe 79, T\u00fcr 3",
+        "zip_code":8790,
+        "locality":"Eisenerz",
+        "id":35784
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Stadtgemeinde Leoben",
+        "street":"Kerpelystra\u00dfe 21",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":35785
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Stadtwerke Trofaiach Gesellschaft m.b.H.",
+        "street":"Luchinettigasse 9",
+        "zip_code":8793,
+        "locality":"Trofaiach",
+        "id":35786
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Maximilian Lautner",
+        "street":"Hauptstra\u00dfe 32",
+        "zip_code":8786,
+        "locality":"Rottenmann",
+        "id":35787
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Thomas Gaisberger GmbH",
+        "street":"Bahnhofstra\u00dfe 57",
+        "zip_code":8990,
+        "locality":"Bad Aussee",
+        "id":35788
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"Ida Maria Samberger",
+        "street":"Ranten 10",
+        "zip_code":8853,
+        "locality":"Ranten",
+        "id":35789
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Peter Leitner",
+        "street":"Schulgasse 5",
+        "zip_code":8755,
+        "locality":"St. Peter ob Judenburg",
+        "id":35790
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Rupert \u00d6ffl",
+        "street":"Zirbengasse 2",
+        "zip_code":8762,
+        "locality":"Oberzeiring",
+        "id":35791
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Walter Reiter",
+        "street":"St. Georgen ob Judenburg 121",
+        "zip_code":8756,
+        "locality":"St. Georgen ob Judenburg",
+        "id":35792
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Johann Hermann Richter",
+        "street":"Graden 47",
+        "zip_code":8731,
+        "locality":"Gaal",
+        "id":35793
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Schlapschy GmbH & Co KG - Gas - Wasser - Heizung - Sonnenenergie und Klimaanlagen",
+        "street":"Oberweg 11",
+        "zip_code":8740,
+        "locality":"Zeltweg",
+        "id":35794
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Stadtwerke Judenburg Aktiengesellschaft - Stadtwerke Judenburg AG",
+        "street":"Burggasse 15",
+        "zip_code":8750,
+        "locality":"Judenburg",
+        "id":35795
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"G\u00fcnter Wogrin",
+        "street":"Esperantostra\u00dfe 16",
+        "zip_code":8720,
+        "locality":"Knittelfeld",
+        "id":35796
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"AQUA POWER Wasservitalisierungsger\u00e4te GmbH - Aqua Power Group - Wassertechnik - Innsan Badsanierung",
+        "street":"Kittenbach 14",
+        "zip_code":8082,
+        "locality":"Zerlach",
+        "id":35797
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"C + M Sch\u00f6llauf Installationen OG",
+        "street":"Frutten 75",
+        "zip_code":8354,
+        "locality":"St.Anna\/Aigen",
+        "id":35798
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Der Koihof OG",
+        "street":"Ratschendorf 66",
+        "zip_code":8483,
+        "locality":"Ratschendorf",
+        "id":35799
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Frauwallner Wasser & W\u00e4rme GmbH",
+        "street":"Steinbach 69",
+        "zip_code":8344,
+        "locality":"Bad Gleichenberg",
+        "id":35800
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Hirnschall GmbH",
+        "street":"Fischa 36",
+        "zip_code":8342,
+        "locality":"Fischa",
+        "id":35801
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"G\u00fcnther H\u00f6dl",
+        "street":"Perlsdorf 92",
+        "zip_code":8342,
+        "locality":"Perlsdorf",
+        "id":35802
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Horwath & Bodenlenz Elektrotechnik Sanit\u00e4r, B\u00e4der, Heizung GesmbH",
+        "street":"Deutsch Goritz 113",
+        "zip_code":8483,
+        "locality":"Deutsch Goritz",
+        "id":35803
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Josef Franz Karlin",
+        "street":"Ungerdorf 23",
+        "zip_code":8091,
+        "locality":"Jagerberg",
+        "id":35804
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Harald Konrad",
+        "street":"Hart bei Straden 45",
+        "zip_code":8345,
+        "locality":"Straden",
+        "id":35805
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Harald Legenstein",
+        "street":"Neusiedlung 21",
+        "zip_code":8330,
+        "locality":"Feldbach",
+        "id":35806
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Michael Johann Lienhart",
+        "street":"Petersdorf I 14",
+        "zip_code":8350,
+        "locality":"Petersdorf I",
+        "id":35807
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Gerhard Marbler",
+        "street":"Laasen 30",
+        "zip_code":8355,
+        "locality":"Laasen",
+        "id":35808
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Florian Schober",
+        "street":"Hochstraden 2a",
+        "zip_code":8354,
+        "locality":"Hochstraden",
+        "id":35809
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Christoph Josef Schuster",
+        "street":"Patzen 32a",
+        "zip_code":8355,
+        "locality":"Patzen",
+        "id":35810
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Josef Sp\u00f6rk",
+        "street":"Mitterfladnitz 155",
+        "zip_code":8311,
+        "locality":"Eichk\u00f6gl",
+        "id":35811
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Wilhelm Stoff",
+        "street":"Bahnhofstra\u00dfe 10a",
+        "zip_code":8350,
+        "locality":"Fehring",
+        "id":35812
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Andreas Stradner",
+        "street":"Zerlach 87",
+        "zip_code":8082,
+        "locality":"Zerlach",
+        "id":35813
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Thier Haustechnik-Installationen GmbH",
+        "street":"Gleichenberger Stra\u00dfe 35",
+        "zip_code":8330,
+        "locality":"Feldbach",
+        "id":35814
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Manfred Unger",
+        "street":"Bairisch K\u00f6lldorf 355",
+        "zip_code":8344,
+        "locality":"Bairisch K\u00f6lldorf",
+        "id":35815
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Dietmar August Wallner",
+        "street":"Paurach 55",
+        "zip_code":8332,
+        "locality":"Paurach",
+        "id":35816
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"WasserverbandWasserversorgung Vulkanland",
+        "street":"Bahnhofstra\u00dfe 20B",
+        "zip_code":8350,
+        "locality":"Fehring",
+        "id":35817
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"WLS lecksuche.at e.U.",
+        "street":"Kirchbach in Steiermark 262",
+        "zip_code":8082,
+        "locality":"Kirchbach in Steiermark",
+        "id":35818
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Wurzinger Installations GmbH",
+        "street":"Zehensdorf 18",
+        "zip_code":8092,
+        "locality":"Mettersdorf am Sa\u00dfbach",
+        "id":35819
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Heribert Gsodam",
+        "street":"Keilgasse 3",
+        "zip_code":8580,
+        "locality":"K\u00f6flach",
+        "id":35820
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"HKS Haus- und K\u00fcchenservice GmbH",
+        "street":"Krottendorf 242",
+        "zip_code":8564,
+        "locality":"Krottendorf-Gaisfeld",
+        "id":35821
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Patrick Alexander M\u00fcller",
+        "street":"Peter Leitner-Siedlung 15b",
+        "zip_code":8572,
+        "locality":"B\u00e4rnbach",
+        "id":35822
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"NE\u00dfHOLD GmbH",
+        "street":"Weidenweg 2",
+        "zip_code":8580,
+        "locality":"K\u00f6flach",
+        "id":35823
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Adolf Sommer",
+        "street":"Lankowitzerstra\u00dfe 305",
+        "zip_code":8591,
+        "locality":"Maria Lankowitz",
+        "id":35824
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Stadtwerke Voitsberg GmbH",
+        "street":"Hauptplatz 35",
+        "zip_code":8570,
+        "locality":"Voitsberg",
+        "id":35825
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Tecusan e.U.",
+        "street":"Rubmannsberg 7",
+        "zip_code":8562,
+        "locality":"Rubmannsberg",
+        "id":35826
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Wolfgang Kurt Treppe",
+        "street":"Hauptstra\u00dfe 255, T\u00fcr 20",
+        "zip_code":8591,
+        "locality":"Maria Lankowitz",
+        "id":35827
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Wasserverband S\u00f6ding-Lieboch",
+        "street":"Alte Bundesstra\u00dfe 4",
+        "zip_code":8561,
+        "locality":"Kleins\u00f6ding",
+        "id":35828
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"BAH Heizungstechnik GmbH",
+        "street":"Sulz 170 (B\u00fcrocontainer)",
+        "zip_code":8321,
+        "locality":"Sulz",
+        "id":35829
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Ioan Pavel Bica",
+        "street":"Sandgasse 16",
+        "zip_code":8160,
+        "locality":"Weiz",
+        "id":35830
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Martin Johann Essl",
+        "street":"Fladnitz\/Teichalm 70\/1",
+        "zip_code":8163,
+        "locality":"Fladnitz an der Teichalm",
+        "id":35831
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Karl Glaser",
+        "street":"Fradenbergstra\u00dfe 71, T\u00fcr 2",
+        "zip_code":8160,
+        "locality":"Peesen",
+        "id":35832
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Ing. Reinhold Josef G\u00f6lles",
+        "street":"Pischelsdorf 51 (B\u00fcro und Lager)",
+        "zip_code":8212,
+        "locality":"Pischelsdorf in der Steiermark",
+        "id":35833
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Hack Gesellschaft m.b.H.",
+        "street":"Roseggerstra\u00dfe 6, T\u00fcr 1",
+        "zip_code":8184,
+        "locality":"Anger",
+        "id":35834
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Heckele GmbH",
+        "street":"Sulz 170",
+        "zip_code":8321,
+        "locality":"Sulz",
+        "id":35835
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Johann Wilfling Bau GmbH & Co KG",
+        "street":"Egelsdorf 11",
+        "zip_code":8261,
+        "locality":"Egelsdorf",
+        "id":35836
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Klimatech Handels- und Service GmbH",
+        "street":"Energiestra\u00dfe 5",
+        "zip_code":8160,
+        "locality":"Weiz",
+        "id":35837
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Franz Krogger",
+        "street":"Strallegg 7",
+        "zip_code":8192,
+        "locality":"Strallegg",
+        "id":35838
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Gloria Pendl",
+        "street":"Naas-Graben 15",
+        "zip_code":8160,
+        "locality":"Naas",
+        "id":35839
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Perl Gesellschaft m.b.H.",
+        "street":"Franz-Perl-Stra\u00dfe 1",
+        "zip_code":8200,
+        "locality":"Gleisdorf",
+        "id":35840
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Ing. Robert Martin Schaffernack",
+        "street":"Krottendorfgasse 46a",
+        "zip_code":8160,
+        "locality":"Weiz",
+        "id":35841
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Stadtwerke Gleisdorf GmbH",
+        "street":"Gartengasse 36",
+        "zip_code":8200,
+        "locality":"Gleisdorf",
+        "id":35842
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Matthias Peter Zink",
+        "street":"Nitscha 43",
+        "zip_code":8200,
+        "locality":"Nitscha",
+        "id":35843
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Stefan Egger - Egger Stefan \u00d6l und Gasbrennerservice",
+        "street":"Mitterweg 30",
+        "zip_code":6421,
+        "locality":"Rietz",
+        "id":35844
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Alpen Modul GmbH",
+        "street":"Gewerbegebiet 44",
+        "zip_code":6103,
+        "locality":"Reith bei Seefeld",
+        "id":35845
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"HALLAG Kommunal GmbH",
+        "street":"Augasse 6",
+        "zip_code":6060,
+        "locality":"Hall in Tirol",
+        "id":35846
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Inntal Montage e.U.",
+        "street":"Bahnstra\u00dfe 12b",
+        "zip_code":6402,
+        "locality":"Hatting",
+        "id":35847
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"SCHARO Installationen Gesellschaft m.b.H.",
+        "street":"Altstadt 4",
+        "zip_code":6143,
+        "locality":"M\u00fchlbachl",
+        "id":35848
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Autohandel Plank KG",
+        "street":"Lohbachufer 24",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":35849
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"IFR Reichler GmbH",
+        "street":"Grabenweg 68 (SOHO 2.0)",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":35850
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Kraft Installationen + Hms e.U.",
+        "street":"Gabelsbergerstra\u00dfe 37",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":35851
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"\u00d6kosan GmbH",
+        "street":"Regio-Tech 1",
+        "zip_code":6395,
+        "locality":"Hochfilzen",
+        "id":35852
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Die-Bad-Bauer-GmbH",
+        "street":"Innsbrucker Stra\u00dfe 42a",
+        "zip_code":6230,
+        "locality":"Brixlegg",
+        "id":35853
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"R.G. Systemwassertechnik GmbH",
+        "street":"R\u00f6merstra\u00dfe 42",
+        "zip_code":6230,
+        "locality":"Brixlegg",
+        "id":35854
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Thalhammer GmbH",
+        "street":"Oberfeld 81",
+        "zip_code":6351,
+        "locality":"Scheffau am Wilden Kaiser",
+        "id":35855
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"HSE Huber GmbH - Heizung Sanit\u00e4r Leckortung Entfeuchtung",
+        "street":"Bruggfeldstra\u00dfe 5\/24",
+        "zip_code":6500,
+        "locality":"Landeck",
+        "id":35856
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"HB-Installationen GmbH",
+        "street":"Hochstatt 14",
+        "zip_code":9782,
+        "locality":"Nikolsdorf",
+        "id":35857
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"Mirko Vasil",
+        "street":"Antoniusweg 9, Top 5",
+        "zip_code":6600,
+        "locality":"Breitenwang",
+        "id":35858
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Johann Gruber",
+        "street":"Laimb\u00f6cksiedlung 7",
+        "zip_code":6275,
+        "locality":"Stumm",
+        "id":35859
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Markus Haslwanter",
+        "street":"Sankt Margarethen 199h",
+        "zip_code":6220,
+        "locality":"Buch in Tirol",
+        "id":35860
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Holger Alexander Kinigadner",
+        "street":"Hubersiedlung 27",
+        "zip_code":6200,
+        "locality":"Jenbach",
+        "id":35861
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Christine Oberladst\u00e4tter",
+        "street":"Dorf 23",
+        "zip_code":6210,
+        "locality":"Wiesing",
+        "id":35862
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Martin Redl",
+        "street":"Eggasga\u00df 15",
+        "zip_code":6822,
+        "locality":"Satteins",
+        "id":35863
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"RN Volles Rohr GmbH",
+        "street":"Industriestra\u00dfe 7a",
+        "zip_code":6841,
+        "locality":"M\u00e4der",
+        "id":35864
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Gavrail Atanasov",
+        "street":"Tiefer Graben 8-10\/14",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35865
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"BM Installationen e.U.",
+        "street":"Rockhgasse 4\/63",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35866
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"SAMA-BAU GmbH",
+        "street":"Getreidemarkt 14\/34",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35867
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Misho Galev Angelov",
+        "street":"Erdbergstra\u00dfe 172\/30",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":35868
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Ivan Ivanov",
+        "street":"Hainburger Stra\u00dfe 50\/55",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":35869
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 6. Bezirk (Mariahilf)",
+        "company_name":"Rohrspecht GmbH",
+        "street":"Schmalzhofgasse 28\/1\/31",
+        "zip_code":1060,
+        "locality":"Wien",
+        "id":35870
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"LIKO CO BAU GmbH",
+        "street":"Hardtmuthgasse 139\/20",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":35871
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"MS Vermittlungs GmbH",
+        "street":"Klausenburger Stra\u00dfe 30\/Kellerabteil 1",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":35872
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Irfan Orkun",
+        "street":"Fernkorngasse 27\/7",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":35873
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Sanitaerprofi mma e.U.",
+        "street":"Hofherrgasse 23\/8\/8",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":35874
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Maik St\u00f6ber",
+        "street":"Klausenburger Stra\u00dfe 30\/Kellerlager 1\/Postkasten Nr. 51",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":35875
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Ionut Turcan",
+        "street":"Hasenleitengasse 5\/14\/6",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":35876
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"OLAF Bau GmbH",
+        "street":"Wolfganggasse 32\/15",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":35877
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Dan-Scridon Fontu",
+        "street":"Am Rosenberg 1\/3\/7",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":35878
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"A-S-G Haustechnik 0-24 e.U.",
+        "street":"M\u00e4rzstra\u00dfe 149\/11",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":35879
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Sascha Chadim",
+        "street":"Mondweg 4\/2\/5",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":35880
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Markus Chadim-Strauss",
+        "street":"Alpengartenstra\u00dfe 4",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":35881
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"N.O.N. - Kanaltechnik KG",
+        "street":"Satzberggasse 18\/1-2",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":35882
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Pulito F&B OG",
+        "street":"Kienmayergasse 48\/7",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":35883
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Muammer Toprak",
+        "street":"Wi\u00dfgrillgasse 5\/18",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":35884
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Zlatin Angelov Angelov",
+        "street":"M\u00e4rzstra\u00dfe 99, T\u00fcr 26",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":35885
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Ognyan Ivanov Dimitrov",
+        "street":"M\u00e4rzstra\u00dfe 99\/26",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":35886
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Graf Installationen e.U.",
+        "street":"H\u00fctteldorfer Stra\u00dfe 34, T\u00fcr 3",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":35887
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Rocket Vision e.U.",
+        "street":"Sturzgasse 47, T\u00fcr 16",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":35888
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Spyros Zgkouris",
+        "street":"Rustengasse 8, T\u00fcr 18-19",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":35889
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Goran Zubac",
+        "street":"Herbststra\u00dfe 62\/4",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":35890
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Jurijs Zolotovs",
+        "street":"R\u00f6tzergasse 10\/20",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":35891
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"COLUMNS PARTNERS KG",
+        "street":"Scheidlstra\u00dfe 34",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":35892
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"PSW Projekt GmbH",
+        "street":"Schulgasse 90\/1-4",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":35893
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Mihai Airimesei",
+        "street":"Heiligenst\u00e4dter Stra\u00dfe 165\/6\/16",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":35894
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"Yanaki Angelov Dimitrov",
+        "street":"Marchfeldstra\u00dfe 25\/26",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":35895
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"Mehmet Erdogan",
+        "street":"Marchfeldstra\u00dfe 16-18",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":35896
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"Anatolijs Korotinskis",
+        "street":"Dresdner Stra\u00dfe 80, T\u00fcr 10",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":35897
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"Leonids Saveljevs",
+        "street":"Dresdner Stra\u00dfe 80\/10",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":35898
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Misho Georgiev Atanasov",
+        "street":"Peter-Kaiser-Gasse 20, T\u00fcr 28",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":35899
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Miroslav Filchev Georgiev",
+        "street":"Bertlgasse 10, T\u00fcr 22",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":35900
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Installateur A. Zwickl KG",
+        "street":"Leopoldauer Platz 2",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":35901
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Georgi Nikolov Nikolov",
+        "street":"Deublergasse 18\/13",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":35902
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Kiril Georgiev Pandarov",
+        "street":"Prager Stra\u00dfe 42\/1c",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":35903
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"VABATHERM Geb\u00e4udetechnik GmbH",
+        "street":"Sch\u00f6pfleuthnergasse 9\/1, T\u00fcr 4",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":35904
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"DFC Abflussdienst e.U.",
+        "street":"Fahngasse 6\/2\/10E",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":35905
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Yasin Dincg\u00f6r\u00fcr",
+        "street":"E\u00dflinger Hauptstra\u00dfe 78\/3\/314",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":35906
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Dominik Filipsky",
+        "street":"Gro\u00df-Enzersdorfer Stra\u00dfe 2",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":35907
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Bart\u0142omiej Mruga\u0142a",
+        "street":"Trondheimgasse 1\/6\/9",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":35908
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Ibrahim Nahar",
+        "street":"Rennbahnweg 66\/1\/6",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":35909
+    },
+    {
+        "branche_layer_3":"Sanit\u00e4rtechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Anton Eder GmbH",
+        "street":"Gorskistra\u00dfe 15(BETRIEB)",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":35910
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "branche_layer_3":"Warmwasserbereitungsanlagen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Kalcher KG",
+        "street":"Pischeldorfer Stra\u00dfe 101",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":45260
+    },
+    {
+        "branche_layer_3":"Warmwasserbereitungsanlagen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Martin Reppnig",
+        "street":"An der Lauer 5\/1",
+        "zip_code":9313,
+        "locality":"St. Georgen am L\u00e4ngsee",
+        "id":45261
+    }
+]

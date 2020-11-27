@@ -1,0 +1,1392 @@
+[
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Cornelius Benedikt-Marangon",
+        "street":"Untere Hauptstra\u00dfe 45",
+        "zip_code":7061,
+        "locality":"Trausdorf an der Wulka",
+        "id":30727
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Rudolf Johann Kamper",
+        "street":"Leopold Nattlgasse 9",
+        "zip_code":7071,
+        "locality":"Rust",
+        "id":30728
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"Gerhard Krutzler",
+        "street":"Panoramastra\u00dfe 20",
+        "zip_code":7425,
+        "locality":"Wiesfleck",
+        "id":30729
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"Manfred Oberndorfer",
+        "street":"Birkenweg 14a",
+        "zip_code":7410,
+        "locality":"Loipersdorf-Kitzladen",
+        "id":30730
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"OK Bau OG",
+        "street":"Schachendorf 308",
+        "zip_code":7472,
+        "locality":"Schachendorf",
+        "id":30731
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Wolfgang Gottfried Daniel",
+        "street":"Nadling 19",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":30732
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Gerhard D\u00f6rfler",
+        "street":"Feldweg 10",
+        "zip_code":9562,
+        "locality":"Himmelberg",
+        "id":30733
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Wilfried Gwenger",
+        "street":"Weppernigweg 9",
+        "zip_code":9571,
+        "locality":"Sirnitz",
+        "id":30734
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Reinhard Robert Huber",
+        "street":"St. Margarethen 31",
+        "zip_code":9564,
+        "locality":"Patergassen",
+        "id":30735
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Martin Kra\u00dfnitzer",
+        "street":"Lendorf 8a",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":30736
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"LEEB Balkone GmbH",
+        "street":"Maitratten 25",
+        "zip_code":9563,
+        "locality":"Gnesau",
+        "id":30737
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Werner Rottensteiner",
+        "street":"Himmelberger Stra\u00dfe 17",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":30738
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Albin Schm\u00f6lzer",
+        "street":"Vorwald 89",
+        "zip_code":9564,
+        "locality":"Patergassen",
+        "id":30739
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Walter Schneeberger",
+        "street":"Kad\u00f6ll 38",
+        "zip_code":9555,
+        "locality":"Glanegg",
+        "id":30740
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Alfred Engeler",
+        "street":"Egg 3",
+        "zip_code":9652,
+        "locality":"Birnbaum",
+        "id":30741
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Markus Johann Moser - holzbau moser",
+        "street":"St. Jakob im Lesachtal 34",
+        "zip_code":9651,
+        "locality":"St. Jakob im Lesachtal",
+        "id":30742
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Ingo Ernst Krammer - holzquadrat",
+        "street":"Lavanttalweg 5",
+        "zip_code":9061,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":30743
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Werner Christian Ha\u00dfler",
+        "street":"Kossiach 15a",
+        "zip_code":9065,
+        "locality":"Ebenthal",
+        "id":30744
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Johannes M\u00fcnichsdorfer",
+        "street":"W\u00f6lfnitz 7",
+        "zip_code":9131,
+        "locality":"Grafenstein",
+        "id":30745
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"RB Holzbau GmbH",
+        "street":"Unterloibl 38",
+        "zip_code":9163,
+        "locality":"Unterbergen im Rosental",
+        "id":30746
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Werner Haberl",
+        "street":"P\u00f6ckstein 6",
+        "zip_code":9330,
+        "locality":"Treibach-Althofen",
+        "id":30747
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Erwin Hermann Petutschnig",
+        "street":"St. Oswald 57",
+        "zip_code":9372,
+        "locality":"Eberstein",
+        "id":30748
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Johann Pilgram",
+        "street":"Silbereggerberg 3",
+        "zip_code":9321,
+        "locality":"Kappel am Krappfeld",
+        "id":30749
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Thomas Aichholzer",
+        "street":"Aich 7",
+        "zip_code":9800,
+        "locality":"Spittal an der Drau",
+        "id":30750
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Albert Christian Fercher",
+        "street":"Stiefelberg 1",
+        "zip_code":9832,
+        "locality":"Stall im M\u00f6lltal",
+        "id":30751
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Markus Eckhard Fercher",
+        "street":"Witschdorf 58",
+        "zip_code":9833,
+        "locality":"Rangersdorf",
+        "id":30752
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Georg Paul G\u00f6rtschacher",
+        "street":"Koschatweg 10",
+        "zip_code":9546,
+        "locality":"Bad Kleinkirchheim",
+        "id":30753
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Leonhard Haslauer",
+        "street":"Penk 56",
+        "zip_code":9816,
+        "locality":"Penk im M\u00f6lltal",
+        "id":30754
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Holzbauarbeiten Zauchner GmbH",
+        "street":"Fre\u00dfnitz 12",
+        "zip_code":9811,
+        "locality":"Lendorf",
+        "id":30755
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Michael Nowak",
+        "street":"Dellach 2",
+        "zip_code":9872,
+        "locality":"Millstatt",
+        "id":30756
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Martin Stotter",
+        "street":"Kreuzberg 1",
+        "zip_code":9761,
+        "locality":"Greifenburg",
+        "id":30757
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Ernst Thaler",
+        "street":"Trebesing 33",
+        "zip_code":9852,
+        "locality":"Trebesing",
+        "id":30758
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Hubert Wirnsberger",
+        "street":"Innern\u00f6ring 9",
+        "zip_code":9861,
+        "locality":"Eisentratten",
+        "id":30759
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Holzbau Andric KG",
+        "street":"Br\u00e4uerweg 8",
+        "zip_code":9523,
+        "locality":"Villach-Landskron",
+        "id":30760
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Reinhard Anton Hicks",
+        "street":"St. Leonhard 74",
+        "zip_code":9587,
+        "locality":"Riegersdorf",
+        "id":30761
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Michael Novak - Holzmichl-Tischlerei Novak",
+        "street":"Maglern 43",
+        "zip_code":9602,
+        "locality":"Maglern",
+        "id":30762
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Georg Orter",
+        "street":"Schulstra\u00dfe 79",
+        "zip_code":9542,
+        "locality":"Afritz am See",
+        "id":30763
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"G\u00fcnther Weber",
+        "street":"Kirschenweg 3",
+        "zip_code":9241,
+        "locality":"Wernberg",
+        "id":30764
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Michael Alois Krammer",
+        "street":"Salchendorf 15",
+        "zip_code":9064,
+        "locality":"Pischeldorf",
+        "id":30765
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Robert Puschnig",
+        "street":"Kaltenbrunn 44",
+        "zip_code":9100,
+        "locality":"V\u00f6lkermarkt",
+        "id":30766
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Martin Starzer-Mathy",
+        "street":"Rathausstra\u00dfe 12",
+        "zip_code":3300,
+        "locality":"Amstetten",
+        "id":30767
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"Roman Eder",
+        "street":"Bockflie\u00dferstra\u00dfe 152",
+        "zip_code":2232,
+        "locality":"Deutsch-Wagram",
+        "id":30768
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"KETZ BAU und HOLZ GmbH",
+        "street":"Lagerstra\u00dfe 17",
+        "zip_code":2103,
+        "locality":"Langenzersdorf",
+        "id":30769
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Lilienfeld",
+        "company_name":"MATUS-HANDEL Jarzabek e.U.",
+        "street":"Zdarskystra\u00dfe 15",
+        "zip_code":3180,
+        "locality":"Lilienfeld",
+        "id":30770
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Peter Leopold Traxler",
+        "street":"Industriestra\u00dfe 2",
+        "zip_code":3680,
+        "locality":"Persenbeug-Gottsdorf",
+        "id":30771
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Stephan Thomas Dorfst\u00e4tter",
+        "street":"Austra\u00dfe 42",
+        "zip_code":2630,
+        "locality":"Grafenbach",
+        "id":30772
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Manfred Greul",
+        "street":"Laubenbachgegend 23",
+        "zip_code":3213,
+        "locality":"Frankenfels",
+        "id":30773
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Peter Hintermaier",
+        "street":"Spraid 7",
+        "zip_code":4963,
+        "locality":"Burgkirchen",
+        "id":30774
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Ludwig K\u00fcrner",
+        "street":"Holz 3",
+        "zip_code":5143,
+        "locality":"Feldkirchen bei Mattighofen",
+        "id":30775
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"M\u00fchlviertler Alm Holz, Gemeinschaft zur Verarbeitung und Vermarktung von Rundholz",
+        "street":"Komau 2",
+        "zip_code":3925,
+        "locality":"Liebenau",
+        "id":30776
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Franz Markus Pilz",
+        "street":"Reitern 27",
+        "zip_code":4822,
+        "locality":"Bad Goisern am Hallst\u00e4ttersee",
+        "id":30777
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"K und K Holzbau OG",
+        "street":"Innernsee 7",
+        "zip_code":4681,
+        "locality":"Rottenbach",
+        "id":30778
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Markus Mairinger",
+        "street":"Erlenweg 3",
+        "zip_code":4633,
+        "locality":"Kematen am Innbach",
+        "id":30779
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Baumgartner & Co GmbH - Altholz und historische Baustoffe Baumgartner & Co GmbH.",
+        "street":"Kremsstra\u00dfe 16",
+        "zip_code":4553,
+        "locality":"Schlierbach",
+        "id":30780
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Franz Breitenbaumer",
+        "street":"Pyhrnstra\u00dfe 64, T\u00fcr 1",
+        "zip_code":4582,
+        "locality":"Spital am Pyhrn",
+        "id":30781
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Helmut Singer - Holzbau",
+        "street":"Au\u00dferort 4, T\u00fcr 1",
+        "zip_code":4592,
+        "locality":"Gr\u00fcnburg",
+        "id":30782
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Eric Weise",
+        "street":"Am Ferstlberg 1",
+        "zip_code":4565,
+        "locality":"Inzersdorf im Kremstal",
+        "id":30783
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Dragan Zivotic",
+        "street":"Br\u00fcckenweg 1",
+        "zip_code":4643,
+        "locality":"Pettenbach",
+        "id":30784
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"CBA Holz Bauten GesmbH",
+        "street":"Querstra\u00dfe 8",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":30785
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Stiftsbuchhandlung St. Florian - Aug. Chorherrenstift St. Florian",
+        "street":"Hohenbrunn 4",
+        "zip_code":4490,
+        "locality":"St. Florian",
+        "id":30786
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Bernhard Karl K\u00f6nigshofer",
+        "street":"Pergkirchen 35, T\u00fcr 2",
+        "zip_code":4320,
+        "locality":"Perg",
+        "id":30787
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Christian Wimmer Die Innenausbauer e.U.",
+        "street":"Breiningsdorf 11",
+        "zip_code":4772,
+        "locality":"Lambrechten",
+        "id":30788
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Martin Windhager",
+        "street":"M\u00f6rschwang 23",
+        "zip_code":4982,
+        "locality":"M\u00f6rschwang",
+        "id":30789
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Scharrer Montagen e.U.",
+        "street":"Wei\u00dfgraben 11a",
+        "zip_code":4152,
+        "locality":"Sarleinsbach",
+        "id":30790
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"G\u00fcnther Weberschl\u00e4ger",
+        "street":"Hintenberg 109",
+        "zip_code":4161,
+        "locality":"Ulrichsberg",
+        "id":30791
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Roman Egger",
+        "street":"Mayrhof 7, T\u00fcr 1",
+        "zip_code":4770,
+        "locality":"Andorf",
+        "id":30792
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Christian Maximilian Jank",
+        "street":"Saag 18",
+        "zip_code":4090,
+        "locality":"Engelhartszell",
+        "id":30793
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Zimmerei Jell GmbH",
+        "street":"Eggersham 20",
+        "zip_code":4786,
+        "locality":"Brunnenthal",
+        "id":30794
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Franz Bachl - holzhochsieben",
+        "street":"Wei\u00dfenbachstra\u00dfe 18\/2",
+        "zip_code":4541,
+        "locality":"Adlwang",
+        "id":30795
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Johannes Eisenhuber",
+        "street":"Amselweg 7",
+        "zip_code":4540,
+        "locality":"Bad Hall",
+        "id":30796
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Rudolf Hemetsberger",
+        "street":"Steindorf 21",
+        "zip_code":4863,
+        "locality":"Seewalchen am Attersee",
+        "id":30797
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Huemer GmbH",
+        "street":"Halt 4",
+        "zip_code":4873,
+        "locality":"Frankenburg am Hausruck",
+        "id":30798
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Thomas Kalleitner - Holzbauten Kalleitner",
+        "street":"Truchtlingen 11",
+        "zip_code":4890,
+        "locality":"Wei\u00dfenkirchen im Attergau",
+        "id":30799
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Ing. Helmut Alois M\u00f6seneder",
+        "street":"Ziegelstadl 20",
+        "zip_code":4890,
+        "locality":"Wei\u00dfenkirchen im Attergau",
+        "id":30800
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Abraham Peter Pos",
+        "street":"Aich, Weinbergstra\u00dfe 1d",
+        "zip_code":4865,
+        "locality":"Nu\u00dfdorf am Attersee",
+        "id":30801
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Sonnleitner-Das Holzhaus-GmbH & Co KG",
+        "street":"Salzburger Stra\u00dfe 5",
+        "zip_code":4840,
+        "locality":"V\u00f6cklabruck",
+        "id":30802
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Johann Stallinger",
+        "street":"Redl 1",
+        "zip_code":4872,
+        "locality":"Neukirchen an der V\u00f6ckla",
+        "id":30803
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Friedrich Bichler",
+        "street":"Buchenweg 6",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":30804
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Brenter GmbH.",
+        "street":"Arnsdorfer Stra\u00dfe 21",
+        "zip_code":5110,
+        "locality":"Oberndorf bei Salzburg",
+        "id":30805
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Robert Walter Norbert Markus Wernbacher",
+        "street":"Am Sonnenhang 31",
+        "zip_code":5161,
+        "locality":"Elixhausen",
+        "id":30806
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Andreas Dittinger",
+        "street":"Hubweg 15",
+        "zip_code":5600,
+        "locality":"Sankt Johann im Pongau",
+        "id":30807
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Wolfgang Gfrerer",
+        "street":"Ginau 2",
+        "zip_code":5600,
+        "locality":"Sankt Johann im Pongau",
+        "id":30808
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Rupert Hettegger",
+        "street":"Auschulweg 15",
+        "zip_code":5611,
+        "locality":"Gro\u00dfarl",
+        "id":30809
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Ing. Gerhard J\u00e4ger",
+        "street":"Schachenweg 198",
+        "zip_code":5542,
+        "locality":"Flachau",
+        "id":30810
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Franz Wieland",
+        "street":"Magatsch 168",
+        "zip_code":5581,
+        "locality":"Sankt Margarethen im Lungau",
+        "id":30811
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Thomas Embacher",
+        "street":"Bachm\u00fchlstra\u00dfe 215\/3",
+        "zip_code":5752,
+        "locality":"Viehhofen",
+        "id":30812
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Christoph Harlander",
+        "street":"Kleinsonnberg 63",
+        "zip_code":5660,
+        "locality":"Taxenbach",
+        "id":30813
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Andreas Heim",
+        "street":"Mitterhohenbramberg 10",
+        "zip_code":5741,
+        "locality":"Neukirchen am Gro\u00dfvenediger",
+        "id":30814
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"MHM Massiv-Holzbau GmbH",
+        "street":"Niedernsiller Stra\u00dfe 2",
+        "zip_code":5722,
+        "locality":"Niedernsill",
+        "id":30815
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Anton Hermann Sommerer",
+        "street":"Traunerfeldweg 14",
+        "zip_code":5661,
+        "locality":"Rauris",
+        "id":30816
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Andreas Arbesleitner",
+        "street":"Grazer Stra\u00dfe 68c",
+        "zip_code":8665,
+        "locality":"Langenwang",
+        "id":30817
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Herbert Kohlhuber",
+        "street":"Stanz im M\u00fcrztal 233",
+        "zip_code":8653,
+        "locality":"Stanz im M\u00fcrztal",
+        "id":30818
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Franz Koinegg",
+        "street":"Eibiswald 344, T\u00fcr 10",
+        "zip_code":8552,
+        "locality":"Eibiswald",
+        "id":30819
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"STG Stelzl & Golob GmbH in Liqu.",
+        "street":"H\u00f6rmsdorf 190",
+        "zip_code":8552,
+        "locality":"Eibiswald",
+        "id":30820
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"G\u00fcnther Maderbacher",
+        "street":"Festenburg 16a",
+        "zip_code":8251,
+        "locality":"Festenburg",
+        "id":30821
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Peter Schweighofer",
+        "street":"Zeil-P\u00f6llau 234",
+        "zip_code":8225,
+        "locality":"Zeil-P\u00f6llau",
+        "id":30822
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Herbert Stiper",
+        "street":"Flugplatzweg 5",
+        "zip_code":8772,
+        "locality":"Traboch",
+        "id":30823
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Pabst Holzmarkt GmbH",
+        "street":"Kathal in Obdachegg 6",
+        "zip_code":8742,
+        "locality":"Amering",
+        "id":30824
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"August Braunstein - Holz Braunstein",
+        "street":"K\u00f6lldorf 10",
+        "zip_code":8353,
+        "locality":"K\u00f6lldorf",
+        "id":30825
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Hans-J\u00f6rg Schutti",
+        "street":"Bernau 69",
+        "zip_code":8152,
+        "locality":"Bernau",
+        "id":30826
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Holzbau Klotz e.U.",
+        "street":"Tumpen 84",
+        "zip_code":6441,
+        "locality":"Tumpen",
+        "id":30827
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Martin Rudolf Maurer",
+        "street":"Unterweidach 32a",
+        "zip_code":6414,
+        "locality":"Untermieming",
+        "id":30828
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Andr\u00e4 Klingenschmid",
+        "street":"Grubertalstra\u00dfe 26a",
+        "zip_code":6111,
+        "locality":"Volders",
+        "id":30829
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"DI.Dr.techn. Herbert Moshammer",
+        "street":"L\u00e4rchenweg 21",
+        "zip_code":6161,
+        "locality":"Natters",
+        "id":30830
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Christian Plattner",
+        "street":"Holzweg 1b",
+        "zip_code":6065,
+        "locality":"Thaur",
+        "id":30831
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Klaus Zimmerling",
+        "street":"Hauptstra\u00dfe 20\/Top 1",
+        "zip_code":6074,
+        "locality":"Rinn",
+        "id":30832
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Spenglerei Senn & Moll GmbH",
+        "street":"Andreas-Hofer-Stra\u00dfe 16",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":30833
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"U.N.I.-Bau Gesellschaft m.b.H. in Liqu.",
+        "street":"Galgenb\u00fchelweg 2",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":30834
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Peter Josef Aschaber",
+        "street":"Schmiedweg 5",
+        "zip_code":6365,
+        "locality":"Kirchberg in Tirol",
+        "id":30835
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Manfred Martin Bacher",
+        "street":"Waldweg 46",
+        "zip_code":6393,
+        "locality":"St. Ulrich am Pillersee",
+        "id":30836
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Stefan Edenhauser",
+        "street":"Stra\u00df 90",
+        "zip_code":6393,
+        "locality":"St. Ulrich am Pillersee",
+        "id":30837
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Ferdinand Egger",
+        "street":"Winkl-Schattseite 156",
+        "zip_code":6380,
+        "locality":"St. Johann in Tirol",
+        "id":30838
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Richard Grabler",
+        "street":"Tannweg 3\/ Top 26",
+        "zip_code":6380,
+        "locality":"St. Johann in Tirol",
+        "id":30839
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Gruber & Partner OG",
+        "street":"Maierlweg 23",
+        "zip_code":6365,
+        "locality":"Kirchberg in Tirol",
+        "id":30840
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Daniel Ottmar Hebenstreit",
+        "street":"Wagst\u00e4ttbichl 2",
+        "zip_code":6373,
+        "locality":"Jochberg",
+        "id":30841
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Holzbau Janka GmbH",
+        "street":"Achenweg 78",
+        "zip_code":6365,
+        "locality":"Kirchberg in Tirol",
+        "id":30842
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Holzdirekt Montagen und Vertriebs GmbH",
+        "street":"Gundhabing 43",
+        "zip_code":6370,
+        "locality":"Kitzb\u00fchel",
+        "id":30843
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Andreas Krimbacher",
+        "street":"Haasweg 20",
+        "zip_code":6365,
+        "locality":"Kirchberg in Tirol",
+        "id":30844
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Franz Noichl",
+        "street":"Dorfstra\u00dfe 105",
+        "zip_code":6393,
+        "locality":"St. Ulrich am Pillersee",
+        "id":30845
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Obwaller GmbH",
+        "street":"Bahnhofstra\u00dfe 25",
+        "zip_code":6365,
+        "locality":"Kirchberg in Tirol",
+        "id":30846
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Anton Reiter",
+        "street":"Hochk\u00f6nigstra\u00dfe 3",
+        "zip_code":6391,
+        "locality":"Fieberbrunn",
+        "id":30847
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Bernhard Steger",
+        "street":"Dorfstra\u00dfe 20",
+        "zip_code":6353,
+        "locality":"Going am Wilden Kaiser",
+        "id":30848
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Manfred Ziepl",
+        "street":"Saukaserweg 9",
+        "zip_code":6373,
+        "locality":"Jochberg",
+        "id":30849
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Zimmerei J\u00f6chl KG",
+        "street":"Mauthfeld 14",
+        "zip_code":6380,
+        "locality":"St. Johann in Tirol",
+        "id":30850
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Johann Gr\u00fcndler KG, Zaun-, Rundholz- und Impr\u00e4gnierwerk",
+        "street":"Theaterweg 8",
+        "zip_code":6341,
+        "locality":"Ebbs",
+        "id":30851
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Ludwig Thomas Klingler",
+        "street":"Alpbach 374",
+        "zip_code":6236,
+        "locality":"Alpbach",
+        "id":30852
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Hans Georg Praschberger",
+        "street":"Oberndorf 2b",
+        "zip_code":6341,
+        "locality":"Ebbs",
+        "id":30853
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Andreas Seebacher",
+        "street":"Schmelzerweg 4",
+        "zip_code":6250,
+        "locality":"Kundl",
+        "id":30854
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Thomas Schneider",
+        "street":"Ganderweg 2\/Top 1",
+        "zip_code":6580,
+        "locality":"St. Anton am Arlberg",
+        "id":30855
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Markus Groger",
+        "street":"Reimmichlstra\u00dfe 15",
+        "zip_code":9991,
+        "locality":"D\u00f6lsach",
+        "id":30856
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"J\u00fcrgen Perle",
+        "street":"Grie\u00dfau 29",
+        "zip_code":6651,
+        "locality":"H\u00e4selgehr",
+        "id":30857
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Art Rock - Kletterw\u00e4nde Ges.m.b.H. - ArtRock Kletterw\u00e4nde GmbH",
+        "street":"Austra\u00dfe 25",
+        "zip_code":6200,
+        "locality":"Jenbach",
+        "id":30858
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Martin Bereuter",
+        "street":"Wieseln 148",
+        "zip_code":6952,
+        "locality":"Sibratsgf\u00e4ll",
+        "id":30859
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Michael Lukasik",
+        "street":"Meisten 790",
+        "zip_code":6866,
+        "locality":"Andelsbuch",
+        "id":30860
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Gunnar Poiger",
+        "street":"Landstra\u00dfe 138",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":30861
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Thomas Anton Brunold",
+        "street":"Sonnhalde 4A",
+        "zip_code":6850,
+        "locality":"Dornbirn",
+        "id":30862
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Hanno Wilhelm Schluge",
+        "street":"Steinebach 18",
+        "zip_code":6850,
+        "locality":"Dornbirn",
+        "id":30863
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Karl Luitgar Summer",
+        "street":"Ried 28",
+        "zip_code":6842,
+        "locality":"Koblach",
+        "id":30864
+    },
+    {
+        "branche_layer_3":"Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Gewista Service GmbH",
+        "street":"Litfa\u00dfstra\u00dfe 6",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":30865
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Friedrich Klocker",
+        "street":"Strajach 19",
+        "zip_code":9651,
+        "locality":"St. Jakob im Lesachtal",
+        "id":28576
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Wolfgang Karl Kienleitner",
+        "street":"Ziegeleiweg 202",
+        "zip_code":9462,
+        "locality":"Bad St. Leonhard im Lavanttal",
+        "id":28577
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Ing. Michael Walter Brunner",
+        "street":"Traiskirchner Stra\u00dfe 4, T\u00fcr 1",
+        "zip_code":2521,
+        "locality":"Trumau",
+        "id":28578
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Gerhard Schipke",
+        "street":"Althellmons\u00f6dt 56",
+        "zip_code":4202,
+        "locality":"Hellmons\u00f6dt",
+        "id":28579
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Lauterbacher Gesellschaft m.b.H.",
+        "street":"Wenger Stra\u00dfe 1",
+        "zip_code":5203,
+        "locality":"K\u00f6stendorf",
+        "id":28580
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Holzprofil-Produktions-Gesellschaft m.b.H. - Leistenwerk",
+        "street":"Wenns 11",
+        "zip_code":5733,
+        "locality":"Bramberg am Wildkogel",
+        "id":28581
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Geppetto Holz GmbH",
+        "street":"Sternenweg 4",
+        "zip_code":8600,
+        "locality":"Utschtal",
+        "id":28582
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Hermann Mochart",
+        "street":"Kindermanngasse 4a",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":28583
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Sebastian Mochart",
+        "street":"Am Dorfplatz 1",
+        "zip_code":8410,
+        "locality":"Weitendorf",
+        "id":28584
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Manfred Deisl Gesellschaft m.b.H.",
+        "street":"Selzthaler Stra\u00dfe 37",
+        "zip_code":8940,
+        "locality":"Liezen",
+        "id":28585
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Pichler Wohnbau GmbH",
+        "street":"Fl\u00f6cking 2",
+        "zip_code":8200,
+        "locality":"Ludersdorf-Wilfersdorf",
+        "id":28586
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Seelos Walter und Klaus, S\u00e4ge- und Hobelwerk OG",
+        "street":"Gewerbezone 2",
+        "zip_code":6403,
+        "locality":"Flaurling",
+        "id":28587
+    },
+    {
+        "branche_layer_3":"Hobelwerke",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"CRL Handels KG",
+        "street":"Colerusgasse 9A\/1",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":28588
+    }
+]

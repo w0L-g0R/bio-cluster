@@ -1,0 +1,122 @@
+[
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Hasslacher Drauland Holzindustrie GmbH",
+        "street":"Feistritz 1",
+        "zip_code":9751,
+        "locality":"Sachsenburg",
+        "id":31129
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Laas Leichtdach - Systeme Gesellschaft m.b.H. - Laas Leichtdach - Systeme Gesellschaft m.b.H.",
+        "street":"Klagenfurter Stra\u00dfe 51",
+        "zip_code":9100,
+        "locality":"V\u00f6lkermarkt",
+        "id":31130
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"Bernhart Diesner GmbH",
+        "street":"Industriestra\u00dfe 11",
+        "zip_code":3943,
+        "locality":"Schrems",
+        "id":31131
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"ELK Fertighaus GmbH - Fertighausindustrie",
+        "street":"Industriestra\u00dfe 1",
+        "zip_code":3943,
+        "locality":"Schrems",
+        "id":31132
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"ELK Fertighaus GmbH - Fertighausindustrie",
+        "street":"Fertighauszentrum Blaue Lagune, ELK Center, Teilfl\u00e4che 105",
+        "zip_code":2351,
+        "locality":"Wiener Neudorf",
+        "id":31133
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Pronaturhaus GmbH",
+        "street":"Wagramer Stra\u00dfe 25, Top 1 (Pronaturhaus GmbH)",
+        "zip_code":3484,
+        "locality":"Grafenw\u00f6rth",
+        "id":31134
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Hartl Haus Holzindustrie Gesellschaft m.b.H. - Hartl Haus Holzindustrie GmbH",
+        "street":"Haimschlag 30",
+        "zip_code":3903,
+        "locality":"Echsenbach",
+        "id":31135
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Hartl Haus Holzindustrie Gesellschaft m.b.H. - Hartl Haus Holzindustrie GmbH",
+        "street":"Haimschlag, Parz. 19, KG Haimschlag",
+        "zip_code":3903,
+        "locality":"Echsenbach",
+        "id":31136
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"WUNSCH-HAUS GmbH & CoKG. - Zimmerei-Holzhausbau",
+        "street":"Obereck 2",
+        "zip_code":5242,
+        "locality":"St. Johann am Walde",
+        "id":31137
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Wolf Systembau Gesellschaft m.b.H.",
+        "street":"Fischerb\u00fchel 1",
+        "zip_code":4644,
+        "locality":"Scharnstein",
+        "id":31138
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Internorm Fenster GmbH",
+        "street":"Vorarlberger Allee 27",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31139
+    },
+    {
+        "branche_layer_3":"Holzhaus- und Hallenbauindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"IPM Schober Fenster Gesellschaft m.b.H.",
+        "street":"Richard-Strauss-Stra\u00dfe 11",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31140
+    }
+]

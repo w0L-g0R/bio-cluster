@@ -1,0 +1,740 @@
+{
+    "name": "Bioökonomie",
+    "flag_LT": null,
+    "item": null,
+    "children": [{
+            "name": "Verarbeitung und Dienstleistung",
+            "flag_LT": null,
+            "item": null,
+            "layer_id": 0,
+            "children": [{
+                    "name": "Gewerbe und Handwerk",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1,
+                    "children": [{
+                            "name": "Gewerbliche Dienstleister ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Agrarunternehmer",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Forstunternehmer",
+                                    "flag_LT": 1,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Holzzerkleinerer",
+                                    "flag_LT": 1,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "W\u00e4rmeversorgung unter 5 km und unter 5 MW",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Holzbau ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Holzbaugewerbetreibender, eingeschr. auf ausf\u00fchrende T\u00e4t.",
+                                    "flag_LT": 1,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Holzbaugewerbetreibender, eingeschr\u00e4nkt auf Teilbereiche",
+                                    "flag_LT": 1,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Holzbau-Meister",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Holzschindelerzeuger",
+                                    "flag_LT": "etc",
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "G\u00e4rtner und Floristen ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Floristen (Blumenbinder und Blumeneinzelh\u00e4ndler)",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Friedhofsg\u00e4rtner",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Gartenpflege bzw. eingeschr\u00e4nkte Gewerbeumf\u00e4nge",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Kleinhandel mit Schnittblumen",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Landschaftsg\u00e4rtner (Garten- und Gr\u00fcnfl\u00e4chengestalter)",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sanit\u00e4r-, Heizungs- und L\u00fcftungstechniker ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Gas- und Sanit\u00e4rtechnik",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Gastechniker",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Heizungstechnik",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "L\u00fcftungstechnik",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Sanit\u00e4rtechniker",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "sonstige Sanit\u00e4r-, Heizungs- und L\u00fcftungstechniker",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Warmwasserbereitungsanlagen",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tischler und Holzgestalter ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Bootbauer",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "B\u00fcrsten- und Pinselmacher",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Drechsler",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Hobelwerke",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Holzgestalter",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Korb- und M\u00f6belflechter",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Parkettbodenleger",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Tischler",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Wurzelschnitzer",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kessel- und Ofenhersteller",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Handel",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1,
+                    "children": [{
+                            "name": "Baustoff-, Eisen-, Hartwaren- und Holzhandel ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Handel mit Holz",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Handel mit Holzfabrikaten und Holzh\u00e4usern",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energiehandel ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Handel mit festen, mineralischen oder biogenen Brennstoffen",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Handel mit Heiz\u00f6len und Fl\u00fcssiggas",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Handel mit sonstigen Mineral\u00f6lprodukten",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Handel mit Strom",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Papier- und Spielwarenhandel ",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2,
+                            "children": [{
+                                    "name": "Einzelhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Einzelhandel mit Romane, Zeitschriften und Magazine",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Gro\u00dfhandel mit Spielwaren",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Handel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Handel mit Post- und Ansichtskarten",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                },
+                                {
+                                    "name": "Papiereinzelhandel im Rahmen einer Trafik",
+                                    "flag_LT": null,
+                                    "item": null,
+                                    "layer_id": 3
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Transport und Verkehr",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1,
+                    "children": [{
+                        "name": "Zulieferindustrie",
+                        "flag_LT": null,
+                        "item": null,
+                        "layer_id": 2
+                    }]
+                }
+            ]
+        },
+        {
+            "name": "Energie",
+            "flag_LT": null,
+            "item": null,
+            "layer_id": 0,
+            "children": [{
+                "name": "Industrie",
+                "flag_LT": null,
+                "item": null,
+                "layer_id": 1,
+                "children": [{
+                        "name": "Gas- und W\u00e4rmeversorgungsunternehmungen ",
+                        "flag_LT": null,
+                        "item": null,
+                        "layer_id": 2,
+                        "children": [{
+                                "name": "Gasversorgungsunternehmen",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "W\u00e4rmeversorgungsunternehmen",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Holzindustrie ",
+                        "flag_LT": null,
+                        "item": null,
+                        "layer_id": 2,
+                        "children": [{
+                                "name": "Energieholzindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Hobelwarenindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Holzhaus- und Hallenbauindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Holzimpr\u00e4gnier- und -veredelungsindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Holzverpackungs- und -packmittelindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Holzwerkstoffindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "industrielle Bautischlereien",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Klavierindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Kork- und Korkwarenindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Leimholzindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "M\u00f6belindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Parkettindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Rahmen- und Leistenindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "S\u00e4gewerksunternehmungen",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Ski- und Sportarktikelindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "sonstige holzverarbeitende Industrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Industr. Hersteller von Produkten aus Papier und Karton ",
+                        "flag_LT": null,
+                        "item": null,
+                        "layer_id": 2,
+                        "children": [{
+                                "name": "Briefumschlag- und Papierausstattungsindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "B\u00fcro- und Organisationsmittelindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Faltschachtelindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Herstellung von Dekorations- und Festartikeln",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Herstellung von Etiketten aller Art",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Herstellung von Spielkarten und anderer Spielwaren aller Art",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Industrie flexibler Verpackungen",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Industrie hygienischer Papierwaren",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Industrielle Buchbindereien",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Kartonagenindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Konfektionierung Papier,Karton,Pappe zu Produkten aller Art",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Packstoffveredelungs- und Zurichteindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Papier- und Kartonveredelungsindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Sonstige industrielle Papierverarbeitung",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Sonstige industrielle Verpackungsherstellung",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Verpackungsindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Wellpappeindustrie",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            },
+                            {
+                                "name": "Zigarettenpapierkonfektion",
+                                "flag_LT": null,
+                                "item": null,
+                                "layer_id": 3
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Papierindustrie ",
+                        "flag_LT": null,
+                        "item": null,
+                        "layer_id": 2,
+                        "children": [{
+                            "name": "Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 3
+                        }]
+                    }
+                ]
+            }]
+        },
+        {
+            "name": "Ausbildung, Forschung und Entwicklung",
+            "flag_LT": null,
+            "item": null,
+            "layer_id": 0,
+            "children": [{
+                    "name": "Forschungseinrichtungen",
+                    "flag_LT": 1,
+                    "item": "AIT",
+                    "layer_id": 1
+                },
+                {
+                    "name": "Ausbildungsst\u00e4tten",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1
+                },
+                {
+                    "name": "Lehre und Forschung",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1
+                },
+                {
+                    "name": "Planung und Engineering",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1
+                }
+            ]
+        },
+        {
+            "name": "Prim\u00e4rproduktion",
+            "flag_LT": null,
+            "item": null,
+            "layer_id": 0,
+            "children": [{
+                    "name": "Landwirtschaft",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1
+                },
+                {
+                    "name": "Forstwirtschaft",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1,
+                    "children": [{
+                            "name": "Holzhacker und Brennstofftechnik",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2
+                        },
+                        {
+                            "name": "Pelletsproduktion",
+                            "flag_LT": null,
+                            "item": null,
+                            "layer_id": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Interessensvertretung",
+            "flag_LT": null,
+            "item": null,
+            "layer_id": 0,
+            "children": [{
+                    "name": "Cluster",
+                    "flag_LT": 1,
+                    "item": "BrainWood",
+                    "layer_id": 1
+                },
+                {
+                    "name": "Verb\u00e4nde",
+                    "flag_LT": 1,
+                    "item": "EAG",
+                    "layer_id": 1
+                }
+            ]
+        },
+        {
+            "name": "Politik, F\u00fcrderwesen, Initiativen",
+            "flag_LT": null,
+            "item": null,
+            "layer_id": 0,
+            "children": [{
+                    "name": "Initiativen",
+                    "flag_LT": 1,
+                    "item": "ASAG",
+                    "layer_id": 1
+                },
+                {
+                    "name": "Gesetze, Verordnungen, Strategien",
+                    "flag_LT": 1,
+                    "item": "NEKP",
+                    "layer_id": 1
+                },
+                {
+                    "name": "Finanzierungsinstrumente",
+                    "flag_LT": 1,
+                    "item": "H2020",
+                    "layer_id": 1
+                },
+                {
+                    "name": "Politische Akteure",
+                    "flag_LT": null,
+                    "item": null,
+                    "layer_id": 1
+                }
+            ]
+        }
+    ]
+}

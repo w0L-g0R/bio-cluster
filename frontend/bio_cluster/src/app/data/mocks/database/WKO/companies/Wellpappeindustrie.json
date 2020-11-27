@@ -1,0 +1,102 @@
+[
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Nytech GmbH",
+        "street":"Hacklberg 21",
+        "zip_code":4644,
+        "locality":"Scharnstein",
+        "id":45262
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Mondi Gr\u00fcnburg GmbH",
+        "street":"Steyrtalstra\u00dfe 5",
+        "zip_code":4593,
+        "locality":"Gr\u00fcnburg",
+        "id":45263
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Smurfit Kappa Interwell GmbH & Co KG",
+        "street":"Schellingstra\u00dfe 40",
+        "zip_code":4053,
+        "locality":"Ansfelden",
+        "id":45264
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Zuegg & Co Pappenindustrie Gesellschaft m.b.H.",
+        "street":"KG: Timmersdorf",
+        "zip_code":8772,
+        "locality":"Timmersdorf",
+        "id":45265
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Steirerpack GmbH",
+        "street":"Hauptstra\u00dfe 21",
+        "zip_code":8763,
+        "locality":"St. Oswald-M\u00f6derbrugg",
+        "id":45266
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"GANAHL AKTIENGESELLSCHAFT - RONDO Ganahl Aktiengesellschaft",
+        "street":"Rondostra\u00dfe 241",
+        "zip_code":8181,
+        "locality":"St. Ruprecht an der Raab",
+        "id":45267
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Mayr-Melnhof Karton Gesellschaft m.b.H.",
+        "street":"Brahmsplatz 6",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":45268
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"DS Smith Packaging South East GmbH - Duropack; Wellpappe; Verpackungen;",
+        "street":"Brunner Stra\u00dfe 75",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":45269
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Mosburger GmbH",
+        "street":"Ketzergasse 112",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":45270
+    },
+    {
+        "branche_layer_3":"Wellpappeindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Mosburger GmbH",
+        "street":"Lemb\u00f6ckgasse 21-23",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":45271
+    }
+]

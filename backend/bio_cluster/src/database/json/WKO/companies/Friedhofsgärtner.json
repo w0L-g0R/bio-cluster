@@ -1,0 +1,2252 @@
+[
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Natalia Bacsa, MA",
+        "street":"Obere Hauptstra\u00dfe 72",
+        "zip_code":7035,
+        "locality":"Steinbrunn",
+        "id":8891
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"Istvan Simon",
+        "street":"Hauptplatz 14",
+        "zip_code":7535,
+        "locality":"Sankt Michael im Burgenland",
+        "id":8892
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Dejan Bali\u0107",
+        "street":"Adolf Tschabuschnigg Stra\u00dfe 33",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":8893
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Manuela Mattersdorfer",
+        "street":"Hemmaweg 5",
+        "zip_code":9342,
+        "locality":"Gurk",
+        "id":8894
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Petra Heiser",
+        "street":"Aichach 8\/2",
+        "zip_code":9711,
+        "locality":"Paternion",
+        "id":8895
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Kevin Rene Preschern",
+        "street":"Terlacher Stra\u00dfe 35",
+        "zip_code":9241,
+        "locality":"Wernberg",
+        "id":8896
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Aldisa Rastoder",
+        "street":"Wurschnigstra\u00dfe 62\/8",
+        "zip_code":9710,
+        "locality":"Paternion",
+        "id":8897
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Alexandra Zwinkels - Blumen Corandra",
+        "street":"Bleiburger Stra\u00dfe 1",
+        "zip_code":9141,
+        "locality":"Eberndorf",
+        "id":8898
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Markus Sallinger",
+        "street":"St\u00f6cklerh\u00f6he 8",
+        "zip_code":4300,
+        "locality":"St. Valentin",
+        "id":8899
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Balzer OG",
+        "street":"Michael Moser-Stra\u00dfe 4",
+        "zip_code":2483,
+        "locality":"Weigelsdorf",
+        "id":8900
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Bestattung Gerobel KG",
+        "street":"Friedhofstra\u00dfe 4, , T\u00fcr 1 (Betriebsgeb\u00e4ude)",
+        "zip_code":2500,
+        "locality":"Baden",
+        "id":8901
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Jetmira Dzila",
+        "street":"Karl-Pallinger-Stra\u00dfe 5, T\u00fcr 1",
+        "zip_code":2486,
+        "locality":"Pottendorf",
+        "id":8902
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Safet Feimi",
+        "street":"Wiener Stra\u00dfe 37, T\u00fcr 6 (Wohnhaus)",
+        "zip_code":2514,
+        "locality":"Traiskirchen",
+        "id":8903
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Alfred Kurt Herzog",
+        "street":"Gemeindegasse 11",
+        "zip_code":2560,
+        "locality":"Hernstein",
+        "id":8904
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Sonja Lamuth",
+        "street":"Hauptplatz (Ebreichsdorf) 18",
+        "zip_code":2483,
+        "locality":"Ebreichsdorf",
+        "id":8905
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Hubert Josef Worscha",
+        "street":"Platz der Menschenrechte 4 Stg. 3, T\u00fcr 8",
+        "zip_code":2551,
+        "locality":"Enzesfeld-Lindabrunn",
+        "id":8906
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Davor Blo\u017ei\u0107",
+        "street":"Steinmetzgasse 12-14",
+        "zip_code":2320,
+        "locality":"Schwechat",
+        "id":8907
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Dipl.Ing. Christian Krammer GmbH",
+        "street":"Pfarrfriedhof Grdst. Nr. 108",
+        "zip_code":2320,
+        "locality":"Schwechat",
+        "id":8908
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Angela Anna Drozd-Hofbauer",
+        "street":"Friedhofstra\u00dfe 1",
+        "zip_code":2401,
+        "locality":"Fischamend",
+        "id":8909
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Gerhard Wenk",
+        "street":"J\u00e4gergasse 12",
+        "zip_code":2462,
+        "locality":"Wilfleinsdorf",
+        "id":8910
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"Gernot Havranek - Grabbetreuung Marchfeld",
+        "street":"Untere Hauptstra\u00dfe 42",
+        "zip_code":2305,
+        "locality":"Eckartsau",
+        "id":8911
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"K+G Pokorny KG - Ihr Urbaner Dienstleister",
+        "street":"Augasse 8",
+        "zip_code":2301,
+        "locality":"Gro\u00df-Enzersdorf",
+        "id":8912
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"Markus Wagner-Winkelbauer",
+        "street":"Franz Schubert-Stra\u00dfe 24",
+        "zip_code":2232,
+        "locality":"Deutsch-Wagram",
+        "id":8913
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"Manuela Sch\u00f6ller",
+        "street":"G\u00e4rtnereistra\u00dfe 5",
+        "zip_code":3943,
+        "locality":"Schrems",
+        "id":8914
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"Herbert Silberbauer",
+        "street":"Leodagger 6",
+        "zip_code":3741,
+        "locality":"Pulkau",
+        "id":8915
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Horn",
+        "company_name":"Eva Machek",
+        "street":"Apoigerstra\u00dfe 572\/5\/4",
+        "zip_code":3571,
+        "locality":"Gars am Kamp",
+        "id":8916
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Betreuung K\u00fcrzl OG",
+        "street":"Landstra\u00dfe 75",
+        "zip_code":3464,
+        "locality":"Hausleiten",
+        "id":8917
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Maria Michaela K\u00fcrzl",
+        "street":"Landstra\u00dfe 75",
+        "zip_code":3464,
+        "locality":"Hausleiten",
+        "id":8918
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Andrea Ressl",
+        "street":"Klausgraben 62",
+        "zip_code":2103,
+        "locality":"Langenzersdorf",
+        "id":8919
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Gr\u00fcnoase Fries GmbH",
+        "street":"Wiener Stra\u00dfe 134",
+        "zip_code":3500,
+        "locality":"Krems an der Donau",
+        "id":8920
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Tanja Maurer",
+        "street":"Kellergasse 154",
+        "zip_code":3552,
+        "locality":"Dro\u00df",
+        "id":8921
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Stadt Krems a.d. Donau Leichenbestattung e.U.",
+        "street":"Wiener Stra\u00dfe 87",
+        "zip_code":3500,
+        "locality":"Krems an der Donau",
+        "id":8922
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"G\u00fcnter Szing - BLATT + BL\u00dcTE EINFACH MEHR ALS BLUMEN",
+        "street":"Kirchengasse 1",
+        "zip_code":3542,
+        "locality":"Gf\u00f6hl",
+        "id":8923
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Lilienfeld",
+        "company_name":"Silke Leodolter",
+        "street":"Waldsiedlung 8",
+        "zip_code":3161,
+        "locality":"St. Veit an der G\u00f6lsen",
+        "id":8924
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Lilienfeld",
+        "company_name":"Tatjana Zwesper",
+        "street":"Birkengasse 9",
+        "zip_code":3172,
+        "locality":"Ramsau",
+        "id":8925
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Lilienfeld",
+        "company_name":"Tatjana Zwesper",
+        "street":"Klosterrotte 5\/11 (G\u00e4rtnerei)",
+        "zip_code":3180,
+        "locality":"Lilienfeld",
+        "id":8926
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Walter Br\u00e4uer",
+        "street":"Friedhofgasse 3",
+        "zip_code":2380,
+        "locality":"Perchtoldsdorf",
+        "id":8927
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Emmi's Laden e.U. - Emmi\u00b4s Laden e.U.",
+        "street":"Leopold Gattringer-Stra\u00dfe 45",
+        "zip_code":2345,
+        "locality":"Brunn am Gebirge",
+        "id":8928
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"GRABBETREUUNG SABINE KOHL e.U.",
+        "street":"Lange Seite 177",
+        "zip_code":2392,
+        "locality":"Sulz im Wienerwald",
+        "id":8929
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Herbert Heindl",
+        "street":"Ortsfriedhof,Parz.Nr. 106\/2",
+        "zip_code":2391,
+        "locality":"Kaltenleutgeben",
+        "id":8930
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Mag. (FH) Babette Heiner - Grabpflege Heiner",
+        "street":"Brandgasse 23",
+        "zip_code":2391,
+        "locality":"Kaltenleutgeben",
+        "id":8931
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Johann Kostwein",
+        "street":"Augasse 17\/2",
+        "zip_code":2351,
+        "locality":"Wiener Neudorf",
+        "id":8932
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Markus Lackner - Blumen Lackner",
+        "street":"Ortsstra\u00dfe 159",
+        "zip_code":2331,
+        "locality":"V\u00f6sendorf",
+        "id":8933
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"PENZO Flora Blumen Fl\u00f6tzersteig GmbH",
+        "street":"Franz Gruber-Gasse 15",
+        "zip_code":2331,
+        "locality":"V\u00f6sendorf",
+        "id":8934
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Ilse Sieber",
+        "street":"Bahngasse 3 (G\u00e4rtnerei)",
+        "zip_code":2352,
+        "locality":"Gumpoldskirchen",
+        "id":8935
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Johann Sonsky",
+        "street":"Guntramsdorfer Stra\u00dfe 61",
+        "zip_code":2340,
+        "locality":"M\u00f6dling",
+        "id":8936
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"WB Blumengarten Handelsges.m.b.H.",
+        "street":"Friedrich Kranzelmayer-Gasse 3Haus 8",
+        "zip_code":2345,
+        "locality":"Brunn am Gebirge",
+        "id":8937
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Petra Hausmann",
+        "street":"Schneebergstra\u00dfe 3",
+        "zip_code":2734,
+        "locality":"Puchberg am Schneeberg",
+        "id":8938
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Neunkirchner Wirtschaftsbetriebe GmbH",
+        "street":"Postgasse 5",
+        "zip_code":2620,
+        "locality":"Neunkirchen",
+        "id":8939
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Roman Ferby",
+        "street":"Hauptstra\u00dfe 24a",
+        "zip_code":3021,
+        "locality":"Pressbaum",
+        "id":8940
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"J\u00fcrgen Goldgruber",
+        "street":"Krump\u00f6ckgasse 10",
+        "zip_code":3021,
+        "locality":"Pressbaum",
+        "id":8941
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Wolfgang H\u00f6fner - Friedhofsg\u00e4rtnerei W. H\u00f6fner",
+        "street":"Am Berg 10",
+        "zip_code":3150,
+        "locality":"Wilhelmsburg\/Traisen",
+        "id":8942
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Romana Nohsek",
+        "street":"Stollberg 46",
+        "zip_code":3053,
+        "locality":"Brand-Laaben",
+        "id":8943
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Monika Zuklin",
+        "street":"Goethestra\u00dfe 30",
+        "zip_code":3001,
+        "locality":"Mauerbach",
+        "id":8944
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Daniela L\u00e4ngauer",
+        "street":"G\u00f6stling 35\/3",
+        "zip_code":3345,
+        "locality":"G\u00f6stling an der Ybbs",
+        "id":8945
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Franziska Ottilie Puchrucker",
+        "street":"G\u00f6stling 233",
+        "zip_code":3345,
+        "locality":"G\u00f6stling an der Ybbs",
+        "id":8946
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Leopold Felbermayer",
+        "street":"St.Martin,Friedhof",
+        "zip_code":3400,
+        "locality":"Klosterneuburg",
+        "id":8947
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"David Friedrich",
+        "street":"Tullner Stra\u00dfe 39",
+        "zip_code":3425,
+        "locality":"Langenlebarn",
+        "id":8948
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Maria Zofia Idrizi",
+        "street":"Altgasse (W\u00f6rdern) 4",
+        "zip_code":3423,
+        "locality":"St. Andr\u00e4-W\u00f6rdern",
+        "id":8949
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Nazmi Idrizi",
+        "street":"Altgasse (W\u00f6rdern) 4",
+        "zip_code":3423,
+        "locality":"St. Andr\u00e4-W\u00f6rdern",
+        "id":8950
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Martina Nolz",
+        "street":"Mariahilfergasse 22",
+        "zip_code":3435,
+        "locality":"Zwentendorf an der Donau",
+        "id":8951
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Marion Haidl - Blumenkisterl",
+        "street":"Peisching 32",
+        "zip_code":2754,
+        "locality":"Waldegg",
+        "id":8952
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Daniela Schabes",
+        "street":"Kleinpertholz 30\/2",
+        "zip_code":3921,
+        "locality":"Langschlag",
+        "id":8953
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Karl Maria Ludwig Kaiser",
+        "street":"H\u00f6fter Stra\u00dfe 65",
+        "zip_code":5280,
+        "locality":"Braunau am Inn",
+        "id":8954
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Gerald Johann Haider",
+        "street":"Mahrersdorf 24",
+        "zip_code":4232,
+        "locality":"Hagenberg im M\u00fchlkreis",
+        "id":8955
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Heinz Christian Hiesl",
+        "street":"Reichenstein 27",
+        "zip_code":4230,
+        "locality":"Pregarten",
+        "id":8956
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Manfred Josef Leitner - Bestattung Friedhofsg\u00e4rtner",
+        "street":"Dr. Wimberger-Stra\u00dfe 13",
+        "zip_code":4663,
+        "locality":"Laakirchen",
+        "id":8957
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Bernhard Radner",
+        "street":"Schulstra\u00dfe 18",
+        "zip_code":4655,
+        "locality":"Vorchdorf",
+        "id":8958
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Peter Aigner",
+        "street":"Seiseneggergang 12",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":8959
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Der Gr\u00fcne Zweig - Blumenhandel und Friedhofsg\u00e4rtnerei KG",
+        "street":"Wiener Stra\u00dfe 85",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":8960
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Florian Matzenberger",
+        "street":"Panholzerweg 4",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":8961
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Mario Roth",
+        "street":"Victor-Adler-Weg 13, T\u00fcr 11",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":8962
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Maximilian Bauchinger",
+        "street":"Hart 372, T\u00fcr 1",
+        "zip_code":4060,
+        "locality":"Leonding",
+        "id":8963
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Brigitte Pesendorfer",
+        "street":"Hammerweg 78",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":8964
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Karin Anna Maria Wiesinger",
+        "street":"Bahnhofstra\u00dfe 33",
+        "zip_code":4320,
+        "locality":"Perg",
+        "id":8965
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Erdbau Hofinger OG",
+        "street":"Gro\u00dfpiesenham 1",
+        "zip_code":4925,
+        "locality":"Pramet",
+        "id":8966
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Thomas Heinrich Gramberger",
+        "street":"Schlo\u00dfstra\u00dfe 60",
+        "zip_code":4971,
+        "locality":"Aurolzm\u00fcnster",
+        "id":8967
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Daniel Harant",
+        "street":"Hingsham 41",
+        "zip_code":4791,
+        "locality":"Rainbach im Innkreis",
+        "id":8968
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Anna Maria Ramskogler - Gartenpflege und Friedhofsg\u00e4rtnerei",
+        "street":"Mitteregg 4 E 1",
+        "zip_code":4421,
+        "locality":"Aschach an der Steyr",
+        "id":8969
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Gabriela Reischl",
+        "street":"Edlweg 25",
+        "zip_code":5310,
+        "locality":"St. Lorenz",
+        "id":8970
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Dagmar Susanna Humer-Karlovits",
+        "street":"Kalkofenstra\u00dfe 54",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":8971
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"paxnatura Naturbestattungs GmbH & Co KG",
+        "street":"Glaneggerstra\u00dfe 2",
+        "zip_code":5082,
+        "locality":"Gr\u00f6dig",
+        "id":8972
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Eva Gaugl - Grabpflege & Grabgestaltung Gaugl Eva",
+        "street":"Am Tauchnergrund 23",
+        "zip_code":8605,
+        "locality":"Parschlug",
+        "id":8973
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"B & B Design GmbH & Co KG",
+        "street":"Johann-Weitzer-Weg 21",
+        "zip_code":8042,
+        "locality":"Graz",
+        "id":8974
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Bestattung Graz GmbH",
+        "street":"Alte Poststra\u00dfe 343-345",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":8975
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Manfred Koller",
+        "street":"Eggenberger Allee 68",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":8976
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Rudolf Pabeschitz",
+        "street":"Ragnitzstra\u00dfe 183",
+        "zip_code":8047,
+        "locality":"Graz",
+        "id":8977
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Anton Provasnek",
+        "street":"Pauluzzigasse 6",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":8978
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Helmut Schubert",
+        "street":"Edelsgrub 34",
+        "zip_code":8302,
+        "locality":"Edelsgrub",
+        "id":8979
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Michael Geishofer",
+        "street":"Stambach 92",
+        "zip_code":8232,
+        "locality":"Grafendorf bei Hartberg",
+        "id":8980
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Vinzenz Marbler",
+        "street":"Kaspar Harb-Gasse 6",
+        "zip_code":8430,
+        "locality":"Leibnitz",
+        "id":8981
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Kerstin Aurelia Rolla",
+        "street":"Kapellenstra\u00dfe 10",
+        "zip_code":8410,
+        "locality":"Wildon",
+        "id":8982
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Michaela Schobel-Kollmann",
+        "street":"Gartenweg 7",
+        "zip_code":8410,
+        "locality":"Wildon",
+        "id":8983
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Ernst Gaspar",
+        "street":"Scheiterbodenstra\u00dfe 14",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":8984
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Mechthilde B\u00e4rnthaler",
+        "street":"Bergweg 11",
+        "zip_code":8750,
+        "locality":"Judenburg",
+        "id":8985
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Annemarie Graf",
+        "street":"Raning 73",
+        "zip_code":8342,
+        "locality":"Raning",
+        "id":8986
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"David K\u00f6nigsmaier",
+        "street":"Kleinfrannach 31",
+        "zip_code":8082,
+        "locality":"Kirchbach-Zerlach",
+        "id":8987
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Josef Nagl",
+        "street":"Steinbach 6",
+        "zip_code":8083,
+        "locality":"St.Stefan\/Rosental",
+        "id":8988
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Helmut Johann Josef Sattinger",
+        "street":"St. Margarethen an der Raab 79",
+        "zip_code":8321,
+        "locality":"St. Margarethen an der Raab",
+        "id":8989
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Anna Elisabeth Leiter",
+        "street":"Dorf 40\/ T\u00fcr 4",
+        "zip_code":6441,
+        "locality":"Umhausen",
+        "id":8990
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Denise Wurzer - Friedhofsg\u00e4rtnerin",
+        "street":"Ulmenstra\u00dfe 16a\/Top 1",
+        "zip_code":6063,
+        "locality":"Rum",
+        "id":8991
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Florian Klingenschmid",
+        "street":"Badhausstra\u00dfe 32",
+        "zip_code":6080,
+        "locality":"Igls",
+        "id":8992
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Cornelia Christine V\u00f6gele - Blumengesch\u00e4ft Schattanek-V\u00f6gele",
+        "street":"Kaufmannstra\u00dfe 2",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":8993
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Peter Anton Kronthaler - Haus und Gartenprofi",
+        "street":"Oberweidach 45",
+        "zip_code":6341,
+        "locality":"Ebbs",
+        "id":8994
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Ricardo Daniel Piccinini - Baum- und Gartenpflege Piccinini",
+        "street":"Winklweg 10\/Top 10",
+        "zip_code":6300,
+        "locality":"W\u00f6rgl",
+        "id":8995
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Marco Waidacher",
+        "street":"Bahnhofstra\u00dfe 40",
+        "zip_code":6116,
+        "locality":"Weer",
+        "id":8996
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Wolfgang H\u00f6fner - Friedhofsg\u00e4rtnerei W. H\u00f6fner",
+        "street":"Sterngasse (Innere Stadt) 3\/6",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":8997
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Royal Clean OG",
+        "street":"K\u00f6llnerhofgasse 2\/3",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":8998
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Rainer Kogler",
+        "street":"Handelskai 214\/10, T\u00fcr 106",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":8999
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Bestattung Walter e.U.",
+        "street":"Landstra\u00dfer Hauptstra\u00dfe 123",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":9000
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Evangelische Kirchengemeinde A.B. und H.B.",
+        "street":"Triester Stra\u00dfe 1(Evangelischer Friedhof)",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":9001
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Grabsteine P.O.SCH. e.U.",
+        "street":"Gudrunstra\u00dfe 182",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":9002
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Isni Hodja",
+        "street":"Pernerstorfergasse 88\/15",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":9003
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Ramiz Zuta e.U.",
+        "street":"Erlachgasse 128\/10",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":9004
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Resul Sheji",
+        "street":"Pernerstorfergasse 88, T\u00fcr 17",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":9005
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"BIGRA KG",
+        "street":"Wei\u00dfenb\u00f6ckstra\u00dfe 1Haus 6",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9006
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Christian Bock",
+        "street":"Weichseltalweg 933",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9007
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"\"CG\" Petrovic e.U.",
+        "street":"Kaiser-Ebersdorfer Stra\u00dfe 286\/Haus 1",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9008
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Dipl.Ing. Christian Krammer GmbH",
+        "street":"Simmeringer Hauptstra\u00dfe 445",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9009
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Evangelische Kirchengemeinde A.B. und H.B.",
+        "street":"Simmeringer Hauptstra\u00dfe 242",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9010
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"Simmeringer Hauptstra\u00dfe 234",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9011
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Gartenbau Josef Diner e.U.",
+        "street":"Simmeringer Hauptstra\u00dfe 389",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9012
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Gartenbau Kontner e.U.",
+        "street":"Simmeringer Hauptstra\u00dfe 401",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9013
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Thomas Hirschbeck - Friedhofsg\u00e4rtnerei",
+        "street":"Simmeringer Hauptstra\u00dfe 202",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9014
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"IM-Projekt e.U.",
+        "street":"Weichseltalweg 10",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9015
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Luca Jovanovic",
+        "street":"Zentralfriedhof",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9016
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Nemanja Jovanovic",
+        "street":"Kaiser-Ebersdorfer Stra\u00dfe 332\/6\/6",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9017
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Karl Rzihauschek KG",
+        "street":"Klebindergasse 7B",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9018
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Birgit Libal - Gartenbaubetrieb Fr\u00fchmann-Libal",
+        "street":"Weichseltalweg 877",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9019
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Franz M\u00fcller",
+        "street":"H\u00f6rtengasse 34",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9020
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Josef Ofner",
+        "street":"Simmeringer Hauptstra\u00dfe 353",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9021
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Seefried Blumenbaugesellschaft m.b.H.",
+        "street":"Simmeringer Hauptstra\u00dfe 351",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9022
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Bajram Shemo",
+        "street":"Mylius-Bluntschli-Stra\u00dfe \/Tor 11 Zentralfriedhof",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9023
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Franz Vogler",
+        "street":"Unter der Kirche 2",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9024
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"W. Potz Gesellschaft m.b.H.",
+        "street":"Simmeringer Hauptstra\u00dfe 395",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9025
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Andreas Josef Zahorak",
+        "street":"Simmeringer Hauptstra\u00dfe 365",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":9026
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Agim Dani",
+        "street":"Wundtgassevor 1A St\u00e4nde",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9027
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"S\u00fcdwestfriedhof",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9028
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"MAXI Blumen e.U. - MAXI Blumen & Friedhofsg\u00e4rtnerei",
+        "street":"Unter-Meidlinger Stra\u00dfe 99\/2",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9029
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Schiffinger & Schuster GesmbH. - Friedhofsg\u00e4rtnerei - Blumenhandel",
+        "street":"Haidackergasse 6(FRIEDHOF)",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9030
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Schiffinger & Schuster GesmbH. - Friedhofsg\u00e4rtnerei - Blumenhandel",
+        "street":"Wundtgasse 1A(AUFBAHRUNGSHALLE)",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9031
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Christine Schuster - Blumen Schuster in Meidling",
+        "street":"Kerschensteinergasse 34",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9032
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Peter Josef Schuster",
+        "street":"Hervicusgasse 25",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9033
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Aki \u0160eji",
+        "street":"Eichenstra\u00dfe 4A\/2\/3",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":9034
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Sulejman Elmazi",
+        "street":"Elisabethallee 67",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9035
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Arta Fida",
+        "street":"Wattmanngasse 6\/4",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9036
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"Maxingstra\u00dfe 15(Hietzinger Friedhof)",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9037
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Gartengestaltung Stingl GmbH",
+        "street":"Gemeindeberggasse 26(FRIEDHOF)",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9038
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"G\u00fcnther Wilhelm Graf",
+        "street":"Gemeindeberggasse 65",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9039
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Karl Weisz Gesellschaft m.b.H.",
+        "street":"Maxingstra\u00dfe 68",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9040
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Karl Weisz Gesellschaft m.b.H.",
+        "street":"Maxingstra\u00dfe 70",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":9041
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Bestattungsinstitut Heinrich ALTBART e.U.",
+        "street":"Waidhausenstra\u00dfeParz. 157",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9042
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Blumen Radl GmbH",
+        "street":"Samptwandnergasse 1",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9043
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Harald Ehrenberger",
+        "street":"Waidhausenstra\u00dfePARZ. 72",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9044
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"floristeria Blumenhandlung KG - floristeria Blumenhandlung KG",
+        "street":"Einwanggasse 55(PENZINGER FRIEDHOF)",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9045
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Ulrike Jezik-Osterbauer",
+        "street":"Friedhofstra\u00dfe (Penzing) 23",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9046
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Ulrike Jezik-Osterbauer",
+        "street":"Waidhausenstra\u00dfe 23",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9047
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Leitgeb-Hitzler GmbH",
+        "street":"Waidhausenstra\u00dfePARZ. 154",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9048
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Ilir Osmani",
+        "street":"Fl\u00f6tzersteig 172",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9049
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"PENZO Flora Blumen Fl\u00f6tzersteig GmbH",
+        "street":"Fl\u00f6tzersteig 180",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9050
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Polisi Gartencenter GmbH",
+        "street":"DonhartgasseGEGENUEBER 126 STAND",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9051
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Djeladin Redjepi",
+        "street":"Hans-Muhr-Promenade 5",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9052
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Sulejman Staraveci",
+        "street":"H\u00fctteldorfer Stra\u00dfe 283",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9053
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"\u0160kelzen \u017duta",
+        "street":"Donhartgasse 2",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9054
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Josef Wiesinger",
+        "street":"Waidhausenstra\u00dfe 48",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":9055
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Adi Jusufi - Jusufi G\u00e4rtnerei & Hausbetreuung",
+        "street":"Wurmsergasse 8, T\u00fcr 3",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":9056
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Orchidee Friedhofsg\u00e4rtnerei e.U.",
+        "street":"Herklotzgasse 19\/3\/8",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":9057
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Ilir Osmani",
+        "street":"Herklotzgasse 26, T\u00fcr 3",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":9058
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Admir Vlashi",
+        "street":"Felberstra\u00dfe 60, T\u00fcr 22",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":9059
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"Gallitzinstra\u00dfe 15(Ottakringer Friedhof)",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9060
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"G\u00e4rtnerei Vlasi OG",
+        "street":"Gallitzinstra\u00dfe 5",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9061
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Pal Lekaj",
+        "street":"Gallitzinstra\u00dfe 5, Stand 2 + 4",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9062
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Pal Lekaj",
+        "street":"Gallitzinstra\u00dfe 5Stand 4",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9063
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"M. Weilinger Gesellschaft m.b.H. & Co. KG",
+        "street":"Gallitzinstra\u00dfe 6",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9064
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Fari \u0160eji",
+        "street":"Johann-Staud-Stra\u00dfe 8A",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9065
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Andre Stadler - BLUMEN STADLER",
+        "street":"Redtenbachergasse 33",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9066
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Gerald Tuna",
+        "street":"Gallitzinstra\u00dfe 5",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9067
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Gerald Tuna",
+        "street":"Johann-Staud-Stra\u00dfe 9B",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9068
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Gerald Tuna",
+        "street":"Thaliastra\u00dfe 159",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":9069
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"BLUMEN Istrefi KG",
+        "street":"Leopold-Kunschak-Platz 6",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9070
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Blumen Vinca e.U.",
+        "street":"Leopold-Kunschak-Platz 6",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9071
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"Richthausenstra\u00dfe 6(Hernalser Friedhof)",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9072
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Silvia Inf\u00fcr",
+        "street":"Leopold-Kunschak-Platz 4",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9073
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Gabriele Nindl - Eichinger",
+        "street":"Leopold-Kunschak-Platz 5",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9074
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Peter Nowak",
+        "street":"Alszeile 13",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9075
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Bernhard P\u00f6chhacker",
+        "street":"Czartoryskigasse 80",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9076
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Polisi Gartencenter GmbH",
+        "street":"Hernalser Hauptstra\u00dfe 230\/16\/R01",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9077
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Dipl.-Ing. Bernhard Ziegler - G\u00c4RTNEREI ZIEGLER",
+        "street":"Alszeile 32",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":9078
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"P\u00f6tzleinsdorfer H\u00f6he(Friedhof Neustift am Walde)",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":9079
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Renate Petrides - BLUMEN RENATE",
+        "street":"P\u00f6tzleinsdorfer H\u00f6heFriedhof Neustift am Walde, Tor 3",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":9080
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Andre Stadler - BLUMEN STADLER",
+        "street":"P\u00f6tzleinsdorfer H\u00f6he 2(FRIEDHOF)",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":9081
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Alexandra Kreiner",
+        "street":"Boschstra\u00dfeEcke Gunoldstra\u00dfe",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":9082
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"M. Weilinger Gesellschaft m.b.H. & Co. KG",
+        "street":"An den langen L\u00fcssen 33(Friedhof)",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":9083
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Renate Petrides - BLUMEN RENATE",
+        "street":"Nottebohmstra\u00dfe 43",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":9084
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Alexander Andreas Michael Schneider",
+        "street":"Wenckebachgasse 8Haus 29",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":9085
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Franz Moser - Blumenhandlung und Friedhofsg\u00e4rtnerei GmbH",
+        "street":"Strebersdorfer Stra\u00dfe 2",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9086
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Gabriele Freisinger - Blumen Augustyn",
+        "street":"Liesneckgasse 12",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9087
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"FRIEDH\u00d6FE WIEN GmbH",
+        "street":"Stammersdorfer Stra\u00dfe 244(EZ 1810, Grdbch. Stammersdorf)",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9088
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"G\u00e4rtnerei Rischer GmbH",
+        "street":"Stammersdorfer Friedhofzentral (Allerheiligenmarkt)",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9089
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"G\u00e4rtnerei Rischer GmbH",
+        "street":"Stammersdorfer Stra\u00dfe 251A",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9090
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Ing. Josef H\u00fcbel",
+        "street":"Jedlersdorfer Stra\u00dfe 141",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9091
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Installateur A. Zwickl KG",
+        "street":"Leopoldauer Platz 2",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9092
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Walter Moser",
+        "street":"Anton-Haberzeth-Gassen\u00e4chst Friedhof Strebersdorf",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9093
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Rabije Sadiku",
+        "street":"Immengasse 25, T\u00fcr 6",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9094
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"W. Potz Gesellschaft m.b.H.",
+        "street":"Strebersdorfer Stra\u00dfe 4(FRIEDHOF GR.JEDLERSDORF)",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":9095
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Franz M\u00fcller KG",
+        "street":"Kagraner FriedhofGoldemundweg 11",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":9096
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Karin G\u00f6schl",
+        "street":"Langobardenstra\u00dfe 180(ASPERNER FRIEDHOF)",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":9097
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Karin G\u00f6schl Grab- und Gartengestaltung GesmbH",
+        "street":"Langobardenstra\u00dfe 180(ASPERNER FRIEDHOF)",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":9098
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Brigitte M\u00fcllner - Friedhofsg\u00e4rtnerei \"Riefler\"",
+        "street":"Goldemundweg 12",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":9099
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Zimer Ala",
+        "street":"Brunner Stra\u00dfe 35",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9100
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"B.N.K e.U.",
+        "street":"Kolbegasse 31",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9101
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Blumen Rott OG - BLUMEN ROTT",
+        "street":"Erlaaer Stra\u00dfe 64",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9102
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Lokman Dani",
+        "street":"Ketzergasse 136",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9103
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Josef Franz Georg Diner",
+        "street":"Kolbegasse 34(FRIEDHOF)",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9104
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Gartenbau Josef Diner e.U.",
+        "street":"Leinm\u00fcllergasse 1(RODAUNER FRIEDHOF)",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9105
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Gartenbau Josef Diner e.U.",
+        "street":"Pollakgasse 3(FRIEDHOF)",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9106
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Ursula Lehner",
+        "street":"Erlaaer Stra\u00dfe 92",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9107
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Behir Mena",
+        "street":"Wiegelestra\u00dfe 7",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9108
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Nehat Oda",
+        "street":"Ziedlergasse 28\/10, T\u00fcr 5",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9109
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Ramiz Zuta e.U.",
+        "street":"Reklewskigasse vor Onr. 25, \u00f6ffentlicher Parkplatz, rechte Seite",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9110
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Ehrenfried Anton Johann Richard Schatz",
+        "street":"Kolbegasse 34(FRIEDHOF)\/A",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9111
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Nagip Sheji",
+        "street":"Friedensstra\u00dfe 16A",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9112
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Mag. Bettina Stieber - Blumen Stieber",
+        "street":"Kolbegasse 38",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9113
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Susanne Fronaschitz e.U. - Blumen Susi",
+        "street":"Siebenhirtenstra\u00dfe 16",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9114
+    },
+    {
+        "branche_layer_3":"Friedhofsg\u00e4rtner",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"WEGSCHEID e.U.",
+        "street":"Kolbegasse 34",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":9115
+    }
+]

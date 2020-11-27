@@ -1,0 +1,62 @@
+[
+    {
+        "branche_layer_3":"Industrielle Buchbindereien",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Walstead Leykam Druck GmbH & Co KG",
+        "street":"Bickfordstra\u00dfe 21",
+        "zip_code":7201,
+        "locality":"Neud\u00f6rfl",
+        "id":31553
+    },
+    {
+        "branche_layer_3":"Industrielle Buchbindereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"G.G. Buchbinderei Gesellschaft m.b.H.",
+        "street":"Aspersdorferstra\u00dfe (Hollabrunn) 15",
+        "zip_code":2020,
+        "locality":"Hollabrunn",
+        "id":31554
+    },
+    {
+        "branche_layer_3":"Industrielle Buchbindereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"KALENDERMACHER GmbH & Co KG",
+        "street":"Wiener Stra\u00dfe 68",
+        "zip_code":2104,
+        "locality":"Spillern",
+        "id":31555
+    },
+    {
+        "branche_layer_3":"Industrielle Buchbindereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Br\u00fcder Gl\u00f6ckler GmbH",
+        "street":"Staudiglgasse 3",
+        "zip_code":2752,
+        "locality":"W\u00f6llersdorf",
+        "id":31556
+    },
+    {
+        "branche_layer_3":"Industrielle Buchbindereien",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Donau Forum Druck Ges.m.b.H.",
+        "street":"Walter-Jurmann-Gasse 9",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31557
+    },
+    {
+        "branche_layer_3":"Industrielle Buchbindereien",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Mediaprint Zeitungsdruckereigesellschaft m.b.H. & Co Kommanditgesellschaft",
+        "street":"Richard-Strauss-Stra\u00dfe 16",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31558
+    }
+]

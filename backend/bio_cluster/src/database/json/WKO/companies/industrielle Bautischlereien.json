@@ -1,0 +1,462 @@
+[
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"LEEB Balkone GmbH",
+        "street":"Maitratten 25",
+        "zip_code":9563,
+        "locality":"Gnesau",
+        "id":31507
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Hasslacher Werke e.U. - Berger Franz-Christian,Inh.der Fa.Franz Hasslacher",
+        "street":"K\u00f6tschach 132",
+        "zip_code":9640,
+        "locality":"K\u00f6tschach-Mauthen",
+        "id":31508
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Wicknorm Fenster GmbH - Klagenfurter Holzindustrie Wick Ges.m.b.H.",
+        "street":"V\u00f6lkermarkter Stra\u00dfe 85H",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":31509
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"GT-Holzbau Gei\u00dfelbacher GmbH - Gei\u00dfelbacher GmbH",
+        "street":"Hart 1",
+        "zip_code":9473,
+        "locality":"Lavam\u00fcnd",
+        "id":31510
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"LISEC Austria GmbH - LISEC Group",
+        "street":"Peter-Lisec-Stra\u00dfe 1",
+        "zip_code":3353,
+        "locality":"Seitenstetten",
+        "id":31511
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"LISEC Holding GmbH",
+        "street":"Bahnhofstra\u00dfe (Hausmening) 34",
+        "zip_code":3363,
+        "locality":"Hausmening",
+        "id":31512
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Polybau Fenster GmbH",
+        "street":"Mitterfeldstra\u00dfe 24(B\u00fcro)",
+        "zip_code":3300,
+        "locality":"Amstetten",
+        "id":31513
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"GLORIT Bausysteme GmbH",
+        "street":"Gloritstra\u00dfe 2",
+        "zip_code":2301,
+        "locality":"Gro\u00df-Enzersdorf",
+        "id":31514
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"ERGO Gesellschaft m.b.H.",
+        "street":"Korbelweg 224",
+        "zip_code":3871,
+        "locality":"Brand-Nagelberg",
+        "id":31515
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"WHB-Steinb\u00f6ck Fertighaus GmbH",
+        "street":"Heidenreichsteiner Stra\u00dfe 29",
+        "zip_code":3861,
+        "locality":"Eggern",
+        "id":31516
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Waidhofen\/Thaya",
+        "company_name":"Mario Franz Artner",
+        "street":"Kindergartenstra\u00dfe 9",
+        "zip_code":3902,
+        "locality":"Vitis",
+        "id":31517
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Hartl Haus Holzindustrie Gesellschaft m.b.H. - Hartl Haus Holzindustrie GmbH",
+        "street":"Haimschlag, Parz. 19, KG Haimschlag",
+        "zip_code":3903,
+        "locality":"Echsenbach",
+        "id":31518
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"WIEHAG GmbH - WIEHAG GmbH",
+        "street":"Linzer Stra\u00dfe 24",
+        "zip_code":4950,
+        "locality":"Altheim",
+        "id":31519
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"ABIES Austria Holzverarbeitung GmbH",
+        "street":"Oberweis 401",
+        "zip_code":4664,
+        "locality":"Gschwandt",
+        "id":31520
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Artweger GmbH. & Co. KG - Artweger GmbH. & Co. KG",
+        "street":"Sulzbacherstra\u00dfe 60",
+        "zip_code":4820,
+        "locality":"Bad Ischl",
+        "id":31521
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"DONAUS\u00c4GE Rumplmayr GmbH",
+        "street":"Bahnhofstra\u00dfe 50",
+        "zip_code":4813,
+        "locality":"Altm\u00fcnster",
+        "id":31522
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"TEAM 7 Nat\u00fcrlich Wohnen GmbH",
+        "street":"Gewerbepark 1",
+        "zip_code":4742,
+        "locality":"Pram",
+        "id":31523
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"JELD-WEN T\u00fcren GmbH",
+        "street":"Gleinkerau 70",
+        "zip_code":4582,
+        "locality":"Spital am Pyhrn",
+        "id":31524
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Rohol Vertriebs GmbH",
+        "street":"Hauptstra\u00dfe 31",
+        "zip_code":4581,
+        "locality":"Rosenau am Hengstpa\u00df",
+        "id":31525
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Internorm Bauelemente GmbH",
+        "street":"Ganglgutstr. 131",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":31526
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Internorm Fenster GmbH",
+        "street":"Ganglgutstra\u00dfe 131",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":31527
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"T\u00fcrenproduktion Allhaming Herbers GmbH & Co.KG. - ALLHA",
+        "street":"Allhaming 99",
+        "zip_code":4511,
+        "locality":"Allhaming",
+        "id":31528
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Haidl Fenster und T\u00fcren GmbH & Co KG",
+        "street":"Fensterstrasse 1",
+        "zip_code":4981,
+        "locality":"Reichersberg",
+        "id":31529
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Lederbauer Fenster und T\u00fcren GmbH & Co KG",
+        "street":"Fensterstrasse 1",
+        "zip_code":4981,
+        "locality":"Reichersberg",
+        "id":31530
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Gottfried Mayer GmbH & Co.KG.",
+        "street":"Niederranna, Parz.Nr. 104",
+        "zip_code":4085,
+        "locality":"Pfarrkirchen im M\u00fchlkreis",
+        "id":31531
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Internorm Bauelemente GmbH",
+        "street":"Am Teichfeld 6",
+        "zip_code":4152,
+        "locality":"Sarleinsbach",
+        "id":31532
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Daxecker Holzindustrie GmbH",
+        "street":"Hauptstr. 23",
+        "zip_code":4101,
+        "locality":"Feldkirchen",
+        "id":31533
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Wippro GmbH",
+        "street":"Gewerbestra\u00dfe 2",
+        "zip_code":4191,
+        "locality":"Vorderwei\u00dfenbach",
+        "id":31534
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Ing. Philipp Gesellschaft m.b.H. & Co. KG. - OBRA Design",
+        "street":"Satteltal 2",
+        "zip_code":4872,
+        "locality":"Neukirchen an der V\u00f6ckla",
+        "id":31535
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"IPM Schober Fenster Gesellschaft m.b.H.",
+        "street":"Ascheter Stra\u00dfe 44 und 50",
+        "zip_code":4600,
+        "locality":"Thalheim bei Wels",
+        "id":31536
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"IPM Schober Fenster Gesellschaft m.b.H.",
+        "street":"Haidstra\u00dfe 1",
+        "zip_code":4641,
+        "locality":"Steinhaus",
+        "id":31537
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"JELD-WEN T\u00fcren GmbH",
+        "street":"Elisabethkai 62",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":31538
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Pfeifer Holz GmbH & Co KG - Pfeifer Holz GmbH & Co KG",
+        "street":"Fabrikstra\u00dfe 42",
+        "zip_code":6460,
+        "locality":"Imst",
+        "id":31539
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Pfeifer Holz GmbH & Co KG - Pfeifer Holz GmbH & Co KG",
+        "street":"Industriezone 47",
+        "zip_code":6460,
+        "locality":"Imst",
+        "id":31540
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Tiroler Lamellierholz GmbH - TLH",
+        "street":"Innweg 3",
+        "zip_code":6424,
+        "locality":"Silz",
+        "id":31541
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Holz-Wenisch GmbH & Co KG",
+        "street":"Haller Stra\u00dfe 71",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":31542
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Johann Huter u. S\u00f6hne KG",
+        "street":"Josef-Franz-Huter-Stra\u00dfe 31",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":31543
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Pfeifer Holz GmbH & Co KG - Pfeifer Holz GmbH & Co KG",
+        "street":"Luna 88",
+        "zip_code":6250,
+        "locality":"Kundl",
+        "id":31544
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Holzbau Hofer Gesellschaft mbH - Holzbau Hofer GmbH",
+        "street":"Nikolsdorf 148",
+        "zip_code":9782,
+        "locality":"Nikolsdorf",
+        "id":31545
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Holzhof Arnbach GmbH",
+        "street":"Arnbach 75 A",
+        "zip_code":9920,
+        "locality":"Sillian",
+        "id":31546
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Nordpan Rubner Holzbauelemente GmbH",
+        "street":"Tassenbach 29",
+        "zip_code":9918,
+        "locality":"Strassen",
+        "id":31547
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Theurl Holzindustrie GmbH",
+        "street":"Thal-Wilfern 40",
+        "zip_code":9911,
+        "locality":"Assling",
+        "id":31548
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Binderholz GmbH",
+        "street":"Tiwagstra\u00dfe 3",
+        "zip_code":6200,
+        "locality":"Jenbach",
+        "id":31549
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"B&F Wien - Bestattung und Friedh\u00f6fe GmbH",
+        "street":"Simmeringer Hauptstra\u00dfe 339",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":31550
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"BFW Bestattungsservice Wien GmbH",
+        "street":"Anton-Mayer-Gasse 3",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":31551
+    },
+    {
+        "branche_layer_3":"industrielle Bautischlereien",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Leyrer + Graf Baugesellschaft m.b.H. - Leyrer + Graf Baugesellschaft m.b.H.",
+        "street":"Heiligenst\u00e4dter L\u00e4nde 17A",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":31552
+    }
+]

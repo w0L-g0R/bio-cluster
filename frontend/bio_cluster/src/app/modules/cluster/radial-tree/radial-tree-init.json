@@ -1,0 +1,83 @@
+{
+    "tooltip": {
+        "trigger": 'item',
+        "triggerOn": 'mousemove'
+    },
+    "series": [{
+        "type": 'tree',
+
+        "data": [this.radialTreeData],
+
+        "height": "200px",
+
+        "top": '40%',
+
+        "roam": true,
+        // edgeShape: "polyline",
+
+        "bottom": '0%',
+        "right": '0%',
+        "left": '0%',
+
+        "layout": 'radial',
+
+        // symbol: 'image://https://www.onlygfx.com/wp-content/uploads/2017/12/grunge-yes-no-icon-1.png',
+
+
+        // expandAndCollapse: false,
+
+        tooltip: { formatter: "Rooto" },
+
+        symbolKeepAspect: true,
+
+        symbolSize: 9,
+
+        labelSize: 55,
+
+        initialTreeDepth: 3,
+
+        animationDurationUpdate: 750,
+
+
+        leaves: {
+            itemStyle: {
+                color: 'rgb(0, 128, 0)',
+                shadowColor: 'rgba(0, 0, 0, 0.5)',
+                shadowBlur: 10,
+                opacity: 50,
+
+            },
+            label: {
+                show: true,
+                color: 'rgb(0, 128, 0)',
+                verticalAlign: "middle",
+            },
+
+        },
+
+        itemStyle: {
+            color: 'rgb(0, 0, 128)',
+            shadowColor: 'rgba(0, 0, 0, 0.5)',
+            shadowBlur: 10,
+            opacity: 10,
+
+        },
+
+        lineStyle: {
+            color: 'rgb(0, 0, 128)',
+            shadowColor: 'rgba(0, 0, 0, 0.5)',
+            shadowBlur: 10,
+            opacity: 10,
+            width: 0.5,
+            curveness: 0
+
+        },
+
+        label: {
+            show: false,
+            color: 'rgb(0, 10, 128)',
+            verticalAlign: "middle",
+        },
+    }]
+}
+}

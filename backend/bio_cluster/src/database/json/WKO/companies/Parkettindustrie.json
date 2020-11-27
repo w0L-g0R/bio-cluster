@@ -1,0 +1,142 @@
+[
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"Parador Parkettwerke GmbH",
+        "street":"Wiener Stra\u00dfe 66",
+        "zip_code":7540,
+        "locality":"G\u00fcssing",
+        "id":35503
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"Parkett Company GmbH & Co KG",
+        "street":"Europastra\u00dfe 2",
+        "zip_code":7540,
+        "locality":"G\u00fcssing",
+        "id":35504
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Trapa Holzwerkst\u00e4tten GmbH",
+        "street":"Blintendorfer Stra\u00dfe 20",
+        "zip_code":9300,
+        "locality":"St. Veit an der Glan",
+        "id":35505
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"FISCHER-PARKETT GmbH. & Co KG - Sico-Intarsia, Fischer & Co.",
+        "street":"Karawankenweg 54",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":35506
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"St\u00f6ckl Gesellschaft m.b.H. - St\u00f6ckl Parkett",
+        "street":"Heide, 25. Stra\u00dfe 1",
+        "zip_code":3331,
+        "locality":"Kematen an der Ybbs",
+        "id":35507
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Amashaufer GmbH - Holzindustrie",
+        "street":"Kendl 6",
+        "zip_code":3254,
+        "locality":"Bergland",
+        "id":35508
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"MAFI Naturholzboden GmbH - Mafi Naturholzb\u00f6den",
+        "street":"Utzweihstra\u00dfe 21+25",
+        "zip_code":5212,
+        "locality":"Lengau",
+        "id":35509
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Trapa Holzwerkst\u00e4tten GmbH",
+        "street":"Uferstra\u00dfe 23",
+        "zip_code":4801,
+        "locality":"Traunkirchen",
+        "id":35510
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Sch\u00f6nleitner Parkett GmbH",
+        "street":"Niederweiding 3",
+        "zip_code":4722,
+        "locality":"Peuerbach",
+        "id":35511
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"FISCHER-PARKETT GmbH. & Co KG",
+        "street":"Unionstra\u00dfe 3a",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":35512
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"tilo GmbH",
+        "street":"Magetsham 19",
+        "zip_code":4923,
+        "locality":"Lohnsburg",
+        "id":35513
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Reinlein Holz & Parkett Ges.m.b.H.",
+        "street":"Wimsbacher Stra\u00dfe 21",
+        "zip_code":4651,
+        "locality":"Stadl-Paura",
+        "id":35514
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"MAFI Naturholzboden GmbH",
+        "street":"Neutorstra\u00dfe 26",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":35515
+    },
+    {
+        "branche_layer_3":"Parkettindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 6. Bezirk (Mariahilf)",
+        "company_name":"FISCHER-PARKETT GmbH. & Co KG",
+        "street":"Theobaldgasse 4",
+        "zip_code":1060,
+        "locality":"Wien",
+        "id":35516
+    }
+]

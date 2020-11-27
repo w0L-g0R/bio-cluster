@@ -1,0 +1,352 @@
+[
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Mondi Frantschach GmbH - Frantschach Pulp & Paper Austria AG",
+        "street":"Frantschach 5",
+        "zip_code":9413,
+        "locality":"St.Gertraud",
+        "id":35070
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Mondi Neusiedler GmbH",
+        "street":"3. Stra\u00dfe 1",
+        "zip_code":3331,
+        "locality":"Kematen an der Ybbs",
+        "id":35071
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Mondi Neusiedler GmbH",
+        "street":"Theresienthalstra\u00dfe 50",
+        "zip_code":3363,
+        "locality":"Hausmening",
+        "id":35072
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"PONEDER e.U.",
+        "street":"Gunnersdorfer Stra\u00dfe 13",
+        "zip_code":3363,
+        "locality":"Neufurth",
+        "id":35073
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Ybbstaler Zellstoff GmbH",
+        "street":"3. Stra\u00dfe 1",
+        "zip_code":3331,
+        "locality":"Kematen an der Ybbs",
+        "id":35074
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Mayr-Melnhof Karton Gesellschaft m.b.H.",
+        "street":"Hirschwang an der Rax 77",
+        "zip_code":2651,
+        "locality":"Reichenau an der Rax",
+        "id":35075
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Prof\u00fcmed GmbH",
+        "street":"Wechselbundesstra\u00dfe 81",
+        "zip_code":2840,
+        "locality":"Thomasberg",
+        "id":35076
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"W. Hamburger GmbH",
+        "street":"Aspanger Stra\u00dfe 252",
+        "zip_code":2823,
+        "locality":"Pitten",
+        "id":35077
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Salzer Papier GmbH",
+        "street":"Stattersdorfer Hauptstra\u00dfe 53",
+        "zip_code":3100,
+        "locality":"St. P\u00f6lten",
+        "id":35078
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Essity Austria GmbH - Hygieneprodukte f\u00fcr den Endverbraucher und Gro\u00dfverbraucher",
+        "street":"Hauptstra\u00dfe 1",
+        "zip_code":2763,
+        "locality":"Pernitz",
+        "id":35079
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Laakirchen Papier AG - Laakirchen Papier AG",
+        "street":"Schillerstra\u00dfe 5",
+        "zip_code":4663,
+        "locality":"Laakirchen",
+        "id":35080
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"UPM-Kymmene Austria GmbH",
+        "street":"Fabriksplatz 1",
+        "zip_code":4662,
+        "locality":"Laakirchen",
+        "id":35081
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"DELSCI GmbH",
+        "street":"Fabrikstra\u00dfe 20",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":35082
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Dr. Franz Feurstein Gesellschaft m.b.H. - Dr. Franz Feurstein GmbH",
+        "street":"Fabrikstra\u00dfe 20",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":35083
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Smurfit Kappa Nettingsdorf AG & Co KG",
+        "street":"Nettingsdorfer Stra\u00dfe 40",
+        "zip_code":4053,
+        "locality":"Ansfelden",
+        "id":35084
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Merckens Karton- und Pappenfabrik GmbH - Karton- und Pappenfabrik",
+        "street":"Josefstal 10",
+        "zip_code":4311,
+        "locality":"Schwertberg",
+        "id":35085
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Papierfabrik Oberm\u00fchl Sonnberger GmbH - Verpackungspapiere - Handel und Ausr\u00fcstung",
+        "street":"Oberm\u00fchl 38-40",
+        "zip_code":4131,
+        "locality":"Kirchberg ob der Donau",
+        "id":35086
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Wagner GmbH & Co. KG",
+        "street":"Oberfeuchtenbach 11",
+        "zip_code":4120,
+        "locality":"Altenfelden",
+        "id":35087
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Lenzing Aktiengesellschaft - Lenzing Aktiengesellschaft",
+        "street":"Werkstra\u00dfe 2",
+        "zip_code":4860,
+        "locality":"Lenzing",
+        "id":35088
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Lenzing Papier GmbH",
+        "street":"Werkstra\u00dfe 2",
+        "zip_code":4860,
+        "locality":"Lenzing",
+        "id":35089
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"AustroCel Hallein GmbH - AustroCel Hallein GmbH",
+        "street":"Salzachtalstra\u00dfe 88",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":35090
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Norske Skog Bruck GmbH - Erzeuger von Zeitungs- und Magazinpapier",
+        "street":"Fabriksgasse 10",
+        "zip_code":8600,
+        "locality":"Bruck an der Mur",
+        "id":35091
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Mayr-Melnhof Karton Gesellschaft m.b.H.",
+        "street":"Wannersdorf 80",
+        "zip_code":8130,
+        "locality":"Frohnleiten",
+        "id":35092
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Sappi Austria Produktions-GmbH & Co. KG",
+        "street":"Brucker Stra\u00dfe 21",
+        "zip_code":8101,
+        "locality":"Gratkorn",
+        "id":35093
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Sappi Papier Holding GmbH",
+        "street":"Brucker Stra\u00dfe 21",
+        "zip_code":8101,
+        "locality":"Gratkorn",
+        "id":35094
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Brigl & Bergmeister GmbH - Hersteller von Etiketten- und flexiblen Verpackungspapieren",
+        "street":"Proleberstra\u00dfe 10",
+        "zip_code":8712,
+        "locality":"Niklasdorf",
+        "id":35095
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Zuegg & Co Pappenindustrie Gesellschaft m.b.H.",
+        "street":"KG: Timmersdorf",
+        "zip_code":8772,
+        "locality":"Timmersdorf",
+        "id":35096
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Zellstoff P\u00f6ls Aktiengesellschaft - Zellstoff P\u00f6ls Aktiengesellschaft",
+        "street":"Dr.Luigi Angeli-Stra\u00dfe 9",
+        "zip_code":8761,
+        "locality":"P\u00f6ls",
+        "id":35097
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Faserwell GmbH",
+        "street":"Rotfarbweg 5",
+        "zip_code":6820,
+        "locality":"Frastanz",
+        "id":35098
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"GANAHL AKTIENGESELLSCHAFT - RONDO Ganahl Aktiengesellschaft",
+        "street":"Rotfarbweg 5",
+        "zip_code":6820,
+        "locality":"Frastanz",
+        "id":35099
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"R. PISEC Zellstoff Ges.m.b.H.",
+        "street":"G\u00f6ttweihergasse 1",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":35100
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Zuegg & Co Pappenindustrie Gesellschaft m.b.H.",
+        "street":"Aspernbr\u00fcckengasse 4",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":35101
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Mondi AG",
+        "street":"Marxergasse 4A WIEN MITTE TOWER",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":35102
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Mayr-Melnhof Karton Gesellschaft m.b.H.",
+        "street":"Brahmsplatz 6",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":35103
+    },
+    {
+        "branche_layer_3":"Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Central National Gottesman Europe GmbH - Handel mit Papier, Pappe und Zellstoff",
+        "street":"Altmannsdorfer Stra\u00dfe 74",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":35104
+    }
+]

@@ -1,0 +1,1072 @@
+[
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Holz-Center Haring GmbH",
+        "street":"Walbersdorf Bauweltstra\u00dfe 10",
+        "zip_code":7210,
+        "locality":"Walbersdorf",
+        "id":1647
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Alfred Stefan Krainer - Krainer Alfred Stefan",
+        "street":"Schwalbenweg 9",
+        "zip_code":9300,
+        "locality":"St. Veit an der Glan",
+        "id":1648
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Wilhelm Siegfried Wascher",
+        "street":"Reinfelsdorf 10",
+        "zip_code":9431,
+        "locality":"St. Stefan im Lavanttal",
+        "id":1649
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Wilhelm Siegfried Wascher",
+        "street":"St. Marein 20",
+        "zip_code":9431,
+        "locality":"St. Stefan im Lavanttal",
+        "id":1650
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Robert Dornst\u00e4dter - Drechsler",
+        "street":"Flugfeldstra\u00dfe 7, T\u00fcr 2",
+        "zip_code":2540,
+        "locality":"Bad V\u00f6slau",
+        "id":1651
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Stefan Spitzbart",
+        "street":"Sulzg. 7",
+        "zip_code":2405,
+        "locality":"Bad Deutsch Altenburg",
+        "id":1652
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"Martin J\u00e4ger - Trockenbau, Drechslerei und Stiegenbau",
+        "street":"Zum wei\u00dfen Engel 254",
+        "zip_code":2070,
+        "locality":"Retz",
+        "id":1653
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"RM Perlmuttdesign GmbH",
+        "street":"Felling 37",
+        "zip_code":2092,
+        "locality":"Hardegg",
+        "id":1654
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Dipl.-Ing. David Wagner",
+        "street":"Gartengasse 5",
+        "zip_code":3542,
+        "locality":"Gf\u00f6hl",
+        "id":1655
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Mistelbach",
+        "company_name":"Thomas Neumann",
+        "street":"Industrieparkstra\u00dfe 10",
+        "zip_code":2130,
+        "locality":"Mistelbach",
+        "id":1656
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Josef Gutscher - Drechslerei",
+        "street":"Lengbachl 19",
+        "zip_code":3033,
+        "locality":"Lengbachl",
+        "id":1657
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Jelinek Holzwaren e.U. - Drechslerei",
+        "street":"Serpentingasse 8",
+        "zip_code":3251,
+        "locality":"Purgstall an der Erlauf",
+        "id":1658
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Thomas L\u00e4ngauer",
+        "street":"Steinbachmauer 39",
+        "zip_code":3345,
+        "locality":"G\u00f6stling an der Ybbs",
+        "id":1659
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Andreas Reiter - Drechslerei Reiter",
+        "street":"Gro\u00dfglobnitz 47",
+        "zip_code":3910,
+        "locality":"Zwettl",
+        "id":1660
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Andreas Reiter - Drechslerei Reiter",
+        "street":"Rudmanns 136",
+        "zip_code":3910,
+        "locality":"Zwettl",
+        "id":1661
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"G\u00fcnter Huber - Draxlerei.at",
+        "street":"Gewerbepark Heiligenstatt 3",
+        "zip_code":5120,
+        "locality":"St. Pantaleon",
+        "id":1662
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Markus Lehner",
+        "street":"Am Gr\u00fcnberg 2",
+        "zip_code":4283,
+        "locality":"Bad Zell",
+        "id":1663
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Josef M\u00fchlehner",
+        "street":"Weberberg 5",
+        "zip_code":4283,
+        "locality":"Bad Zell",
+        "id":1664
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Josef Pum",
+        "street":"Schlag 123",
+        "zip_code":4264,
+        "locality":"Gr\u00fcnbach",
+        "id":1665
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Thomas Traxler",
+        "street":"Am Teich 24",
+        "zip_code":4264,
+        "locality":"Gr\u00fcnbach",
+        "id":1666
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Martin Donleitner - MARTINS Drechsler-Handwerk",
+        "street":"Altmanning 9, T\u00fcr 2",
+        "zip_code":4661,
+        "locality":"Roitham am Traunfall",
+        "id":1667
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Manuel Drozdek",
+        "street":"Landsgraben 4, T\u00fcr 2",
+        "zip_code":4802,
+        "locality":"Ebensee",
+        "id":1668
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Wolfgang Peter Hubert Maria Eichinger",
+        "street":"Mautstra\u00dfe 34",
+        "zip_code":4655,
+        "locality":"Vorchdorf",
+        "id":1669
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Jakob Christoph Gamsj\u00e4ger",
+        "street":"Waldweg 8",
+        "zip_code":4824,
+        "locality":"Gosau",
+        "id":1670
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Gustav Helmut Gapp",
+        "street":"Gosau 457",
+        "zip_code":4824,
+        "locality":"Gosau",
+        "id":1671
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Janu Gesellschaft m.b.H.",
+        "street":"Badergraben 57",
+        "zip_code":4830,
+        "locality":"Hallstatt",
+        "id":1672
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Josef Leitner",
+        "street":"Axlau 13",
+        "zip_code":4814,
+        "locality":"Altm\u00fcnster",
+        "id":1673
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Rudolf Prohaska",
+        "street":"Grubbachstra\u00dfe 30",
+        "zip_code":4644,
+        "locality":"Scharnstein",
+        "id":1674
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Wolfram Rudolf Prohaska",
+        "street":"Grubbachstra\u00dfe 30",
+        "zip_code":4644,
+        "locality":"Scharnstein",
+        "id":1675
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Bj\u00f6rn Robin Putz",
+        "street":"Au 42\/2",
+        "zip_code":4822,
+        "locality":"Bad Goisern am Hallst\u00e4ttersee",
+        "id":1676
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Herbert Schenner",
+        "street":"K\u00f6\u00dflbachstra\u00dfe 40, T\u00fcr 1",
+        "zip_code":4820,
+        "locality":"Bad Ischl",
+        "id":1677
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Rudolf Schwaiger - Garten Haus Wald",
+        "street":"Dr. Rasper-Stra\u00dfe 3",
+        "zip_code":4802,
+        "locality":"Ebensee",
+        "id":1678
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Johann Deutsch - Drechslerei",
+        "street":"Sch\u00f6nauer Stra\u00dfe 41",
+        "zip_code":4701,
+        "locality":"Bad Schallerbach",
+        "id":1679
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Karl Felbermayr",
+        "street":"Gassenbauerweg 10",
+        "zip_code":4643,
+        "locality":"Pettenbach",
+        "id":1680
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Gasplmayr GmbH - Freude schenken ... mit Holz!",
+        "street":"Steyrtalstra\u00dfe 3",
+        "zip_code":4594,
+        "locality":"Gr\u00fcnburg",
+        "id":1681
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Georg Hieslmayr",
+        "street":"Reintalstra\u00dfe 14",
+        "zip_code":4596,
+        "locality":"Steinbach an der Steyr",
+        "id":1682
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Ferdinand Josef Holzinger",
+        "street":"In der Wimm 16",
+        "zip_code":4565,
+        "locality":"Inzersdorf im Kremstal",
+        "id":1683
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Alexander Sergl",
+        "street":"Zehetner 11",
+        "zip_code":4596,
+        "locality":"Steinbach an der Steyr",
+        "id":1684
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Christian Zemsauer",
+        "street":"Schulstra\u00dfe 43",
+        "zip_code":4596,
+        "locality":"Steinbach an der Steyr",
+        "id":1685
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Erich Saminger",
+        "street":"Pfarrplatz 12\/Graben 1",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":1686
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Andreas P\u00f6schko, BSc",
+        "street":"Moos 15, T\u00fcr 2",
+        "zip_code":4470,
+        "locality":"Enns",
+        "id":1687
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Johann Nepomuk Karl Schatzlmayr",
+        "street":"Kirchfeldgasse 10",
+        "zip_code":4063,
+        "locality":"H\u00f6rsching",
+        "id":1688
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Josef Sch\u00f6nberger",
+        "street":"W\u00fcrzenberg 3",
+        "zip_code":4362,
+        "locality":"Bad Kreuzen",
+        "id":1689
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Dipl.Ing. Franz Josef St\u00f6gm\u00fcller",
+        "street":"Forst 7, T\u00fcr 1",
+        "zip_code":4225,
+        "locality":"Luftenberg an der Donau",
+        "id":1690
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Reinhold Bei\u00dfmann",
+        "street":"Hehenberg 21",
+        "zip_code":4171,
+        "locality":"Auberg",
+        "id":1691
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Fabian Prach",
+        "street":"Katastralgemeinde: 47322 Grundst\u00fccksnummer: 174\/7",
+        "zip_code":4170,
+        "locality":"St. Stefan-Afiesl",
+        "id":1692
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Christian Scharrer",
+        "street":"Kirchenplatz 4",
+        "zip_code":4143,
+        "locality":"Neustift im M\u00fchlkreis",
+        "id":1693
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Holzeisstock - Drechslerei Wimmer KG",
+        "street":"Oberndorf 7",
+        "zip_code":4793,
+        "locality":"St. Roman",
+        "id":1694
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Johann Ortbauer",
+        "street":"Pranzen 4",
+        "zip_code":4770,
+        "locality":"Andorf",
+        "id":1695
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Dipl. P\u00e4d. Thomas Georg Rezanka - Musikinstrumentenbau",
+        "street":"Feldweg 8",
+        "zip_code":4421,
+        "locality":"Aschach an der Steyr",
+        "id":1696
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Manfred Unterbuchschachner",
+        "street":"Buchschachen 13",
+        "zip_code":4443,
+        "locality":"Maria Neustift",
+        "id":1697
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Friedrich Leibetseder",
+        "street":"Buchenweg 6",
+        "zip_code":4111,
+        "locality":"Walding",
+        "id":1698
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Franz Schallmainer",
+        "street":"Haid 27",
+        "zip_code":4870,
+        "locality":"V\u00f6cklamarkt",
+        "id":1699
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Seyringer Holzwaren Gesellschaft m.b.H. & Co KG",
+        "street":"St\u00f6tten 3",
+        "zip_code":4851,
+        "locality":"Gampern",
+        "id":1700
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Daniel Strobl",
+        "street":"Weiterschwang 37",
+        "zip_code":4851,
+        "locality":"Gampern",
+        "id":1701
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Stephan Feichtinger - Rund ums Holz Drechslerei und Holzsonderanfertigungen",
+        "street":"Haslleiten 9",
+        "zip_code":4600,
+        "locality":"Thalheim bei Wels",
+        "id":1702
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Johann Waldenberger",
+        "street":"Felling 6",
+        "zip_code":4624,
+        "locality":"Pennewang",
+        "id":1703
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Haagn GmbH & Co KG",
+        "street":"Gamperstra\u00dfe S\u00fcd 5",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":1704
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Haagn GmbH & Co KG",
+        "street":"Jadorf 48",
+        "zip_code":5431,
+        "locality":"Kuchl",
+        "id":1705
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Leonhard Fersterer",
+        "street":"Astenstra\u00dfe 33",
+        "zip_code":5112,
+        "locality":"Lamprechtshausen",
+        "id":1706
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Matth\u00e4us Leitgeb - Holzkunst M.Leitgeb (Drechslerei)",
+        "street":"Mondseestra\u00dfe 2",
+        "zip_code":5340,
+        "locality":"Sankt Gilgen",
+        "id":1707
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Thomas Meisl",
+        "street":"Auwiesenstra\u00dfe 31",
+        "zip_code":5161,
+        "locality":"Elixhausen",
+        "id":1708
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Mag. rer. nat. Paul W\u00f6gerer-Moreau",
+        "street":"Gewerbestra\u00dfe 8",
+        "zip_code":5300,
+        "locality":"Hallwang",
+        "id":1709
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Drechslerei Angerer GmbH",
+        "street":"Maierhofen 111",
+        "zip_code":5632,
+        "locality":"Dorfgastein",
+        "id":1710
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"WEISS GmbH",
+        "street":"Reitdorf 124",
+        "zip_code":5542,
+        "locality":"Flachau",
+        "id":1711
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Holzfaszination MAYH\u00d6 OG",
+        "street":"Sauerfeld 143",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":1712
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"abytemore e.U.",
+        "street":"Rossberg 294",
+        "zip_code":5741,
+        "locality":"Neukirchen am Gro\u00dfvenediger",
+        "id":1713
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Christian Innerhofer",
+        "street":"Dorfstra\u00dfe 323",
+        "zip_code":5733,
+        "locality":"Bramberg am Wildkogel",
+        "id":1714
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Hermann Resch",
+        "street":"Thorerstra\u00dfe 1",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":1715
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Gerhard Kienzl",
+        "street":"Hollerweg 2",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":1716
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Wolfgang Kurt Klaritsch",
+        "street":"Anton-Kleinoscheg-Stra\u00dfe 13",
+        "zip_code":8051,
+        "locality":"Graz",
+        "id":1717
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Karl Harkam",
+        "street":"Hauptstra\u00dfe 88",
+        "zip_code":8142,
+        "locality":"Wundschuh",
+        "id":1718
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Willi Zenz",
+        "street":"Stiwoll 134",
+        "zip_code":8113,
+        "locality":"Stiwoll",
+        "id":1719
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Gr\u00f6bming",
+        "company_name":"Lukas Lettmayer",
+        "street":"Wei\u00dfenbach 85",
+        "zip_code":8967,
+        "locality":"Haus",
+        "id":1720
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"Zum klingenden Kreisel OG",
+        "street":"Triebendorf 11",
+        "zip_code":8850,
+        "locality":"Murau",
+        "id":1721
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Peter P\u00f6llabauer",
+        "street":"Sonnleitberg 107",
+        "zip_code":8616,
+        "locality":"Sonnleitberg",
+        "id":1722
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Franz Prem - Drechselarbeiten Franz Prem",
+        "street":"Gersdorf\/F. 46",
+        "zip_code":8212,
+        "locality":"Gersdorf\/F.",
+        "id":1723
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Drechslerei Nuding GmbH & Co. KG",
+        "street":"Bruckergasse 11",
+        "zip_code":6060,
+        "locality":"Hall in Tirol",
+        "id":1724
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Ludwig Lorenz - Pfeifendesign Lorenz",
+        "street":"Olympiastra\u00dfe 11\/Top 1",
+        "zip_code":6091,
+        "locality":"G\u00f6tzens",
+        "id":1725
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Meyer Drechslerei GmbH",
+        "street":"Waldraster Stra\u00dfe 28",
+        "zip_code":6166,
+        "locality":"Fulpmes",
+        "id":1726
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Bruno Kainzner",
+        "street":"Sonnhangweg 27",
+        "zip_code":6314,
+        "locality":"Hopfgarten im Brixental",
+        "id":1727
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Regina Johanna Wurzrainer",
+        "street":"M\u00fchltal 87",
+        "zip_code":6363,
+        "locality":"Westendorf",
+        "id":1728
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Margit Gschwentner - DREH FORM",
+        "street":"Thalm\u00fchle 7",
+        "zip_code":6311,
+        "locality":"Wildsch\u00f6nau-Oberau",
+        "id":1729
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Sigrid Hebesberger",
+        "street":"Dorf 111",
+        "zip_code":6306,
+        "locality":"S\u00f6ll",
+        "id":1730
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Alois Andreas Kraler",
+        "street":"Abfaltersbach 9",
+        "zip_code":9913,
+        "locality":"Abfaltersbach",
+        "id":1731
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Walter Franz Buchberger",
+        "street":"Schwendau Stra\u00dfe 191",
+        "zip_code":6290,
+        "locality":"Mayrhofen",
+        "id":1732
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Michael Rohrmoser",
+        "street":"Pumperergasse 14",
+        "zip_code":6275,
+        "locality":"Stumm",
+        "id":1733
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Peter Andres",
+        "street":"Im Loch 11",
+        "zip_code":6710,
+        "locality":"Nenzing-Gurtis",
+        "id":1734
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Leo Albert Fiel",
+        "street":"St. Gallenkirch 48a",
+        "zip_code":6791,
+        "locality":"St. Gallenkirch",
+        "id":1735
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Ing. Bernadette Berta Muxel",
+        "street":"Stubenbach 553",
+        "zip_code":6764,
+        "locality":"Lech",
+        "id":1736
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Manfred Ferdinand Reichl",
+        "street":"Am Tobel 39, T\u00fcr 10",
+        "zip_code":6700,
+        "locality":"Bludenz",
+        "id":1737
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Martin Kaspar Fink",
+        "street":"Risar 95",
+        "zip_code":6960,
+        "locality":"Buch",
+        "id":1738
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Edgar Jenny",
+        "street":"Schanzweg 11, Top 1",
+        "zip_code":6900,
+        "locality":"Lochau",
+        "id":1739
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Ing. Thomas Klocker - Drechsler, Handwerkskunst, Edles aus Holz",
+        "street":"Ro\u00dff\u00e4ng 14a",
+        "zip_code":6858,
+        "locality":"Schwarzach",
+        "id":1740
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Gotthard Fenkart",
+        "street":"St.-Rochus-Weg 37",
+        "zip_code":6845,
+        "locality":"Hohenems",
+        "id":1741
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"G\u00fcnter Arnold Flatz",
+        "street":"Wieden 44a",
+        "zip_code":6850,
+        "locality":"Dornbirn",
+        "id":1742
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Hubert Josef Kremmel",
+        "street":"Staldenstra\u00dfe 41b",
+        "zip_code":6890,
+        "locality":"Lustenau",
+        "id":1743
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Christof Eduard Urdl",
+        "street":"Badlochstra\u00dfe 11",
+        "zip_code":6890,
+        "locality":"Lustenau",
+        "id":1744
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Wolfgang Waibel",
+        "street":"Ro\u00dfm\u00e4hder 37",
+        "zip_code":6850,
+        "locality":"Dornbirn",
+        "id":1745
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Ernst Ackerl",
+        "street":"Lirerstra\u00dfe 29",
+        "zip_code":6844,
+        "locality":"Altach",
+        "id":1746
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Astrid Graber Art and Graphicdesign e.U.",
+        "street":"Neue Landstra\u00dfe 83d",
+        "zip_code":6841,
+        "locality":"M\u00e4der",
+        "id":1747
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Josef Fechtig",
+        "street":"Egelseestra\u00dfe 10a",
+        "zip_code":6800,
+        "locality":"Feldkirch",
+        "id":1748
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Josef Heinzle",
+        "street":"Florastra\u00dfe 3",
+        "zip_code":6800,
+        "locality":"Feldkirch",
+        "id":1749
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Johann Karl Roithmeir",
+        "street":"R\u00fcttenenstra\u00dfe 3",
+        "zip_code":6800,
+        "locality":"Feldkirch",
+        "id":1750
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Dietmar Stelzl",
+        "street":"Ried 10",
+        "zip_code":6842,
+        "locality":"Koblach",
+        "id":1751
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"Thomas Kreuz - WauWau Pfefferm\u00fchlen",
+        "street":"Westbahnstra\u00dfe 7\/13",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":1752
+    },
+    {
+        "branche_layer_3":"Drechsler",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Johannes Leitgeb",
+        "street":"Langobardenstra\u00dfe 23-27\/8\/12",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":1753
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Head Sport GmbH",
+        "street":"Tyroliaplatz 1",
+        "zip_code":2320,
+        "locality":"Schwechat",
+        "id":35911
+    },
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Fischer Sports GmbH",
+        "street":"Fischerstra\u00dfe 8",
+        "zip_code":4910,
+        "locality":"Ried im Innkreis",
+        "id":35912
+    },
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Head Sport GmbH",
+        "street":"Halleiner Landesstra\u00dfe 84",
+        "zip_code":5411,
+        "locality":"Oberalm",
+        "id":35913
+    },
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"M. Kaindl KG",
+        "street":"Gappen 38",
+        "zip_code":5523,
+        "locality":"Annaberg-Lung\u00f6tz",
+        "id":35914
+    },
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"ATOMIC Austria GmbH",
+        "street":"Atomic Stra\u00dfe 1",
+        "zip_code":5541,
+        "locality":"Altenmarkt im Pongau",
+        "id":35915
+    },
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Blizzard Sport GmbH - Blizzard Sport GmbH",
+        "street":"Klausgasse 32",
+        "zip_code":5730,
+        "locality":"Mittersill",
+        "id":35916
+    },
+    {
+        "branche_layer_3":"Ski- und Sportarktikelindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Rax Skidesign GmbH",
+        "street":"Steigenteschgasse 13\/1\/25",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":35917
+    }
+]

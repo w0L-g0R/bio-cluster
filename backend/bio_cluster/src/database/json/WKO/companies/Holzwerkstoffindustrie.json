@@ -1,0 +1,72 @@
+[
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"FunderMax GmbH - for people who create",
+        "street":"Zollfeldstra\u00dfe 92",
+        "zip_code":9300,
+        "locality":"St. Veit an der Glan",
+        "id":31192
+    },
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"FunderMax GmbH - for people who create",
+        "street":"Klagenfurter Stra\u00dfe 87-89",
+        "zip_code":9300,
+        "locality":"St.Veit an der Glan",
+        "id":31193
+    },
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Tilly Holzindustrie Gesellschaft m.b.H. - Tilly Holzindustrie Gesellschaft m.b.H.",
+        "street":"Krappfelder Stra\u00dfe 25 - 27",
+        "zip_code":9330,
+        "locality":"Althofen",
+        "id":31194
+    },
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Stora Enso WP Bad St. Leonhard GmbH",
+        "street":"Wisperndorf 4",
+        "zip_code":9462,
+        "locality":"Bad St. Leonhard im Lavanttal",
+        "id":31195
+    },
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"M. Kaindl KG",
+        "street":"Gappen 38",
+        "zip_code":5523,
+        "locality":"Annaberg-Lung\u00f6tz",
+        "id":31196
+    },
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"M. Kaindl KG",
+        "street":"Oberst-Lepperdinger-Stra\u00dfe 3- 7",
+        "zip_code":5071,
+        "locality":"Wals",
+        "id":31197
+    },
+    {
+        "branche_layer_3":"Holzwerkstoffindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"M. Kaindl KG",
+        "street":"Kaindlstra\u00dfe 2",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":31198
+    }
+]

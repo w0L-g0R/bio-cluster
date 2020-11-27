@@ -1,0 +1,92 @@
+[
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Neumann GmbH",
+        "street":"Leithagasse 15",
+        "zip_code":2473,
+        "locality":"Potzneusiedl",
+        "id":31183
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"PaletteX GmbH",
+        "street":"\u00d6hlerm\u00fchle 3",
+        "zip_code":3362,
+        "locality":"Oed-Oehling",
+        "id":31184
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Peter Panzenb\u00f6ck Gesellschaft m.b.H.",
+        "street":"Leobersdorfer Stra\u00dfe 26",
+        "zip_code":2560,
+        "locality":"Berndorf",
+        "id":31185
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Johannes Postl Ges.m.b.H.",
+        "street":"Miesenbach 65",
+        "zip_code":2761,
+        "locality":"Miesenbach",
+        "id":31186
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Karl Hollinger KG",
+        "street":"Hauptstra\u00dfe (Neusiedl) 2",
+        "zip_code":2763,
+        "locality":"Waidmannsfeld",
+        "id":31187
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Konrad Brunner Gesellschaft m.b.H.",
+        "street":"Gradnitztalweg 6",
+        "zip_code":3910,
+        "locality":"Zwettl",
+        "id":31188
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Georg Dirmayer, S\u00e4gewerk und fabriksm\u00e4\u00dfige Erzeugung von Holzwaren e.U.",
+        "street":"Alterbachweg 9",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":31189
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Holz Verpackung Haider GmbH",
+        "street":"Hackl-Stra\u00dfe 1",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":31190
+    },
+    {
+        "branche_layer_3":"Holzverpackungs- und -packmittelindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Hoppichler Gesellschaft m.b.H.",
+        "street":"Frankenburger Stra\u00dfe 5",
+        "zip_code":4870,
+        "locality":"V\u00f6cklamarkt",
+        "id":31191
+    }
+]

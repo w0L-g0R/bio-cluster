@@ -1,0 +1,32 @@
+[
+    {
+        "branche_layer_3":"Sonstige industrielle Verpackungsherstellung",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Josef Reinthaler GmbH & Co KG Kartonagen-Zimmerei-Holzverarbeitung",
+        "street":"Alte Hauptstra\u00dfe 34",
+        "zip_code":8580,
+        "locality":"K\u00f6flach",
+        "id":36091
+    },
+    {
+        "branche_layer_3":"Sonstige industrielle Verpackungsherstellung",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"ARIAN Gesellschaft m.b.H.",
+        "street":"W\u00fcnschendorf 160",
+        "zip_code":8200,
+        "locality":"Hofst\u00e4tten an der Raab",
+        "id":36092
+    },
+    {
+        "branche_layer_3":"Sonstige industrielle Verpackungsherstellung",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Ummenhofer-Verpackungen GmbH",
+        "street":"Gewerbestra\u00dfe 1",
+        "zip_code":8200,
+        "locality":"Albersdorf-Prebuch",
+        "id":36093
+    }
+]

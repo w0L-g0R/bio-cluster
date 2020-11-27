@@ -1,0 +1,1202 @@
+[
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Energie Burgenland Windkraft GmbH",
+        "street":"Kasernenstra\u00dfe 10",
+        "zip_code":7000,
+        "locality":"Eisenstadt",
+        "id":23480
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"G\u00fcssing Renewable Energy GmbH",
+        "street":"Europastra\u00dfe 1",
+        "zip_code":7540,
+        "locality":"G\u00fcssing",
+        "id":23481
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Jennersdorf",
+        "company_name":"Energie 42 Beteiligungs GmbH",
+        "street":"Industriegel\u00e4nde 7",
+        "zip_code":7561,
+        "locality":"Heiligenkreuz im Lafnitztal",
+        "id":23482
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Jennersdorf",
+        "company_name":"Stephan Fuchs - Energie Fuchs",
+        "street":"Unter-Henndorf 6, T\u00fcr 2",
+        "zip_code":8380,
+        "locality":"Jennersdorf",
+        "id":23483
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"E-K\u00d6NIG GMBH",
+        "street":"Hochstra\u00dfe 23a, Top 4",
+        "zip_code":2540,
+        "locality":"Bad V\u00f6slau",
+        "id":23484
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"eFriends Energy GmbH",
+        "street":"Nappersdorf 51",
+        "zip_code":2023,
+        "locality":"Nappersdorf-Kammersdorf",
+        "id":23485
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Gemeindeverband Sierndorf und Gro\u00dfmugl",
+        "street":"Prager Stra\u00dfe 13",
+        "zip_code":2011,
+        "locality":"Sierndorf",
+        "id":23486
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Marktgemeinde Sierndorf",
+        "street":"Prager Stra\u00dfe 13",
+        "zip_code":2011,
+        "locality":"Sierndorf",
+        "id":23487
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Rosina Ramgraber",
+        "street":"Hollabrunner Stra\u00dfe 9",
+        "zip_code":2111,
+        "locality":"Oberg\u00e4nserndorf",
+        "id":23488
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Alpenenergie - Gesellschaft f\u00fcr Energievermarktung mbH",
+        "street":"Plaika 6",
+        "zip_code":3254,
+        "locality":"Bergland",
+        "id":23489
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"'carlo' Loysch GmbH - Entwicklung, Fertigung und Grosshandel von elektrischen Heizelementen und Anlagen",
+        "street":"Pielacher Str. 50",
+        "zip_code":3390,
+        "locality":"Melk",
+        "id":23490
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Stadtgemeinde P\u00f6chlarn",
+        "street":"Kirchenplatz 1",
+        "zip_code":3380,
+        "locality":"P\u00f6chlarn",
+        "id":23491
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Mistelbach",
+        "company_name":"RES International Energy Projects GmbH",
+        "street":"Zlaberner Strasse 45",
+        "zip_code":2135,
+        "locality":"Neudorf bei Staatz",
+        "id":23492
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"ENERGIE-FUCHS GmbH",
+        "street":"Industriestra\u00dfe 23",
+        "zip_code":2353,
+        "locality":"Guntramsdorf",
+        "id":23493
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"EVN Energievertrieb GmbH & Co KG",
+        "street":"EVN-Platz",
+        "zip_code":2344,
+        "locality":"Maria Enzersdorf",
+        "id":23494
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Voccas GmbH",
+        "street":"Triesterstra\u00dfe 14,EG, Top 005",
+        "zip_code":2351,
+        "locality":"Wiener Neudorf",
+        "id":23495
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Burner Pioneers GmbH",
+        "street":"Alois-Ebner-Stra\u00dfe 1",
+        "zip_code":3150,
+        "locality":"Wilhelmsburg",
+        "id":23496
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"ees energy environment solutions GmbH",
+        "street":"Dr.Wilhelm Steing\u00f6tter-Stra\u00dfe 15",
+        "zip_code":3100,
+        "locality":"St. P\u00f6lten",
+        "id":23497
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"DDr. Hubert Seitlberger",
+        "street":"Hauptstra\u00dfe 30",
+        "zip_code":3200,
+        "locality":"Ober-Grafendorf",
+        "id":23498
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"DREI ENERGY GmbH",
+        "street":"Wallner-Vetter-Gasse 18",
+        "zip_code":3483,
+        "locality":"Grafenw\u00f6rth",
+        "id":23499
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"ELeggTRICITY GmbH",
+        "street":"Nr. 12",
+        "zip_code":3452,
+        "locality":"Diendorf",
+        "id":23500
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Marktgemeinde Grafenw\u00f6rth",
+        "street":"M\u00fchlplatz 1",
+        "zip_code":3484,
+        "locality":"Grafenw\u00f6rth",
+        "id":23501
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"10hoch4 B\u00fcrgerEnergie GmbH",
+        "street":"Gauermanngasse 20f",
+        "zip_code":2700,
+        "locality":"Wiener Neustadt",
+        "id":23502
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"10hoch4 Energiesysteme GmbH - Planer und Errichter von wirtschaftlich optimierten Photovoltaikanlagen",
+        "street":"Gauermanngasse 20F",
+        "zip_code":2700,
+        "locality":"Wiener Neustadt",
+        "id":23503
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"10hoch4 Photovoltaik GmbH",
+        "street":"Ing. Gerhard Fildanstra\u00dfe 2\/2",
+        "zip_code":2490,
+        "locality":"Ebenfurth",
+        "id":23504
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Autohaus Bucklige Welt GmbH",
+        "street":"Bundesstra\u00dfe 34",
+        "zip_code":2851,
+        "locality":"Krumbach",
+        "id":23505
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Gnam elektrotechnische Anlagen Gesellschaft m.b.H.",
+        "street":"Hauptstra\u00dfe 25",
+        "zip_code":2801,
+        "locality":"Katzelsdorf",
+        "id":23506
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"AVIA Energy Austria GmbH",
+        "street":"Weitraer Stra\u00dfe 20",
+        "zip_code":3910,
+        "locality":"Zwettl",
+        "id":23507
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Eferding",
+        "company_name":"KMA Energietechnik GmbH",
+        "street":"Breitenaich 74",
+        "zip_code":4612,
+        "locality":"Scharten",
+        "id":23508
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Prime Energy Solutions GmbH",
+        "street":"Schulstra\u00dfe 20",
+        "zip_code":4284,
+        "locality":"Tragwein",
+        "id":23509
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Solardoktor Service GmbH",
+        "street":"G\u00f6tschka 5",
+        "zip_code":4212,
+        "locality":"Neumarkt im M\u00fchlkreis",
+        "id":23510
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Hauptplatz 17",
+        "zip_code":4560,
+        "locality":"Kirchdorf an der Krems",
+        "id":23511
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"ENAMO \u00d6kostrom GmbH",
+        "street":"B\u00f6hmerwaldstra\u00dfe 16",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":23512
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Energie AG Ober\u00f6sterreich Trading GmbH",
+        "street":"B\u00f6hmerwaldstra\u00dfe 3",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":23513
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Energieallianz Austria GmbH",
+        "street":"Goethestra\u00dfe 7",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":23514
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Bernhard Mitter",
+        "street":"H\u00f6rzingerstra\u00dfe 62",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":23515
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Veli \u00d6zdogan",
+        "street":"Untere Donaul\u00e4nde 20",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":23516
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"SUN Contracting GmbH",
+        "street":"Europaplatz 4",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":23517
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Jochen Kaiser",
+        "street":"Sichelweg 4",
+        "zip_code":4055,
+        "locality":"Pucking",
+        "id":23518
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"kdgservices e.U. - kdg.foto",
+        "street":"Larnhauserweg 2, T\u00fcr 703",
+        "zip_code":4060,
+        "locality":"Leonding",
+        "id":23519
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"schlaustrom GmbH - schlaustrom\/schlaugas",
+        "street":"Welser Stra\u00dfe 42",
+        "zip_code":4060,
+        "locality":"Leonding",
+        "id":23520
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Seifriedsberger GmbH",
+        "street":"S\u00fcdtiroler Stra\u00dfe 32",
+        "zip_code":4910,
+        "locality":"Ried im Innkreis",
+        "id":23521
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Kneidinger Immo GmbH",
+        "street":"H\u00fchnergeschrei 17",
+        "zip_code":4121,
+        "locality":"Altenfelden",
+        "id":23522
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Gutmann Gesellschaft m.b.H.",
+        "street":"Othmar-Spanlang-Stra\u00dfe 1 (Tankstelle)",
+        "zip_code":4780,
+        "locality":"Sch\u00e4rding",
+        "id":23523
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Lagerhausgenossenschaft Sch\u00e4rding am Inn eGen",
+        "street":"Hauptstra\u00dfe 75",
+        "zip_code":4770,
+        "locality":"Andorf",
+        "id":23524
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Lagerhausgenossenschaft Sch\u00e4rding am Inn eGen",
+        "street":"Haberedt 11",
+        "zip_code":4775,
+        "locality":"Taufkirchen\/Pram",
+        "id":23525
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Maximilian Pangerl",
+        "street":"Bla\u00dfberg 6",
+        "zip_code":4204,
+        "locality":"Haibach im M\u00fchlkreis",
+        "id":23526
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Kraftwerk Glatzing-R\u00fcstorf eGen",
+        "street":"Staig 32",
+        "zip_code":4690,
+        "locality":"Schlatt",
+        "id":23527
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"R\u00fcbig Kraftwerk GmbH",
+        "street":"Schafwiesenstra\u00dfe 56",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":23528
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Martin Tzvetkov",
+        "street":"Herderstra\u00dfe 48",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":23529
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"LPV Energiemanagement GmbH",
+        "street":"Gorianstra\u00dfe 5",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":23530
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Scholt Energy Control GmbH",
+        "street":"Siezenheimer Stra\u00dfe 35",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":23531
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"A+G Energie GmbH",
+        "street":"Handelspark 2",
+        "zip_code":5161,
+        "locality":"Elixhausen",
+        "id":23532
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"A+G Energie GmbH",
+        "street":"Klausgasse 49",
+        "zip_code":5730,
+        "locality":"Mittersill",
+        "id":23533
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Frauentaler Stra\u00dfe 64",
+        "zip_code":8530,
+        "locality":"Deutschlandsberg",
+        "id":23534
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"A & O Solar GmbH",
+        "street":"Am Hofacker 7a",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":23535
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark Business GmbH",
+        "street":"Leonhardg\u00fcrtel 10",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":23536
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Leonhardg\u00fcrtel 10",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":23537
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"ENERGO Energiedienstleistungen GmbH",
+        "street":"Hallerschlo\u00dfstra\u00dfe 3",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":23538
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energy Services Handels- und Dienstleistungs G.m.b.H.",
+        "street":"Viktor Franz-Stra\u00dfe 13",
+        "zip_code":8051,
+        "locality":"Graz-G\u00f6sting",
+        "id":23539
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Holding Graz - Kommunale Dienstleistungen GmbH - Holding Graz",
+        "street":"Andreas-Hofer-Platz 15",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":23540
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"McStrom GmbH",
+        "street":"S\u00fcdtiroler Platz 13",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":23541
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Wasserkraft Marienplatz GmbH",
+        "street":"H\u00fcttenbrennergasse 34",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":23542
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"AT-Solutions GmbH & Co KG",
+        "street":"Johann Seifried-Ring 1",
+        "zip_code":8054,
+        "locality":"Windorf",
+        "id":23543
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Bioenergie Hartbergerland GmbH",
+        "street":"Gewerbepark Greinbach West 273",
+        "zip_code":8230,
+        "locality":"Penzendorf",
+        "id":23544
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Thomas Hamker",
+        "street":"Leithen 10",
+        "zip_code":8262,
+        "locality":"Ilz",
+        "id":23545
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Photovoltaik Hartbergerland GmbH & Co KG",
+        "street":"Penzendorf 273",
+        "zip_code":8230,
+        "locality":"Hartberg",
+        "id":23546
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Styrian Green Energy Energieerzeugungs- und Vermarktungs GmbH",
+        "street":"Kaindorf 298",
+        "zip_code":8224,
+        "locality":"Kaindorf",
+        "id":23547
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Kaspar Harb-Gasse 24",
+        "zip_code":8430,
+        "locality":"Leibnitz",
+        "id":23548
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"GreenPork GmbH",
+        "street":"Wolfsberg 183",
+        "zip_code":8421,
+        "locality":"Wolfsberg im Schwarzautal",
+        "id":23549
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Homanngasse 4",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":23550
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"MeinAlpenstrom GmbH",
+        "street":"Proleber Stra\u00dfe 6",
+        "zip_code":8712,
+        "locality":"Niklasdorf",
+        "id":23551
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Admonter Stra\u00dfe 62",
+        "zip_code":8940,
+        "locality":"Liezen",
+        "id":23552
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Kettner OG",
+        "street":"Stein 2",
+        "zip_code":8940,
+        "locality":"Lassing",
+        "id":23553
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Schubertstra\u00dfe 33",
+        "zip_code":8720,
+        "locality":"Knittelfeld",
+        "id":23554
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"10hoch4 Energiesysteme GmbH",
+        "street":"Altenmarkt b.R 71",
+        "zip_code":8333,
+        "locality":"Altenmarkt bei Riegersburg",
+        "id":23555
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Gleichenberger Stra\u00dfe 54",
+        "zip_code":8330,
+        "locality":"Feldbach",
+        "id":23556
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"SOLAREL GmbH",
+        "street":"Reith 16",
+        "zip_code":8341,
+        "locality":"Paldau",
+        "id":23557
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Solarenergie RA GmbH",
+        "street":"Steinrieglstra\u00dfe 57",
+        "zip_code":8344,
+        "locality":"Bad Gleichenberg",
+        "id":23558
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Solarenergie RA GmbH",
+        "street":"Gewerbepark A 1",
+        "zip_code":8490,
+        "locality":"Laafeld",
+        "id":23559
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Werksweg 90",
+        "zip_code":8160,
+        "locality":"Weiz",
+        "id":23560
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Ulrich Ritzer",
+        "street":"Seestra\u00dfe 66",
+        "zip_code":6091,
+        "locality":"G\u00f6tzens",
+        "id":23561
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Gutmann Gesellschaft m.b.H.",
+        "street":"F\u00fcrstenweg 87",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23562
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Kaufhaus Tyrol GmbH",
+        "street":"Maria-Theresien-Stra\u00dfe 31",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23563
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Dusan Tica",
+        "street":"Brunecker Stra\u00dfe 12\/ Top 17",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23564
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"AIK Energy Austria GmbH",
+        "street":"Biberstra\u00dfe 5",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23565
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"APOLLO Energy Trading GmbH",
+        "street":"Wipplingerstra\u00dfe 24-26",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23566
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Axpo Austria GmbH",
+        "street":"Eschenbachgasse 11\/Top 8",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23567
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"GASELA GmbH",
+        "street":"Wipplingerstra\u00dfe 29\/10",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23568
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"GEN-I Vienna GmbH",
+        "street":"Gonzagagasse 15",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23569
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Gr\u00fcnwelt Energie GmbH",
+        "street":"Schottenring 16\/2",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23570
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"IONITY GmbH",
+        "street":"Sterngasse (Innere Stadt) 13",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23571
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"KEHAG Energiehandel GmbH",
+        "street":"Fleischmarkt 1\/6\/12",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23572
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Masterpiece Trade Service & Solutions GmbH",
+        "street":"Wipplingerstra\u00dfe 34\/110",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23573
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Next Kraftwerke AT GmbH",
+        "street":"Franz-Josefs-Kai 27",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23574
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"SHERPA GmbH",
+        "street":"Graben 19",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23575
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"STURM ENERGIE GmbH",
+        "street":"Universit\u00e4tsring 10",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23576
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"TopEnergy Service GmbH",
+        "street":"Schwedenplatz 2, T\u00fcr 22",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23577
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"VERBUND Energy4Business GmbH",
+        "street":"Am Hof 6A",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":23578
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"First Energy AG",
+        "street":"Dietrichgasse 27\/3. OG",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":23579
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Mag. Paul Polterauer",
+        "street":"Rochusgasse 6\/18",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":23580
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"WIEN ENERGIE Vertrieb GmbH & Co KG",
+        "street":"Thomas-Klestil-Platz 14",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":23581
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Renatus Derler",
+        "street":"Am Hundsturm 2-4\/10",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":23582
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"envitra Energiehandel Ges.m.b.H.",
+        "street":"Br\u00e4uhausgasse 37\/5",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":23583
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Dipl.-Phys. Stefan Schau\u00df",
+        "street":"Stauraczgasse 8\/18",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":23584
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Ahmad Soufi",
+        "street":"Zentagasse 5\/17",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":23585
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"aWATTar GmbH",
+        "street":"Lindengasse 56\/18-19",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":23586
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"DO&STO GmbH",
+        "street":"Stollgasse 5A\/8",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":23587
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"CET Central Energy Trade GmbH",
+        "street":"Piaristengasse 41\/10",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":23588
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"eFriends Energy GmbH",
+        "street":"Liechtensteinstra\u00dfe 111-115",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":23589
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"ENERGIEALLIANZ Austria GmbH",
+        "street":"Wienerbergstra\u00dfe 11",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":23590
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"oekostrom GmbH f\u00fcr Vertrieb, Planung und Energiedienstleistungen - Handel mit Strom aus erneuerbaren Energiequellen",
+        "street":"Laxenburger Stra\u00dfe 2\/1",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":23591
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"oekostrom Handels GmbH",
+        "street":"Laxenburger Stra\u00dfe 2",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":23592
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"RWA Solar Solutions GmbH",
+        "street":"Wienerbergstra\u00dfe 3",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":23593
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Wei\u00dfegger & Henning OG",
+        "street":"Hertha-Firnberg-Stra\u00dfe 9\/4\/44",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":23594
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Oleksandr Potapenko",
+        "street":"Muthgasse 23\/640",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":23595
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Mario Klutz",
+        "street":"Herrenholzgasse 22, , T\u00fcr 5",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":23596
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"DELTA ENERGY ENGINEERING e.U.",
+        "street":"Colerusgasse 30\/2\/2",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":23597
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"enspired GmbH",
+        "street":"Meischlgasse 13",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":23598
+    },
+    {
+        "branche_layer_3":"Handel mit Strom",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Kao Ming Tsan Gesellschaft m.b.H.",
+        "street":"Breitenfurter Stra\u00dfe 343",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":23599
+    }
+]

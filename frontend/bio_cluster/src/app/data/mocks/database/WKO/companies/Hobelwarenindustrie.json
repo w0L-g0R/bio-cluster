@@ -1,0 +1,82 @@
+[
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"M A K Holz GmbH & Co KG",
+        "street":"Haimburg 52",
+        "zip_code":9111,
+        "locality":"Haimburg",
+        "id":28568
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"weinberger-holz gmbh",
+        "street":"Bamberger Stra\u00dfe 4",
+        "zip_code":9463,
+        "locality":"Reichenfels",
+        "id":28569
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Peter Panzenb\u00f6ck Gesellschaft m.b.H.",
+        "street":"Leobersdorfer Stra\u00dfe 26",
+        "zip_code":2560,
+        "locality":"Berndorf",
+        "id":28570
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Stora Enso Wood Products GmbH",
+        "street":"Bahnhofstra\u00dfe 31",
+        "zip_code":3370,
+        "locality":"Ybbs an der Donau",
+        "id":28571
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Pregartner Holzindustrie Handlos Gesellschaft m.b.H.",
+        "street":"Tragweinerstr. 54",
+        "zip_code":4230,
+        "locality":"Pregarten",
+        "id":28572
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Johann M\u00fchlberger, S\u00e4ge- und Hobelwerk e.U.",
+        "street":"Niederndorf 15",
+        "zip_code":4713,
+        "locality":"Gallspach",
+        "id":28573
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"K. u. F. Drack Gesellschaft m.b.H. & Co. KG. - K.u.F. Drack GmbH & Co. KG",
+        "street":"Almau 8",
+        "zip_code":4643,
+        "locality":"Pettenbach",
+        "id":28574
+    },
+    {
+        "branche_layer_3":"Hobelwarenindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"HOLZ BEINHAKL GmbH - Hobelwerk und Holzfachmarkt",
+        "street":"Industriestra\u00dfe 1",
+        "zip_code":4493,
+        "locality":"Wolfern",
+        "id":28575
+    }
+]

@@ -1,0 +1,2 @@
+Floristen(Blumenbinder_und_Blumeneinzelhändler) => Floristen
+Landschaftsgärtner(Garten_und_Grünflächengestalter) => Landschaftsgärtner

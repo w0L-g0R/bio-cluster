@@ -1,0 +1,562 @@
+[
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"A. Haberkorn & Co GmbH",
+        "street":"Werndlstra\u00dfe 3",
+        "zip_code":4240,
+        "locality":"Freistadt",
+        "id":16448
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"A. Hausmann GmbH",
+        "street":"Werndlstra\u00dfe 3",
+        "zip_code":4240,
+        "locality":"Freistadt",
+        "id":16449
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"ELI Play Austria GmbH",
+        "street":"Gmundner Stra\u00dfe 40",
+        "zip_code":4664,
+        "locality":"Laakirchen",
+        "id":16450
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Clevertoys e.U.",
+        "street":"Hauserstra\u00dfe 1",
+        "zip_code":4723,
+        "locality":"Natternbach",
+        "id":16451
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Nikolaus Mader",
+        "street":"Parzleithen 6",
+        "zip_code":4720,
+        "locality":"Kallham",
+        "id":16452
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Christian Ernst Kolm",
+        "street":"Reibensteinstra\u00dfe 7",
+        "zip_code":4592,
+        "locality":"Gr\u00fcnburg",
+        "id":16453
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"A. KAAR KG",
+        "street":"Haselgrabenweg 3",
+        "zip_code":4040,
+        "locality":"Linz",
+        "id":16454
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Wilhelm K\u00f6rner GmbH & Co.KG",
+        "street":"Winetzhammerstr. 5",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":16455
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Green Globoria GmbH",
+        "street":"Plus-Kauf-Stra\u00dfe 7",
+        "zip_code":4061,
+        "locality":"Pasching",
+        "id":16456
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Haider Lehrmittelverlag OG",
+        "street":"Derfflingerstra\u00dfe 6",
+        "zip_code":4501,
+        "locality":"Neuhofen an der Krems",
+        "id":16457
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"social made e.U. - Gro\u00dfhandel mit Produkten aus sozialer Herkunft",
+        "street":"Kindergartenstra\u00dfe 2\/2",
+        "zip_code":4502,
+        "locality":"St. Marien",
+        "id":16458
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Ing. Philipp Gesellschaft m.b.H. & Co. KG. - OBRA Design",
+        "street":"Satteltal 2",
+        "zip_code":4872,
+        "locality":"Neukirchen an der V\u00f6ckla",
+        "id":16459
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"\"RUWA\" Spiel-Sport-Freizeitanlagen G.m.b.H. & Co.KG - RUWA, Ihr kompetenter Partner f\u00fcr Spielplatz, Park- und Freizeitanlagen",
+        "street":"Ort 56",
+        "zip_code":4843,
+        "locality":"Ampflwang",
+        "id":16460
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"VIP Kicker GmbH & Co KG",
+        "street":"Maisstra\u00dfe 10",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16461
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Armin Hackl",
+        "street":"Haid 1",
+        "zip_code":4651,
+        "locality":"Stadl-Paura",
+        "id":16462
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"PAT Spielwaren HandelsgmbH",
+        "street":"Albrechtstra\u00dfe 28",
+        "zip_code":4614,
+        "locality":"Marchtrenk",
+        "id":16463
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"GF Gerhard Fritzenwallner Handelsgesellschaft m.b.H.",
+        "street":"Moos 31",
+        "zip_code":5431,
+        "locality":"Kuchl",
+        "id":16464
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Stadlbauer Marketing + Vertrieb GmbH",
+        "street":"Rennbahn Allee 1",
+        "zip_code":5412,
+        "locality":"Puch bei Hallein",
+        "id":16465
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Markus Blauensteiner",
+        "street":"Itzlinger Hauptstra\u00dfe 31",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16466
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"masi-technik GmbH",
+        "street":"Schillinghofstra\u00dfe 44",
+        "zip_code":5023,
+        "locality":"Salzburg",
+        "id":16467
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Spielzeugschachtel HandelsgmbH",
+        "street":"Europastra\u00dfe 1\/42",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16468
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Girst KG",
+        "street":"Gruberfeldstra\u00dfe 41",
+        "zip_code":5321,
+        "locality":"Koppl",
+        "id":16469
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Modelleisenbahn GmbH",
+        "street":"Plainbachstra\u00dfe 4",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":16470
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Viktor Seda - Viktor Seda, Festartikelgro\u00dfhandel",
+        "street":"Rosenweg 10",
+        "zip_code":5301,
+        "locality":"Eugendorf",
+        "id":16471
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Snapboard GmbH - Kartonagen",
+        "street":"K\u00f6stendorfer Stra\u00dfe 10 a",
+        "zip_code":5202,
+        "locality":"Neumarkt am Wallersee",
+        "id":16472
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Stadlbauer Marketing + Vertrieb GmbH",
+        "street":"Handelszentrum 6",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":16473
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"TGG Thomas Gantschnigg Vertriebs KG",
+        "street":"Gasteiner Stra\u00dfe 56A",
+        "zip_code":5500,
+        "locality":"Bischofshofen",
+        "id":16474
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Moser Spielger\u00e4te GmbH & Co KG",
+        "street":"Nr. 37",
+        "zip_code":5592,
+        "locality":"Thomatal",
+        "id":16475
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Josef Kober KG - Spielwaren Kober",
+        "street":"Wollzeile 16",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16476
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"LaLok e.U. - LaLok - Holzeisenbahn Manufaktur",
+        "street":"Graben 28\/1\/12",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16477
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Leopold Bannert Kommanditgesellschaft - Spielwaren Bannert",
+        "street":"Werdertorgasse 14",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16478
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Miranda Weissenfeld Nachf. Andreas Greif e.U. - K + K Domgasse Kost\u00fcme + klamauK partyshop.at",
+        "street":"Domgasse 2",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16479
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Aurednik GmbH",
+        "street":"Schlachthausgasse 23-29\/12",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16480
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Olha Ciontea",
+        "street":"Marxergasse 7",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16481
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Walter Jank - Spielwaren Walter Jank",
+        "street":"Schlachthausgasse 23-29\/3",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16482
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"MUCHI Beteiligungs-Verwaltungs-Gesellschaft m.b.H.",
+        "street":"Rennweg 79-81",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16483
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"G\u00fcnter Ctortnik",
+        "street":"Karlsgasse 3",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16484
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"David Jindra, BEd",
+        "street":"Schelleingasse 1\/8",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16485
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Gerhard Helmut Binder - XRAY-Shop",
+        "street":"Schwarzhorngasse 2\/5",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16486
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"Safekids GmbH",
+        "street":"Lindengasse 56\/18-19\/45",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":16487
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"Max Kornfeld - SP\u00dcRSINN Werbegeschenke und Neuromarketing",
+        "street":"Wickenburggasse 5\/12",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":16488
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"Wolfgang F\u00fcrnwein - F\u00dcRNIS",
+        "street":"Servitengasse 4A\/6",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":16489
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"UGears.at Holzmodelle e.U.",
+        "street":"Kurt-Tichy-Gasse 5\/4\/6",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":16490
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"HDe Trading KG",
+        "street":"B\u00f6ckhgasse 2-4\/15\/16",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16491
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Ing. Oskar Kauffert Handel e.U.",
+        "street":"Wurmbstra\u00dfe 42",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16492
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Kollin GmbH",
+        "street":"Auhofstra\u00dfe 108B\/3",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":16493
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Dr. Julia Libal",
+        "street":"Fehlingergasse 21",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":16494
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Gerold Kirchert - Modellbau + Kopierservice G. Kirchert",
+        "street":"Linzer Stra\u00dfe 65",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":16495
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Original Wiener Schneekugel e.U.",
+        "street":"Schumanngasse 87",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":16496
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Die wunderbare Spielkiste e.U.",
+        "street":"W\u00e4hringer Stra\u00dfe 138",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":16497
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Werbeagentur Rene Wachtel KG",
+        "street":"Naaffgasse 80\/1",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":16498
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Hasbro \u00d6sterreich GmbH",
+        "street":"Heiligenst\u00e4dter L\u00e4nde 29\/2.OG",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16499
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"KINGOFBRICKS HandelsgmbH",
+        "street":"Grinzinger Stra\u00dfe 137\/1\/11",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16500
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Francois Vivien Pascal Lang",
+        "street":"Bellevuestra\u00dfe 53A, T\u00fcr 1",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16501
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"robbe Modellsport Gesellschaft m.b.H. - robbe Modellsport",
+        "street":"Hosnedlgasse 25",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16502
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Spielwaren",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Simba Toys Handels - GmbH & Co. KG",
+        "street":"Jochen-Rindt-Stra\u00dfe 25",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16503
+    }
+]

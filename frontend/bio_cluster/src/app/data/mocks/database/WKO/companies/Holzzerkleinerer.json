@@ -1,0 +1,3032 @@
+[
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Liridon Avdijaj",
+        "street":"Ulmenweg 11",
+        "zip_code":2485,
+        "locality":"Wimpassing an der Leitha",
+        "id":31199
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Herbert Thomas Brunner - BLUMENWERKSTATT H.BRUNNER ,BLUMENHANDEL",
+        "street":"Akazienweg 5",
+        "zip_code":7011,
+        "locality":"Siegendorf",
+        "id":31200
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Drozdz OG",
+        "street":"Feldgasse 23",
+        "zip_code":7035,
+        "locality":"Steinbrunn",
+        "id":31201
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"KOLLAR Bau und Garten OG",
+        "street":"Arbeitergasse 72",
+        "zip_code":7012,
+        "locality":"Zagersdorf",
+        "id":31202
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Stefan Andreas Landauer",
+        "street":"Sebastianstra\u00dfe 68",
+        "zip_code":7063,
+        "locality":"Oggau am Neusiedler See",
+        "id":31203
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Ronald Franz Andreas Neissl",
+        "street":"Kleinh\u00f6fleiner Hauptstra\u00dfe 62",
+        "zip_code":7000,
+        "locality":"Eisenstadt",
+        "id":31204
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"Bal\u00e1zs Csizmazia",
+        "street":"Faludistra\u00dfe 2",
+        "zip_code":7540,
+        "locality":"G\u00fcssing",
+        "id":31205
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"Christian K\u00f6ppel",
+        "street":"Inzenhof 163",
+        "zip_code":7540,
+        "locality":"Inzenhof",
+        "id":31206
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Jennersdorf",
+        "company_name":"Franz Hirczy",
+        "street":"Henndorf-Therme 25\/2",
+        "zip_code":8380,
+        "locality":"Jennersdorf",
+        "id":31207
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Jennersdorf",
+        "company_name":"Joszef Paar",
+        "street":"Grazer Stra\u00dfe 9",
+        "zip_code":7571,
+        "locality":"Rudersdorf",
+        "id":31208
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Volker Philipp Gie\u00dfwein",
+        "street":"Zehentstra\u00dfe 57a, Post: 7202",
+        "zip_code":7033,
+        "locality":"P\u00f6ttsching",
+        "id":31209
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Ewald Gold",
+        "street":"Untere Hauptstra\u00dfe 86",
+        "zip_code":7042,
+        "locality":"Antau",
+        "id":31210
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Holz Taschner OG",
+        "street":"Wolfgrabenweg 8",
+        "zip_code":7223,
+        "locality":"Sieggraben",
+        "id":31211
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Johannes Stefan Scheiber - MAN IN TrEE",
+        "street":"Schulstra\u00dfe 17",
+        "zip_code":7221,
+        "locality":"Marz",
+        "id":31212
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Werner Bruckner",
+        "street":"Untere Hauptstra\u00dfe 132",
+        "zip_code":2424,
+        "locality":"Zurndorf",
+        "id":31213
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Claus Philip Paar",
+        "street":"Thermensiedlung 37",
+        "zip_code":7132,
+        "locality":"Frauenkirchen",
+        "id":31214
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Thorsten Karl Preiss-Haas",
+        "street":"Berggasse 5",
+        "zip_code":2424,
+        "locality":"Zurndorf",
+        "id":31215
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Betriebs GmbH Prs Lockenhaus",
+        "street":"G\u00fcnserstra\u00dfe 2",
+        "zip_code":7442,
+        "locality":"Lockenhaus",
+        "id":31216
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Zoltan Bodnar",
+        "street":"Eisenst\u00e4dter Bundesstra\u00dfe 1",
+        "zip_code":7344,
+        "locality":"Stoob",
+        "id":31217
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Helmut Klaus Bredl",
+        "street":"Hauptstra\u00dfe 62",
+        "zip_code":7371,
+        "locality":"Unterrabnitz-Schwendgraben",
+        "id":31218
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Wolfgang Hei\u00dfinger",
+        "street":"Obere Hauptstra\u00dfe 59",
+        "zip_code":7453,
+        "locality":"Steinberg-D\u00f6rfl",
+        "id":31219
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Bernhard K\u00f6lly",
+        "street":"Girmerstra\u00dfe 61",
+        "zip_code":7301,
+        "locality":"Deutschkreutz",
+        "id":31220
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Robert Supper KG",
+        "street":"Waldgasse 22",
+        "zip_code":7451,
+        "locality":"Oberloisdorf",
+        "id":31221
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Schedl GmbH",
+        "street":"Am Anger 39",
+        "zip_code":7451,
+        "locality":"Oberloisdorf",
+        "id":31222
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Thomas Schl\u00f6gl",
+        "street":"Neugasse 3",
+        "zip_code":7451,
+        "locality":"Oberloisdorf",
+        "id":31223
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Christoph Wohlmut",
+        "street":"Bachgasse 26",
+        "zip_code":7361,
+        "locality":"Lutzmannsburg",
+        "id":31224
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"Markus Josef Zagler",
+        "street":"Untere Hauptstra\u00dfe 41",
+        "zip_code":7453,
+        "locality":"Steinberg-D\u00f6rfl",
+        "id":31225
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"AEH-Bau GmbH",
+        "street":"Untere Hauptstra\u00dfe 38",
+        "zip_code":7422,
+        "locality":"Riedlingsdorf",
+        "id":31226
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"Herbert Alois Gr\u00fcnauer - Brennholz - Forstarbeiten - Gartenpflege",
+        "street":"Alte Bundesstra\u00dfe 3",
+        "zip_code":7503,
+        "locality":"Gro\u00dfpetersdorf",
+        "id":31227
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"Dietmar Hettlinger",
+        "street":"Bruckbachgasse 20",
+        "zip_code":7425,
+        "locality":"Wiesfleck",
+        "id":31228
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"Sailer Forst GmbH",
+        "street":"Untere Hauptstra\u00dfe 17, T\u00fcr 2",
+        "zip_code":7410,
+        "locality":"Loipersdorf im Burgenland",
+        "id":31229
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"W.K. Kaminholz GmbH",
+        "street":"Gewerbepark 14",
+        "zip_code":7412,
+        "locality":"Wolfau",
+        "id":31230
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"W\u00f6lfel M\u00fchle GmbH",
+        "street":"Untere M\u00fchlgasse 11",
+        "zip_code":7502,
+        "locality":"Unterwart",
+        "id":31231
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Maximilian Michenthaler",
+        "street":"Grillenberg 29",
+        "zip_code":9571,
+        "locality":"Sirnitz",
+        "id":31232
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Kruschitz Hackguterzeugungs KG",
+        "street":"Wellersdorf 13\/2",
+        "zip_code":9072,
+        "locality":"Ludmannsdorf",
+        "id":31233
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"KP Wood Energy GmbH",
+        "street":"Industriepark S\u00fcd C 10",
+        "zip_code":9330,
+        "locality":"Althofen",
+        "id":31234
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"RZ Pellets Liebenfels GmbH",
+        "street":"Feldkirchner Stra\u00dfe 25",
+        "zip_code":9556,
+        "locality":"Liebenfels",
+        "id":31235
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Griesser Umwelttechnik GmbH",
+        "street":"Eichbichlweg 53",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":31236
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Hackguterzeugung Kleewein KG",
+        "street":"Drautalstra\u00dfe 2",
+        "zip_code":9722,
+        "locality":"Stadelbach",
+        "id":31237
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Markus Kosche - Kosche Markus",
+        "street":"R\u00f6merweg 10",
+        "zip_code":9241,
+        "locality":"Wernberg",
+        "id":31238
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Stefan Krainbucher",
+        "street":"Bundesstra\u00dfe 34",
+        "zip_code":9241,
+        "locality":"Wernberg",
+        "id":31239
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Josef Rauter",
+        "street":"Bahnhofstra\u00dfe 51",
+        "zip_code":9711,
+        "locality":"Paternion",
+        "id":31240
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Thomas Salcher",
+        "street":"Vincaweg 22",
+        "zip_code":9581,
+        "locality":"Ledenitzen",
+        "id":31241
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Manfred Bierbaumer",
+        "street":"Altenmarkter Stra\u00dfe 40",
+        "zip_code":9112,
+        "locality":"Griffen",
+        "id":31242
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Lukas Josef Jernej",
+        "street":"Piskertschach 14",
+        "zip_code":9122,
+        "locality":"St.Kanzian am Klopeiner See",
+        "id":31243
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Martin Kulmesch",
+        "street":"Rinkenberg 60",
+        "zip_code":9150,
+        "locality":"Bleiburg",
+        "id":31244
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Obir-Holz GmbH",
+        "street":"Freibach 22",
+        "zip_code":9173,
+        "locality":"St. Margareten im Rosental",
+        "id":31245
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Peter Andreas Urban",
+        "street":"Dullach 6a",
+        "zip_code":9133,
+        "locality":"Miklauzhof",
+        "id":31246
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Franz Papst",
+        "street":"St. Peter 54",
+        "zip_code":9463,
+        "locality":"Reichenfels",
+        "id":31247
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Michael B\u00f6hm",
+        "street":"S\u00fcdhangstra\u00dfe 22",
+        "zip_code":3300,
+        "locality":"Amstetten",
+        "id":31248
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"HASEN\u00d6HRL GmbH",
+        "street":"Wagram 1",
+        "zip_code":4303,
+        "locality":"St. Pantaleon-Erla",
+        "id":31249
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Ing. Heribert Heigl",
+        "street":"Kleinprolling 24",
+        "zip_code":3341,
+        "locality":"Ybbsitz",
+        "id":31250
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"HF-Holz Hinterecker Franz GmbH",
+        "street":"Wipark, 12.a Stra\u00dfe 2",
+        "zip_code":3331,
+        "locality":"Kematen an der Ybbs",
+        "id":31251
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Silvana Forst- und Agrar-GmbH",
+        "street":"Stein 7",
+        "zip_code":4303,
+        "locality":"St. Pantaleon-Erla",
+        "id":31252
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Horst Schiener - Brennholz Schiener",
+        "street":"Cavriani-Gasse 36 (Wohnhaus)",
+        "zip_code":2441,
+        "locality":"Mitterndorf an der Fischa",
+        "id":31253
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"GeRoWe Grubelnik GesmbH",
+        "street":"Fischamender Stra\u00dfe 67a",
+        "zip_code":2431,
+        "locality":"Enzersdorf an der Fischa",
+        "id":31254
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Hackgut Winter GmbH",
+        "street":"Gewerbestra\u00dfe 2",
+        "zip_code":2451,
+        "locality":"Hof am Leithaberge",
+        "id":31255
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"Holzplatz Handel GmbH - Holzplatz",
+        "street":"Altweitra 70",
+        "zip_code":3970,
+        "locality":"Unserfrau-Altweitra",
+        "id":31256
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"HRUSA HOLZVERARBEITUNGS LTD",
+        "street":"Finsternau 81",
+        "zip_code":3873,
+        "locality":"Brand-Nagelberg",
+        "id":31257
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Gm\u00fcnd",
+        "company_name":"krenn hackgut-technik gmbh",
+        "street":"Harmannstein 17",
+        "zip_code":3922,
+        "locality":"Gro\u00dfsch\u00f6nau",
+        "id":31258
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Hollabrunn",
+        "company_name":"S&R Biomasse-Nahw\u00e4rme-G\u00f6llersdorf GmbH",
+        "street":"Untergrub 27",
+        "zip_code":2013,
+        "locality":"G\u00f6llersdorf",
+        "id":31259
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Horn",
+        "company_name":"Biogenrohstoffgenossenschaft Kamptal und Umgebung registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Maiersch 41",
+        "zip_code":3571,
+        "locality":"Gars am Kamp",
+        "id":31260
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Horn",
+        "company_name":"Andreas Braun",
+        "street":"Etzmannsdorf 21",
+        "zip_code":3573,
+        "locality":"Gars am Kamp",
+        "id":31261
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Horn",
+        "company_name":"Komornik GmbH",
+        "street":"Pernegg 25",
+        "zip_code":3753,
+        "locality":"Pernegg",
+        "id":31262
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Horn",
+        "company_name":"YAMUNA GmbH",
+        "street":"Ziegelofen-Stra\u00dfe 718",
+        "zip_code":3571,
+        "locality":"Gars am Kamp",
+        "id":31263
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Christian Hitz - Agrarservice",
+        "street":"Dr. Neugebauer-Stra\u00dfe 15",
+        "zip_code":2100,
+        "locality":"Korneuburg",
+        "id":31264
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Teufl GmbH",
+        "street":"Hollenburgerstra\u00dfe 19",
+        "zip_code":3508,
+        "locality":"Paudorf",
+        "id":31265
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Lilienfeld",
+        "company_name":"Andreas Wiesbauer GmbH",
+        "street":"Am Holzweg 1",
+        "zip_code":3192,
+        "locality":"Hohenberg",
+        "id":31266
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Andreas Thanner Hackschnitzeldienst e.U.",
+        "street":"Ranzenbach 3",
+        "zip_code":3233,
+        "locality":"Kilb",
+        "id":31267
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Alois Fraisl",
+        "street":"Dietsam 3",
+        "zip_code":3650,
+        "locality":"P\u00f6ggstall",
+        "id":31268
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Franz Heinrich Fuchs",
+        "street":"Neubing 4, T\u00fcr 1",
+        "zip_code":3232,
+        "locality":"Neubing",
+        "id":31269
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Huber Hackgut GmbH",
+        "street":"Inning 25",
+        "zip_code":3383,
+        "locality":"H\u00fcrm",
+        "id":31270
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Alexander Lasselsberger",
+        "street":"Pre\u00dfbach 2",
+        "zip_code":3254,
+        "locality":"Bergland",
+        "id":31271
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"RZ Pellets GmbH",
+        "street":"Bahnhofstra\u00dfe 32",
+        "zip_code":3370,
+        "locality":"Ybbs an der Donau",
+        "id":31272
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Melk",
+        "company_name":"Thanner Briketts GmbH",
+        "street":"Unterschildbach 12",
+        "zip_code":3232,
+        "locality":"Bischofstetten",
+        "id":31273
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Franz Hardteck",
+        "street":"Hauptstra\u00dfe 40",
+        "zip_code":2641,
+        "locality":"Schottwien",
+        "id":31274
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Josef Ottersb\u00f6ck",
+        "street":"Vois 16",
+        "zip_code":2662,
+        "locality":"Schwarzau im Gebirge",
+        "id":31275
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Franz Schanner",
+        "street":"Ascherstra\u00dfe 12",
+        "zip_code":2734,
+        "locality":"Puchberg am Schneeberg",
+        "id":31276
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Egger Forst \u00d6sterreich GmbH",
+        "street":"Tiroler Stra\u00dfe 16",
+        "zip_code":3105,
+        "locality":"St. P\u00f6lten",
+        "id":31277
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"H & H Forst OG",
+        "street":"Egelsee 13\/3",
+        "zip_code":3143,
+        "locality":"Pyhra",
+        "id":31278
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Andreas Harm",
+        "street":"Fridau 23",
+        "zip_code":3200,
+        "locality":"Ober-Grafendorf",
+        "id":31279
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Johannes Harm",
+        "street":"Fridau 23",
+        "zip_code":3200,
+        "locality":"Ober-Grafendorf",
+        "id":31280
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Erwin Holzer",
+        "street":"Kronberg 4",
+        "zip_code":3074,
+        "locality":"Kasten bei B\u00f6heimkirchen",
+        "id":31281
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Huber Hackgut GmbH",
+        "street":"Eigendorf 1",
+        "zip_code":3231,
+        "locality":"St.Margarethen a.d.Sierning",
+        "id":31282
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Roman Schlatzer",
+        "street":"Unterradl 2\/2",
+        "zip_code":3231,
+        "locality":"St.Margarethen a.d.Sierning",
+        "id":31283
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Sankt P\u00f6lten (Land)",
+        "company_name":"Weigl & Wurmseder GmbH & Co KG",
+        "street":"Obergrub 2",
+        "zip_code":3143,
+        "locality":"Pyhra",
+        "id":31284
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Cycleenergy Pelletsproduktions GmbH",
+        "street":"Suttengrestenstra\u00dfe 6",
+        "zip_code":3264,
+        "locality":"Gresten",
+        "id":31285
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Markus Graf",
+        "street":"Schachau 4, T\u00fcr 2",
+        "zip_code":3281,
+        "locality":"Oberndorf an der Melk",
+        "id":31286
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Renate Schagerl",
+        "street":"Buchberg 16",
+        "zip_code":3264,
+        "locality":"Reinsberg",
+        "id":31287
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Wolfgang Math\u00e4us Gasser",
+        "street":"Hauptstra\u00dfe 197",
+        "zip_code":3400,
+        "locality":"Klosterneuburg-Kierling",
+        "id":31288
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Werner Riess - R-DAT EDV KG",
+        "street":"Gewerbepark Ost II\/ 9",
+        "zip_code":3424,
+        "locality":"Zeiselmauer",
+        "id":31289
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Waidhofen\/Thaya",
+        "company_name":"Andreas Witzmann",
+        "street":"Altwaidhofen 16",
+        "zip_code":3830,
+        "locality":"Waidhofen an der Thaya",
+        "id":31290
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Franz Hofleitner",
+        "street":"Hollenthon 15",
+        "zip_code":2812,
+        "locality":"Hollenthon",
+        "id":31291
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"prothermpellets OG",
+        "street":"Josef Nitsch-Stra\u00dfe 1",
+        "zip_code":2763,
+        "locality":"Pernitz",
+        "id":31292
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"H\u00fcttler OG",
+        "street":"Kremser Stra\u00dfe 46",
+        "zip_code":3910,
+        "locality":"Zwettl",
+        "id":31293
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"H\u00fcttler OG",
+        "street":"Oberkirchen 7",
+        "zip_code":3920,
+        "locality":"Gro\u00df Gerungs",
+        "id":31294
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Zwettl",
+        "company_name":"Weinsberg Pellets GmbH",
+        "street":"Bahnstra\u00dfe 25",
+        "zip_code":3664,
+        "locality":"Martinsberg",
+        "id":31295
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Agrarservice Renzl & Priller KG",
+        "street":"Pippmannsberg 15",
+        "zip_code":5142,
+        "locality":"Eggelsberg",
+        "id":31296
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Andreas Baischer",
+        "street":"Lamprechtshausner Stra\u00dfe 52",
+        "zip_code":5280,
+        "locality":"Braunau am Inn",
+        "id":31297
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Manfred Biebl",
+        "street":"Dietraching 7",
+        "zip_code":5271,
+        "locality":"Moosbach",
+        "id":31298
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Paul Erkner",
+        "street":"Krenwald 10",
+        "zip_code":5212,
+        "locality":"Lengau",
+        "id":31299
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Glechner Ges.m.b.H.",
+        "street":"Mattseerstra\u00dfe 10",
+        "zip_code":5230,
+        "locality":"Mattighofen",
+        "id":31300
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Michael Alfred Hagenauer",
+        "street":"Holz 22",
+        "zip_code":5224,
+        "locality":"Auerbach",
+        "id":31301
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Peter Hintermaier",
+        "street":"Spraid 7",
+        "zip_code":4963,
+        "locality":"Burgkirchen",
+        "id":31302
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Christian Niedermeier",
+        "street":"Hochburg 11",
+        "zip_code":5122,
+        "locality":"Hochburg-Ach",
+        "id":31303
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Rupert Hettegger GmbH",
+        "street":"Oichten 16",
+        "zip_code":5143,
+        "locality":"Feldkirchen bei Mattighofen",
+        "id":31304
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Andreas Wei\u00df",
+        "street":"Vormoos 12",
+        "zip_code":5143,
+        "locality":"Feldkirchen bei Mattighofen",
+        "id":31305
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"W\u00fchrer Holz GmbH",
+        "street":"Au 13",
+        "zip_code":4932,
+        "locality":"Aspach",
+        "id":31306
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Eferding",
+        "company_name":"Dietmar Friedrich Mayer",
+        "street":"Raffelding 13",
+        "zip_code":4070,
+        "locality":"Fraham",
+        "id":31307
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Glechner Ges.m.b.H.",
+        "street":"Oberweis 45",
+        "zip_code":4664,
+        "locality":"Laakirchen",
+        "id":31308
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Andreas Sammer",
+        "street":"Ru\u00dfbach 29",
+        "zip_code":5360,
+        "locality":"St. Wolfgang im Salzkammergut",
+        "id":31309
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Alfred Stadler",
+        "street":"Grafing 1",
+        "zip_code":4664,
+        "locality":"Laakirchen",
+        "id":31310
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Ernst Matthias Bauchinger",
+        "street":"Odelboding 4",
+        "zip_code":4682,
+        "locality":"Geboltskirchen",
+        "id":31311
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"BIOTECH-Umwelttechnik GmbH",
+        "street":"Hungberg 3",
+        "zip_code":4723,
+        "locality":"Natternbach",
+        "id":31312
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Hackgut M\u00f6slinger GmbH",
+        "street":"Oberaffnang 27",
+        "zip_code":4674,
+        "locality":"Gaspoltshofen",
+        "id":31313
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Oskar Hattinger",
+        "street":"Haidenheim 2",
+        "zip_code":4676,
+        "locality":"Aistersheim",
+        "id":31314
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Maurer KG",
+        "street":"Freindorf 9",
+        "zip_code":4733,
+        "locality":"Heiligenberg",
+        "id":31315
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Friedrich Rabengruber",
+        "street":"Lucka 1",
+        "zip_code":4682,
+        "locality":"Geboltskirchen",
+        "id":31316
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Sejad Sabic",
+        "street":"Obernf\u00fcrth 16",
+        "zip_code":4720,
+        "locality":"P\u00f6tting",
+        "id":31317
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Wazinger KG",
+        "street":"Buch 4",
+        "zip_code":4701,
+        "locality":"Bad Schallerbach",
+        "id":31318
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Johann Wiel\u00e4nder",
+        "street":"Sch\u00f6lmlahn 10",
+        "zip_code":4712,
+        "locality":"Michaelnbach",
+        "id":31319
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Roland Baumgartner",
+        "street":"Weinzierl 15",
+        "zip_code":4563,
+        "locality":"Micheldorf in Ober\u00f6sterreich",
+        "id":31320
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Johann Ebner",
+        "street":"Zehetner 19",
+        "zip_code":4596,
+        "locality":"Steinbach an der Steyr",
+        "id":31321
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Gerhard Peter Eibl",
+        "street":"Vordertambergau 51",
+        "zip_code":4574,
+        "locality":"Vorderstoder",
+        "id":31322
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Kals GmbH",
+        "street":"Wagenhubstra\u00dfe 12",
+        "zip_code":4593,
+        "locality":"Gr\u00fcnburg",
+        "id":31323
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Gerhard Prankl",
+        "street":"Edlbach 13",
+        "zip_code":4580,
+        "locality":"Edlbach",
+        "id":31324
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Josef Radner",
+        "street":"Maisdorfstra\u00dfe 4 \/1",
+        "zip_code":4553,
+        "locality":"Schlierbach",
+        "id":31325
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Sturmberger Energieversorgung aus Holz e.U.",
+        "street":"Diepersdorf 68",
+        "zip_code":4552,
+        "locality":"Wartberg\/Krems",
+        "id":31326
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"JITO GmbH",
+        "street":"Hafenstra\u00dfe 47-51",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":31327
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"YAMUNA GmbH",
+        "street":"Hafenstra\u00dfe 47-51 (Tech-Center Linz)",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":31328
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Mag. Maria Furchtlehner",
+        "street":"Niederbachhamer Stra\u00dfe 12",
+        "zip_code":4064,
+        "locality":"Oftering",
+        "id":31329
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Michael Sadleder",
+        "street":"Zeitlham 20",
+        "zip_code":4055,
+        "locality":"Pucking",
+        "id":31330
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Ingrid Maria Hanl",
+        "street":"Frankenberg 19",
+        "zip_code":4222,
+        "locality":"Langenstein",
+        "id":31331
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Josef Leo Linhardsberger",
+        "street":"Wetzelsberg 22, T\u00fcr 1",
+        "zip_code":4363,
+        "locality":"Pabneukirchen",
+        "id":31332
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Hannes Michael Spiegl",
+        "street":"Saxen 131",
+        "zip_code":4351,
+        "locality":"Saxen",
+        "id":31333
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Hubert Enzlm\u00fcller",
+        "street":"Untermauer 10",
+        "zip_code":4743,
+        "locality":"Peterskirchen",
+        "id":31334
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Johann Mayrhofer",
+        "street":"Messenbach 6",
+        "zip_code":4772,
+        "locality":"Lambrechten",
+        "id":31335
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Michael Grill",
+        "street":"Sch\u00f6nbach 3",
+        "zip_code":4784,
+        "locality":"Schardenberg",
+        "id":31336
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"ENNSTAL - PELLETS GmbH",
+        "street":"Eisenstra\u00dfe 3",
+        "zip_code":4462,
+        "locality":"Reichraming",
+        "id":31337
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Hackguterzeugung Krenn e.U.",
+        "street":"Glasenberg 12",
+        "zip_code":4443,
+        "locality":"Maria Neustift",
+        "id":31338
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Robert Kuster",
+        "street":"Theaterstra\u00dfe 14\/1",
+        "zip_code":4540,
+        "locality":"Bad Hall",
+        "id":31339
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Rudolf Bamminger",
+        "street":"Schlo\u00dfholzweg 17",
+        "zip_code":4048,
+        "locality":"Puchenau",
+        "id":31340
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Bioenergie Oberneukirchen-Waxenberg-Traberg eGen",
+        "street":"Lobenstein 16",
+        "zip_code":4181,
+        "locality":"Oberneukirchen",
+        "id":31341
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Wilhelm Freiseder",
+        "street":"Ebnerstra\u00dfe 4",
+        "zip_code":4040,
+        "locality":"Lichtenberg",
+        "id":31342
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Martin Keplinger",
+        "street":"Haid 4",
+        "zip_code":4190,
+        "locality":"Bad Leonfelden",
+        "id":31343
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Josef Preuer",
+        "street":"Lobenstein 16",
+        "zip_code":4181,
+        "locality":"Oberneukirchen",
+        "id":31344
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Thomas Krichbaum",
+        "street":"Biber 6",
+        "zip_code":4872,
+        "locality":"Neukirchen an der V\u00f6ckla",
+        "id":31345
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Thomas Preuner",
+        "street":"Vordersteining 5",
+        "zip_code":4873,
+        "locality":"Frankenburg am Hausruck",
+        "id":31346
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"PRO\u00f6ko Energie GmbH",
+        "street":"Winteredt 12",
+        "zip_code":4872,
+        "locality":"Neukirchen an der V\u00f6ckla",
+        "id":31347
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"RZ Pellets V\u00f6cklamarkt GmbH",
+        "street":"Gewerbepark West 2 (Pelletswerk)",
+        "zip_code":4870,
+        "locality":"V\u00f6cklamarkt",
+        "id":31348
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Sturmberger Pelletsproduktions GmbH",
+        "street":"Mitterhoferstra\u00dfe 99",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":31349
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Franz Derflinger-Eggendorfer",
+        "street":"Schachermairdorf 4",
+        "zip_code":4621,
+        "locality":"Sipbachzell",
+        "id":31350
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Thomas Kastenhuber",
+        "street":"Giering 6",
+        "zip_code":4654,
+        "locality":"Bad Wimsbach-Neydharting",
+        "id":31351
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Robert Ebner",
+        "street":"Markt 184",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":31352
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"P\u00f6lzleitner Holz GmbH",
+        "street":"Schratten 43",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":31353
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Agrarservice Gollackner GmbH",
+        "street":"Distelbergweg 2",
+        "zip_code":5301,
+        "locality":"Eugendorf",
+        "id":31354
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Manuel Mathias Enzinger",
+        "street":"Aigelsbrunn 6",
+        "zip_code":5204,
+        "locality":"Stra\u00dfwalchen",
+        "id":31355
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Josef Gimpl",
+        "street":"M\u00fchlbergstra\u00dfe 28",
+        "zip_code":5201,
+        "locality":"Seekirchen am Wallersee",
+        "id":31356
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Josef Xaver Georg Neumaier - Baggerungen Josef Neumaier",
+        "street":"Alte Bundesstra\u00dfe 68",
+        "zip_code":5350,
+        "locality":"Strobl",
+        "id":31357
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Rupert Weinbacher - Energie aus Holz",
+        "street":"Strobl 168",
+        "zip_code":5350,
+        "locality":"Strobl",
+        "id":31358
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Alfred Gruber",
+        "street":"Wiesersberg 95",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":31359
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Alois Neumayr jun.",
+        "street":"Uttenhofen 4",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":31360
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Reinhard Karl Rohrmoser",
+        "street":"Frohnwies 9",
+        "zip_code":5093,
+        "locality":"Wei\u00dfbach bei Lofer",
+        "id":31361
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Gottfried Sch\u00f6ngassner",
+        "street":"Sonnberg 207",
+        "zip_code":5771,
+        "locality":"Leogang",
+        "id":31362
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Andreas Manfred Benedikt",
+        "street":"Schafferwerke 5",
+        "zip_code":8614,
+        "locality":"Pernegg an der Mur",
+        "id":31363
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Josef Filzwieser",
+        "street":"Stuhleck 2",
+        "zip_code":8684,
+        "locality":"Spital am Semmering",
+        "id":31364
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Anton Harter-Harter",
+        "street":"Kaltbachstra\u00dfe 11",
+        "zip_code":8600,
+        "locality":"Bruck an der Mur",
+        "id":31365
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Christoph Manfred Hochreiter",
+        "street":"Wieden 19, T\u00fcr 1",
+        "zip_code":8643,
+        "locality":"Wieden",
+        "id":31366
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Holz Zettler GmbH",
+        "street":"St. Dionysenstra\u00dfe 57",
+        "zip_code":8600,
+        "locality":"Oberaich",
+        "id":31367
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Huber Forstservice OG",
+        "street":"Neud\u00f6rflstra\u00dfe 3, T\u00fcr 2",
+        "zip_code":8692,
+        "locality":"Alpl",
+        "id":31368
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Landsberg Holzschl\u00e4gerungen GmbH",
+        "street":"Habergraben 1",
+        "zip_code":8663,
+        "locality":"Veitsch",
+        "id":31369
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"DI (FH) Andreas Johannes Liberda - Forstservice Liberda",
+        "street":"G\u00e4rtnergasse 7, T\u00fcr 7",
+        "zip_code":8605,
+        "locality":"Hafendorf",
+        "id":31370
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Stefan Andre Pichler",
+        "street":"Jauring 158",
+        "zip_code":8623,
+        "locality":"Jauring",
+        "id":31371
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Bruno Troi\u00df",
+        "street":"St\u00fcbming 143",
+        "zip_code":8625,
+        "locality":"Turnau",
+        "id":31372
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"ZAR Forstteam GmbH",
+        "street":"Oberort 30",
+        "zip_code":8612,
+        "locality":"Trag\u00f6\u00df",
+        "id":31373
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Karl F\u00fcrnschu\u00df",
+        "street":"Bergla 44\/1",
+        "zip_code":8543,
+        "locality":"Sankt Martin im Sulmtal",
+        "id":31374
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Erich Sebastian Geisler - Geisler Transporte",
+        "street":"Bad Gams 89",
+        "zip_code":8524,
+        "locality":"Bad Gams",
+        "id":31375
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Matthias Klug-Kager",
+        "street":"Kornkneul 114",
+        "zip_code":8510,
+        "locality":"Sommereben",
+        "id":31376
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Josef Reinisch",
+        "street":"L\u00e4rchenweg 3",
+        "zip_code":8530,
+        "locality":"Deutschlandsberg",
+        "id":31377
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Alois Schnofl",
+        "street":"Soboth 189",
+        "zip_code":8554,
+        "locality":"Soboth",
+        "id":31378
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Herbert Sch\u00f6ninger",
+        "street":"Sulb 2",
+        "zip_code":8543,
+        "locality":"Sankt Martin im Sulmtal",
+        "id":31379
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Martin Alois Weichhardt",
+        "street":"Pichling 17",
+        "zip_code":8510,
+        "locality":"Pichling bei Stainz",
+        "id":31380
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Moritz Alexander Bratschko",
+        "street":"Zinzendorfgasse 1\/Stg. 2\/25",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":31381
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Hermes Dienste GesmbH",
+        "street":"Karlauplatz 3a",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":31382
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Martin Kamenschak",
+        "street":"Paracelsusgasse 51",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":31383
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Offner Kraftwerke GmbH - buchen-brennholz.at",
+        "street":"Himmelreichweg 37b",
+        "zip_code":8044,
+        "locality":"Graz",
+        "id":31384
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Christoph Peinhaupt - Baumschnittarbeiten, Problemf\u00e4llungen, Abtragungen und Abtransport",
+        "street":"Waltendorfer Hauptstra\u00dfe 86, T\u00fcr 4",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":31385
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Andreas Erich T\u00fcchler",
+        "street":"Waltendorfer Hauptstra\u00dfe 110d",
+        "zip_code":8042,
+        "locality":"Graz",
+        "id":31386
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"ARTBOX Veranstaltungsorganisation KG",
+        "street":"Obersch\u00f6cklweg 26\/2",
+        "zip_code":8045,
+        "locality":"Weinitzen",
+        "id":31387
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Gerald Franz Freitag",
+        "street":"K\u00fchlenbrunn 1",
+        "zip_code":8076,
+        "locality":"Vasoldsberg",
+        "id":31388
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Michael Grabenwarter",
+        "street":"Kugelberg 79",
+        "zip_code":8111,
+        "locality":"Eisbach",
+        "id":31389
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Michael Josef Hahn",
+        "street":"Hahnkogelweg 1",
+        "zip_code":8301,
+        "locality":"H\u00f6f",
+        "id":31390
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Maria Hatzl",
+        "street":"Schelchental 8",
+        "zip_code":8076,
+        "locality":"Vasoldsberg",
+        "id":31391
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Rene Erich Hausmann",
+        "street":"Dietersdorf 76",
+        "zip_code":8142,
+        "locality":"Dietersdorf",
+        "id":31392
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Ewald Karl Horvath",
+        "street":"Greimelweg 6",
+        "zip_code":8301,
+        "locality":"La\u00dfnitzh\u00f6he",
+        "id":31393
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Gerd Riedl",
+        "street":"Am Kirchberg 8",
+        "zip_code":8051,
+        "locality":"Thal",
+        "id":31394
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Franz Sauseng",
+        "street":"Wetterkreuzweg 27",
+        "zip_code":8063,
+        "locality":"Brodingberg",
+        "id":31395
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Florian Schlegl",
+        "street":"Steingrabenstra\u00dfe 1",
+        "zip_code":8046,
+        "locality":"Stattegg",
+        "id":31396
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Peter Anton Sundl",
+        "street":"Sattlerstra\u00dfe 28",
+        "zip_code":8077,
+        "locality":"G\u00f6ssendorf",
+        "id":31397
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Gr\u00f6bming",
+        "company_name":"Alpenholz Egger & Partner GmbH",
+        "street":"Assachberg 11",
+        "zip_code":8966,
+        "locality":"Assach",
+        "id":31398
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Gr\u00f6bming",
+        "company_name":"Florian Johann Brandl",
+        "street":"Krottendorf 4",
+        "zip_code":8954,
+        "locality":"Mitterberg",
+        "id":31399
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Andrea Alkier",
+        "street":"Neudorf bei Ilz 26",
+        "zip_code":8262,
+        "locality":"Neudorf bei Ilz",
+        "id":31400
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Bioenergie Hartbergerland GmbH",
+        "street":"Gewerbepark Greinbach West 273",
+        "zip_code":8230,
+        "locality":"Penzendorf",
+        "id":31401
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Andreas Gaugl",
+        "street":"Vornholz 2",
+        "zip_code":8250,
+        "locality":"Vornholz",
+        "id":31402
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Franz Gmoser",
+        "street":"Unterlimbach 64",
+        "zip_code":8292,
+        "locality":"Unterlimbach",
+        "id":31403
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Haas & Ko OG",
+        "street":"Obersafen 8",
+        "zip_code":8232,
+        "locality":"Grafendorf bei Hartberg",
+        "id":31404
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Hackguterzeugung Zingl KG",
+        "street":"Ehrenschachen 1",
+        "zip_code":8240,
+        "locality":"Friedberg",
+        "id":31405
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Jakob Haushofer",
+        "street":"Hainfeld 18",
+        "zip_code":8262,
+        "locality":"Hainfeld bei F\u00fcrstenfeld",
+        "id":31406
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Michael Hofer",
+        "street":"Pittermann 7",
+        "zip_code":8254,
+        "locality":"Wenigzell",
+        "id":31407
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Norbert Hofmann",
+        "street":"Lafnitz 25",
+        "zip_code":8233,
+        "locality":"Lafnitz",
+        "id":31408
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Martin K\u00f6nig",
+        "street":"Hofkirchen bei Hartberg 64",
+        "zip_code":8224,
+        "locality":"Hofkirchen bei Hartberg",
+        "id":31409
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Florian Schantl",
+        "street":"Lafnitz 191",
+        "zip_code":8233,
+        "locality":"Lafnitz",
+        "id":31410
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Hannes Schirnhofer",
+        "street":"Flattendorf 61",
+        "zip_code":8230,
+        "locality":"Flattendorf",
+        "id":31411
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Karl Spindler",
+        "street":"Winzendorf 37",
+        "zip_code":8225,
+        "locality":"P\u00f6llau",
+        "id":31412
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Markus Borko",
+        "street":"W\u00f6lferberg 2 (Carport 2)",
+        "zip_code":8421,
+        "locality":"Schwarzautal",
+        "id":31413
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Grebenz KG",
+        "street":"Kleinklein 10",
+        "zip_code":8452,
+        "locality":"Gro\u00dfklein",
+        "id":31414
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Max Holler",
+        "street":"Altenmarkt 27 (Wirtschaftsgeb\u00e4ude)",
+        "zip_code":8430,
+        "locality":"Leibnitz",
+        "id":31415
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Siegfried Lang",
+        "street":"Wagendorferstra\u00dfe 72",
+        "zip_code":8423,
+        "locality":"Wagendorf",
+        "id":31416
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Marjan Zumer",
+        "street":"Spielfeld 142",
+        "zip_code":8471,
+        "locality":"Spielfeld",
+        "id":31417
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Andreas Peter Angerer",
+        "street":"Rannach 2",
+        "zip_code":8774,
+        "locality":"Rannach",
+        "id":31418
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Alfred Haring",
+        "street":"Sportplatzstra\u00dfe 1",
+        "zip_code":8712,
+        "locality":"Proleb",
+        "id":31419
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Waldverband Steiermark GmbH",
+        "street":"Humusweg 4",
+        "zip_code":8712,
+        "locality":"Niklasdorf",
+        "id":31420
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Markus Blindhofer",
+        "street":"Pyhrn 27",
+        "zip_code":8940,
+        "locality":"Liezen",
+        "id":31421
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"ENNSTAL - PELLETS GmbH",
+        "street":"Mooslandl 53",
+        "zip_code":8931,
+        "locality":"Landl",
+        "id":31422
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Kettner OG",
+        "street":"Stein 2",
+        "zip_code":8940,
+        "locality":"Lassing",
+        "id":31423
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Lemmerer GmbH",
+        "street":"Vorberg 32",
+        "zip_code":8943,
+        "locality":"Aigen im Ennstal",
+        "id":31424
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"J\u00f6rg Alois Maindl",
+        "street":"Tausing 15a",
+        "zip_code":8940,
+        "locality":"Liezen",
+        "id":31425
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Martin Atzlinger G.m.b.H.",
+        "street":"P\u00fcrgschachen 44",
+        "zip_code":8904,
+        "locality":"Ardning",
+        "id":31426
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Ferdinand Reitbauer",
+        "street":"Lainbach 26",
+        "zip_code":8931,
+        "locality":"Landl",
+        "id":31427
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"G\u00fcnter Schmid",
+        "street":"Oppenberg 39",
+        "zip_code":8786,
+        "locality":"Oppenberg",
+        "id":31428
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Benjamin Vukmanic",
+        "street":"Treglwang 48",
+        "zip_code":8782,
+        "locality":"Treglwang",
+        "id":31429
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"WF Energieholzproduktion GmbH & Co KG",
+        "street":"Gro\u00dfreifling 104",
+        "zip_code":8931,
+        "locality":"Gro\u00dfreifling",
+        "id":31430
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"Franz Moser GmbH",
+        "street":"Bahnhofstra\u00dfe 50",
+        "zip_code":8820,
+        "locality":"Neumarkt in Steiermark",
+        "id":31431
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"Oswald Alois Gei\u00dfler",
+        "street":"Stadl an der Mur 11\/1",
+        "zip_code":8862,
+        "locality":"Stadl an der Mur",
+        "id":31432
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"Johann Hubmann",
+        "street":"Am Rehgrund 7",
+        "zip_code":8811,
+        "locality":"Lind bei Scheifling",
+        "id":31433
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"Florian Clemens Krenn",
+        "street":"Stadlob 338",
+        "zip_code":8812,
+        "locality":"Mariahof",
+        "id":31434
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murau",
+        "company_name":"L\u00f6-Hack L\u00f6cker GmbH",
+        "street":"Am Kalkberg 7",
+        "zip_code":8812,
+        "locality":"Sankt Blasen",
+        "id":31435
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Bioenergie Steinkellner GmbH",
+        "street":"Murdorferstra\u00dfe 32",
+        "zip_code":8750,
+        "locality":"Judenburg",
+        "id":31436
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Biomassehof P\u00f6lstal GmbH",
+        "street":"Gewerbepark 1",
+        "zip_code":8763,
+        "locality":"Sankt Oswald-M\u00f6derbrugg",
+        "id":31437
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Martin Paul Horn",
+        "street":"Bretsteingraben 2",
+        "zip_code":8763,
+        "locality":"Bretstein",
+        "id":31438
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Franz Papst",
+        "street":"Granitzen 15",
+        "zip_code":8742,
+        "locality":"Obdach",
+        "id":31439
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Harald Pojer",
+        "street":"Sonnwenddorf 16",
+        "zip_code":8732,
+        "locality":"Seckau",
+        "id":31440
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Helga Sattler",
+        "street":"Stubalpenstra\u00dfe 16",
+        "zip_code":8720,
+        "locality":"Apfelberg",
+        "id":31441
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Josip Stoj\u010devi\u0107",
+        "street":"Oberer Markt 7",
+        "zip_code":8800,
+        "locality":"Unzmarkt",
+        "id":31442
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Johann Wilding",
+        "street":"Granitzen 18a",
+        "zip_code":8742,
+        "locality":"Obdach",
+        "id":31443
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Christian Franz Haberl",
+        "street":"Bergl 71",
+        "zip_code":8333,
+        "locality":"Bergl",
+        "id":31444
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"H-B-M GmbH",
+        "street":"Bairisch K\u00f6lldorf 151",
+        "zip_code":8344,
+        "locality":"Bairisch K\u00f6lldorf",
+        "id":31445
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Matthias Hiebaum",
+        "street":"W\u00f6rth 172",
+        "zip_code":8324,
+        "locality":"Kirchberg an der Raab",
+        "id":31446
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Karl Kaufmann",
+        "street":"Rosenbergstra\u00dfe 60A",
+        "zip_code":8093,
+        "locality":"Sankt Peter am Ottersbach",
+        "id":31447
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Dietmar Konrad",
+        "street":"Frannach 74",
+        "zip_code":8081,
+        "locality":"Frannach",
+        "id":31448
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Christian Krammer",
+        "street":"Ratschendorf 166",
+        "zip_code":8483,
+        "locality":"Deutsch Goritz",
+        "id":31449
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Johann Georg Schilletz",
+        "street":"Laafeld 102",
+        "zip_code":8490,
+        "locality":"Bad Radkersburg",
+        "id":31450
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Josef Sittsam",
+        "street":"Auersbach 68",
+        "zip_code":8330,
+        "locality":"Auersbach",
+        "id":31451
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Wolfgang Wagnes",
+        "street":"Gie\u00dfelsdorf 98",
+        "zip_code":8354,
+        "locality":"Frutten-Gie\u00dfelsdorf",
+        "id":31452
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Gerhard Franz Weghofer",
+        "street":"Neustift 61",
+        "zip_code":8313,
+        "locality":"Neustift",
+        "id":31453
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Franz Michael Briegler",
+        "street":"Kirchberg 42",
+        "zip_code":8591,
+        "locality":"Maria Lankowitz",
+        "id":31454
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Benjamin Flie\u00dfer",
+        "street":"Packerstra\u00dfe 134, T\u00fcr 1",
+        "zip_code":8561,
+        "locality":"Kleins\u00f6ding",
+        "id":31455
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Adrian Liviu Roman",
+        "street":"Ziegelwerkstra\u00dfe 5b",
+        "zip_code":8572,
+        "locality":"B\u00e4rnbach",
+        "id":31456
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Georg Schlegl",
+        "street":"S\u00f6dingberg 135",
+        "zip_code":8152,
+        "locality":"S\u00f6dingberg",
+        "id":31457
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Johannes Peter Spari",
+        "street":"Jagerweg 4",
+        "zip_code":8570,
+        "locality":"Voitsberg",
+        "id":31458
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Biomassehof Raabtal GmbH",
+        "street":"Industriestra\u00dfe 14",
+        "zip_code":8321,
+        "locality":"St. Margarethen an der Raab",
+        "id":31459
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Josef Franz Hochegger",
+        "street":"D\u00f6rflstra\u00dfe 2, T\u00fcr 2",
+        "zip_code":8160,
+        "locality":"Ponigl",
+        "id":31460
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Florian Hutter",
+        "street":"Marburgerstra\u00dfe 86\/2",
+        "zip_code":8160,
+        "locality":"Weiz",
+        "id":31461
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Hans Peter Konlechner-Hirschmann",
+        "street":"Wiedenbergstra\u00dfe 54",
+        "zip_code":8162,
+        "locality":"Passail",
+        "id":31462
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Mario Kreutzer",
+        "street":"Takern I 14",
+        "zip_code":8321,
+        "locality":"St. Margarethen an der Raab",
+        "id":31463
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Johann Trieb",
+        "street":"Tober 70",
+        "zip_code":8162,
+        "locality":"Passail",
+        "id":31464
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Heinz Schennet",
+        "street":"Li\u00df 172",
+        "zip_code":6474,
+        "locality":"Jerzens",
+        "id":31465
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Josef Knapp - Hackschnitzelerzeugung Josef Knapp",
+        "street":"Krepperh\u00fcttenweg 7\/Top 1",
+        "zip_code":6111,
+        "locality":"Volders",
+        "id":31466
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Wolfgang Reinisch",
+        "street":"Dorfstra\u00dfe 16\/Top 3",
+        "zip_code":6142,
+        "locality":"Mieders",
+        "id":31467
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Anton Singer",
+        "street":"Omesweg 2",
+        "zip_code":6092,
+        "locality":"Birgitz",
+        "id":31468
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Adam Aigner e.U.",
+        "street":"Schwendterstra\u00dfe 21",
+        "zip_code":6345,
+        "locality":"K\u00f6ssen",
+        "id":31469
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Biogasanlage Kaiserwinkl GmbH",
+        "street":"Ried 18",
+        "zip_code":6344,
+        "locality":"K\u00f6ssen",
+        "id":31470
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Josef Grander",
+        "street":"Josef Hager-Stra\u00dfe 53",
+        "zip_code":6372,
+        "locality":"Oberndorf in Tirol",
+        "id":31471
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Stefan Peter Schroll",
+        "street":"Au 11a",
+        "zip_code":6363,
+        "locality":"Westendorf",
+        "id":31472
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Theo Edelmann",
+        "street":"Feistenau 15a",
+        "zip_code":6347,
+        "locality":"Rettensch\u00f6ss",
+        "id":31473
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Hans-Peter Maleta",
+        "street":"Kleins\u00f6ll 114\/1",
+        "zip_code":6252,
+        "locality":"Kleins\u00f6ll",
+        "id":31474
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Leonhard Thaler",
+        "street":"Ried 34",
+        "zip_code":6235,
+        "locality":"Reith im Alpbachtal",
+        "id":31475
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Heinrich Weiler",
+        "street":"Raut 3",
+        "zip_code":9912,
+        "locality":"Raut",
+        "id":31476
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"Thorsten K\u00f6pfle",
+        "street":"Schr\u00f6fle 92\/ T\u00fcr 1",
+        "zip_code":6645,
+        "locality":"Vorderhornbach",
+        "id":31477
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Thomas Dengg",
+        "street":"Prof.-Friedrich-Hell-Weg 17",
+        "zip_code":6271,
+        "locality":"Uderns",
+        "id":31478
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Florian Garber",
+        "street":"Erlach 222a",
+        "zip_code":6210,
+        "locality":"Wiesing",
+        "id":31479
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Ludwig Guggenbichler",
+        "street":"Tiergarten 600",
+        "zip_code":6210,
+        "locality":"Wiesing",
+        "id":31480
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Martin Konrath",
+        "street":"Gie\u00dfenweg 1-5",
+        "zip_code":6263,
+        "locality":"F\u00fcgen",
+        "id":31481
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Manfred Orgler",
+        "street":"Vomperloch 3",
+        "zip_code":6123,
+        "locality":"Terfens",
+        "id":31482
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Sylvia Stock",
+        "street":"Innerberg 460\/2",
+        "zip_code":6292,
+        "locality":"Finkenberg",
+        "id":31483
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Martin Batlogg",
+        "street":"Lor\u00fcns 110",
+        "zip_code":6700,
+        "locality":"Lor\u00fcns",
+        "id":31484
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Peter Blattmann",
+        "street":"Lafasottweg 3",
+        "zip_code":6781,
+        "locality":"Bartholom\u00e4berg",
+        "id":31485
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Harald Descher",
+        "street":"Siedlerweg 8",
+        "zip_code":6719,
+        "locality":"Bludesch",
+        "id":31486
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bludenz",
+        "company_name":"Reinhard Hermann Ganahl",
+        "street":"Roferweg 24",
+        "zip_code":6781,
+        "locality":"Bartholom\u00e4berg",
+        "id":31487
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Bereuter OG",
+        "street":"Haidach 441",
+        "zip_code":6951,
+        "locality":"Lingenau",
+        "id":31488
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Otto Berkmann",
+        "street":"Reichitzer 124",
+        "zip_code":6943,
+        "locality":"Riefensberg",
+        "id":31489
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Wilfried Fink",
+        "street":"Hub 96",
+        "zip_code":6932,
+        "locality":"Langen bei Bregenz",
+        "id":31490
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Gugele Handels KG",
+        "street":"Neulandstra\u00dfe 18",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":31491
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"J\u00f6rg Bantel GmbH",
+        "street":"Walserstra\u00dfe 204",
+        "zip_code":6992,
+        "locality":"Hirschegg",
+        "id":31492
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Helmut Josef Mandl",
+        "street":"Hofsteigstra\u00dfe 12",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":31493
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Richard Matt",
+        "street":"Dorfstra\u00dfe 16",
+        "zip_code":6921,
+        "locality":"Kennelbach",
+        "id":31494
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Josef Sohm",
+        "street":"M\u00fcselbach 307",
+        "zip_code":6861,
+        "locality":"Alberschwende",
+        "id":31495
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Klaus Allg\u00e4uer",
+        "street":"Wasenweg 22",
+        "zip_code":6800,
+        "locality":"Feldkirch",
+        "id":31496
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Dietmar Fechtig",
+        "street":"Im Hau 20",
+        "zip_code":6841,
+        "locality":"M\u00e4der",
+        "id":31497
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Quido Morscher",
+        "street":"Walgaustra\u00dfe 39",
+        "zip_code":6837,
+        "locality":"Weiler",
+        "id":31498
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Thomas Pointner GmbH",
+        "street":"Schweizerstra\u00dfe 9",
+        "zip_code":6841,
+        "locality":"M\u00e4der",
+        "id":31499
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Herbert Karl Turza",
+        "street":"S\u00e4gerweg 12 A",
+        "zip_code":6840,
+        "locality":"G\u00f6tzis",
+        "id":31500
+    },
+    {
+        "branche_layer_3":"Holzzerkleinerer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Werner Turza",
+        "street":"S\u00e4gerweg 12, Top 1",
+        "zip_code":6840,
+        "locality":"G\u00f6tzis",
+        "id":31501
+    }
+]

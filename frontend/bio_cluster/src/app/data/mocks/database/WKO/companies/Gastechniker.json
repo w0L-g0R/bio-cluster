@@ -1,0 +1,662 @@
+[
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"Kaplenig GmbH - Kaplenig GmbH",
+        "street":"K\u00f6tschach 112",
+        "zip_code":9640,
+        "locality":"K\u00f6tschach-Mauthen",
+        "id":16013
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"SGS-HEIZSERVICE Gesellschaft m.b.H.",
+        "street":"B\u00fcnkerstra\u00dfe 26",
+        "zip_code":9800,
+        "locality":"Spittal an der Drau",
+        "id":16014
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Steiner CP GmbH",
+        "street":"Winklern 115",
+        "zip_code":9841,
+        "locality":"Winklern",
+        "id":16015
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Widmann Sanit\u00e4r und Heizungstechnik GmbH",
+        "street":"St. Jakob im Rosental 90",
+        "zip_code":9184,
+        "locality":"St. Jakob im Rosental",
+        "id":16016
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Christian Feil",
+        "street":"Glaserstra\u00dfe 10A",
+        "zip_code":5026,
+        "locality":"Salzburg",
+        "id":16017
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Robert F\u00fcssl - Sanit\u00e4rinstallationen-Gas-Heizungen",
+        "street":"H\u00f6glw\u00f6rthweg 29",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16018
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"NET Neue Energie Technik GmbH - Photovoltaik, Batteriespeicher, W\u00e4rmepumpen, Blockheizkraftwerke, Stromtankstellen, Wasserstofftechnologie, Notstomanlagen, Energiemanagement, ECDS,",
+        "street":"Moosstra\u00dfe 132\/a",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16019
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Vogelweiderstra\u00dfe 65",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16020
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Erich Radler",
+        "street":"Sonnenweg 3",
+        "zip_code":5325,
+        "locality":"Plainfeld",
+        "id":16021
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Ronge GmbH",
+        "street":"Lohm\u00fchle 11 a",
+        "zip_code":5324,
+        "locality":"Faistenau",
+        "id":16022
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Ernst Fasching",
+        "street":"Stubnerkogelstra\u00dfe 44",
+        "zip_code":5640,
+        "locality":"Bad Gastein",
+        "id":16023
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Michael Neureiter GmbH",
+        "street":"H\u00f6ggenstra\u00dfe 54",
+        "zip_code":5550,
+        "locality":"Radstadt",
+        "id":16024
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Josef Buchner - Josef Buchner Installationen",
+        "street":"Nr. 39",
+        "zip_code":5722,
+        "locality":"Niedernsill",
+        "id":16025
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Otto Fersterer",
+        "street":"Kehlbach 45",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":16026
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Heiztechnik Perterer & Faistauer GmbH",
+        "street":"Niederland 55",
+        "zip_code":5091,
+        "locality":"Unken",
+        "id":16027
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Otmar M\u00fcllauer KG",
+        "street":"Loferer Bundesstra\u00dfe 44",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":16028
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Energie Steiermark Technik GmbH",
+        "street":"Hochfeldgasse 28",
+        "zip_code":8600,
+        "locality":"Bruck an der Mur",
+        "id":16029
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Erwin Fuchs B\u00e4derstudio Heizungs- und Sanit\u00e4rbau Ges.m.b.H. - Kapfenberg",
+        "street":"Wiener Stra\u00dfe 122",
+        "zip_code":8605,
+        "locality":"Kapfenberg",
+        "id":16030
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Johannes Gurdet",
+        "street":"Stanz i.M. 51",
+        "zip_code":8653,
+        "locality":"Stanz im M\u00fcrztal",
+        "id":16031
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Steinwender Installations-Gesellschaft m.b.H.",
+        "street":"Wienerstra\u00dfe 59",
+        "zip_code":8605,
+        "locality":"Kapfenberg",
+        "id":16032
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Franz Wre\u00dfnig GmbH & Co KG",
+        "street":"Grazerstra\u00dfe 14",
+        "zip_code":8522,
+        "locality":"Gro\u00df Sankt Florian",
+        "id":16033
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Johann Reiterer Gesellschaft m.b.H.",
+        "street":"Bundesstra\u00dfe 15",
+        "zip_code":8541,
+        "locality":"Schwanberg",
+        "id":16034
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Lagerhaus Gleinst\u00e4tten-Ehrenhausen-Wies eGen - LGH WIES",
+        "street":"Am Bahnhof 4",
+        "zip_code":8551,
+        "locality":"Wies",
+        "id":16035
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"M\u00fcnzer Gesellschaft m.b.H.",
+        "street":"Bundesstra\u00dfe 2",
+        "zip_code":8541,
+        "locality":"Schwanberg",
+        "id":16036
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"TEC Thermic Energiesystems & Consulting KG",
+        "street":"Aibl 191",
+        "zip_code":8552,
+        "locality":"Eibiswald",
+        "id":16037
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Deutschlandsberg",
+        "company_name":"Zinell, Wasser- und Heizungsinstallationen KG.",
+        "street":"Obere Schmiedgasse 1",
+        "zip_code":8530,
+        "locality":"Deutschlandsberg",
+        "id":16038
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Graz GmbH & Co KG",
+        "street":"Sch\u00f6naug\u00fcrtel 65",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16039
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark Kunden GmbH",
+        "street":"Leonhardg\u00fcrtel 10",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16040
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark Technik GmbH",
+        "street":"Leonhardg\u00fcrtel 10",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16041
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark Technik GmbH",
+        "street":"Neuholdaugasse 56",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16042
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Hoval Gesellschaft m.b.H. - Hoval Regionalcenter S\u00fcd",
+        "street":"Messendorferstra\u00dfe 6",
+        "zip_code":8041,
+        "locality":"Graz-Liebenau",
+        "id":16043
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Sauseng Installationen GmbH",
+        "street":"Harter Stra\u00dfe 122",
+        "zip_code":8053,
+        "locality":"Graz",
+        "id":16044
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Richard Alois Beichler - Gas , Heizungstechnik und Handel",
+        "street":"Judendorfer Stra\u00dfe 5",
+        "zip_code":8112,
+        "locality":"Gratwein",
+        "id":16045
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Dipl.Ing. Anton Hofst\u00e4tter Gesellschaft m.b.H.",
+        "street":"Werschweg 8",
+        "zip_code":8054,
+        "locality":"Seiersberg",
+        "id":16046
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Gebr\u00fcder Haider & Co Hoch- u. Tiefbau GmbH",
+        "street":"Erzherzog Johann-Stra\u00dfe 47b",
+        "zip_code":8054,
+        "locality":"Seiersberg",
+        "id":16047
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Haustechnik Schinnerl GesmbH",
+        "street":"Grazer Stra\u00dfe 155a",
+        "zip_code":8062,
+        "locality":"Kumberg",
+        "id":16048
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Viessmann Gesellschaft m.b.H.",
+        "street":"Pachern-Hauptstra\u00dfe 90",
+        "zip_code":8075,
+        "locality":"Hart bei Graz",
+        "id":16049
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"H. Handler Gesellschaft m.b.H. - H.Handler Ges.m.b.H",
+        "street":"Oberlungitz 68",
+        "zip_code":8230,
+        "locality":"Oberlungitz",
+        "id":16050
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Hermann Pferschy",
+        "street":"St.Lorenzen 123",
+        "zip_code":8242,
+        "locality":"St.Lorenzen am Wechsel",
+        "id":16051
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Peter Freidl",
+        "street":"Arnfels 97",
+        "zip_code":8454,
+        "locality":"Arnfels",
+        "id":16052
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Gerhard Petritsch",
+        "street":"G\u00fcndorf 21",
+        "zip_code":8453,
+        "locality":"Sankt Johann im Saggautal",
+        "id":16053
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Pratter GmbH",
+        "street":"Pleysteinplatz 402",
+        "zip_code":8462,
+        "locality":"Gamlitz",
+        "id":16054
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"FINK Installationen GmbH",
+        "street":"Pestalozzistra\u00dfe 63",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":16055
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Haidn Gesellschaft m.b.H.",
+        "street":"Vordernbergerstra\u00dfe 5",
+        "zip_code":8790,
+        "locality":"Eisenerz",
+        "id":16056
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Josef G\u00fcnther Lieb",
+        "street":"Zaillachweg 20",
+        "zip_code":8773,
+        "locality":"Kammern\/Liesingtal",
+        "id":16057
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Stadtgemeinde Leoben",
+        "street":"Kerpelystra\u00dfe 21",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":16058
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Bernhard Brandauer Gas Wasser Heizung e.U.",
+        "street":"Lichtersberg 208",
+        "zip_code":8992,
+        "locality":"Altaussee",
+        "id":16059
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Energie Steiermark Technik GmbH",
+        "street":"Admonter Stra\u00dfe 62",
+        "zip_code":8940,
+        "locality":"Liezen",
+        "id":16060
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Maximilian Lautner",
+        "street":"Hauptstra\u00dfe 32",
+        "zip_code":8786,
+        "locality":"Rottenmann",
+        "id":16061
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Thomas Gaisberger GmbH",
+        "street":"Bahnhofstra\u00dfe 57",
+        "zip_code":8990,
+        "locality":"Bad Aussee",
+        "id":16062
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Energie Steiermark Technik GmbH",
+        "street":"Schubertstra\u00dfe 33",
+        "zip_code":8720,
+        "locality":"Knittelfeld",
+        "id":16063
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"ITHERM Messtechnik GmbH & Co KG",
+        "street":"Bundesstra\u00dfe 66",
+        "zip_code":8740,
+        "locality":"Farrach",
+        "id":16064
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Schlapschy GmbH & Co KG - Gas - Wasser - Heizung - Sonnenenergie und Klimaanlagen",
+        "street":"Oberweg 11",
+        "zip_code":8740,
+        "locality":"Zeltweg",
+        "id":16065
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Stadtwerke Judenburg Aktiengesellschaft - Stadtwerke Judenburg AG",
+        "street":"Burggasse 15",
+        "zip_code":8750,
+        "locality":"Judenburg",
+        "id":16066
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"S\u00fcdoststeiermark",
+        "company_name":"Thier Haustechnik-Installationen GmbH",
+        "street":"Gleichenberger Stra\u00dfe 35",
+        "zip_code":8330,
+        "locality":"Feldbach",
+        "id":16067
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Voitsberg",
+        "company_name":"Lagerhaus Graz Land eGen - Handel und Dienstleistungen",
+        "street":"Grazer Vorstadt 12+14",
+        "zip_code":8570,
+        "locality":"Voitsberg",
+        "id":16068
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Hack Gesellschaft m.b.H.",
+        "street":"Roseggerstra\u00dfe 6, T\u00fcr 1",
+        "zip_code":8184,
+        "locality":"Anger",
+        "id":16069
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Franz Krogger",
+        "street":"Strallegg 7",
+        "zip_code":8192,
+        "locality":"Strallegg",
+        "id":16070
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Perl Gesellschaft m.b.H.",
+        "street":"Franz-Perl-Stra\u00dfe 1",
+        "zip_code":8200,
+        "locality":"Gleisdorf",
+        "id":16071
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"Stadtwerke Gleisdorf GmbH",
+        "street":"Gartengasse 36",
+        "zip_code":8200,
+        "locality":"Gleisdorf",
+        "id":16072
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"TPA KKS GmbH",
+        "street":"Dr.-Franz-Werner-Stra\u00dfe 36\/3. OG",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16073
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Primagaz GmbH",
+        "street":"Europastra\u00dfe 8",
+        "zip_code":6322,
+        "locality":"Kirchbichl",
+        "id":16074
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Siegfried Planegger",
+        "street":"Zauche 41",
+        "zip_code":9904,
+        "locality":"Thurn",
+        "id":16075
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Ing. Yalcin Cilingir",
+        "street":"Oelweingasse 12, , T\u00fcr 59A",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16076
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Kirschis Gas-Consult GmbH",
+        "street":"Speckbachergasse 46\/27",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":16077
+    },
+    {
+        "branche_layer_3":"Gastechniker",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"TPA KKS GmbH",
+        "street":"Deutschstra\u00dfe 10",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16078
+    }
+]

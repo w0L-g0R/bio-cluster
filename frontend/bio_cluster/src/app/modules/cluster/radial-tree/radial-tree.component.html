@@ -1,0 +1,60 @@
+<!-- <div class="cluster-container" fxLayout fxLayoutAlign="center start" fxLayoutGap="15px">
+
+    <div class="description-container" fxFlexAlign="stretch center" fxFlex="30" fxFlexOrder=1>
+        <mat-card>
+            <mat-card-header>
+                <mat-card-title>Shiba Inu</mat-card-title>
+                <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+            </mat-card-header>
+
+            <mat-card-content fxFill>
+                <p>
+                    The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan.
+                    A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was originally
+                    bred for hunting.
+                </p>
+            </mat-card-content>
+        </mat-card>
+    </div>
+
+    <div class="radial-tree-container" fxFlex="auto" fxFlexOrder=2 fxFill>
+
+        <mat-card>
+            <mat-card-content>
+                <div echarts [options]="radialTreeChartOptions" class="radial-tree-chart"
+                    (chartClick)="onChartEvent($event)">
+                </div>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</div> -->
+
+
+<div class="container">
+
+    <div class="chart-controls">
+        <mat-card>
+            <mat-card-content color="accent">
+                Now for the issue of having many typography styles being created and overriding each other. This is most likely due to a file (probably your file which contains your typography) being imported multiple times causing the mixin to recall a few times. Try
+                to place your typography file in 1 central space like calling the file once in styles.scss
+            </mat-card-content>
+            <mat-card-actions fxFlexLayout="row" fxLayoutGap="5px">
+                <button mat-raised-button color="accent" fxFlex="50%">Leuchtturm</button>
+                <button mat-raised-button color="primary" fxFlex="50%">Reset</button>
+            </mat-card-actions>
+        </mat-card>
+    </div>
+
+    <div class="tree-chart">
+
+        <!-- <div class=" radial-tree-container" style="background: #00112233;"> -->
+        <!-- <mat-card> -->
+        <!-- <mat-card-content> -->
+        <div echarts [options]="options" class="radial-tree-chart" (chartInit)="onChartInit($event)" (chartClick)="onNodeClicked($event)">
+        </div>
+        <!-- </mat-card-content> -->
+        <!-- </mat-card> -->
+        <!-- </div> -->
+
+    </div>
+</div>

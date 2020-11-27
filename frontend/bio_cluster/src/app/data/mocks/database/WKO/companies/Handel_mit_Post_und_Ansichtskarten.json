@@ -1,0 +1,602 @@
+[
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"BBO e.U.",
+        "street":"Industriestra\u00dfe 15-17",
+        "zip_code":7000,
+        "locality":"Eisenstadt",
+        "id":23237
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Peter Bachler",
+        "street":"Markt 127",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":23238
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"J. W. Cappelen Gesellschaft m.b.H.",
+        "street":"Am Weinberg 1",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":23239
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Stadtgemeinde Hallein",
+        "street":"Pflegerplatz 5 (Keltenmuseum)",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":23240
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Tabaktrafik Hermine Golser e.U.",
+        "street":"Halleiner Landesstra\u00dfe 899",
+        "zip_code":5411,
+        "locality":"Oberalm",
+        "id":23241
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Alfred Gr\u00fcndler",
+        "street":"Schillinghofstra\u00dfe 16",
+        "zip_code":5023,
+        "locality":"Salzburg",
+        "id":23242
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Monika Gerhaber Tabak Trafik e.U.",
+        "street":"Ignaz-Harrer-Stra\u00dfe 35",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":23243
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Stefan Neisser",
+        "street":"M\u00fcllner Hauptstra\u00dfe 48",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":23244
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Peich\u00e4r Gesellschaft m.b.H. & Co. KG. - Peich\u00e4r Print Ideen",
+        "street":"Rottweg 66",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":23245
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Erich Schmidberger",
+        "street":"Berchtesgadner Stra\u00dfe 35",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":23246
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Hubertushof Leikermoser GmbH",
+        "street":"Alpenstra\u00dfe 110",
+        "zip_code":5081,
+        "locality":"Anif",
+        "id":23247
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Salzkammergutbahn GmbH",
+        "street":"Ischlerstra\u00dfe 21",
+        "zip_code":5340,
+        "locality":"Sankt Gilgen",
+        "id":23248
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Marion Winkler",
+        "street":"Handelszentrum 2",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":23249
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Ingrid Rainer e.U.",
+        "street":"Kurhausplatz,Kiosk",
+        "zip_code":5630,
+        "locality":"Bad Hofgastein",
+        "id":23250
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Gerwald Andreas Anderle",
+        "street":"Brucker Bundesstra\u00dfe 100",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":23251
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Eduard Sommerer e.U.",
+        "street":"Kirchplatz 1",
+        "zip_code":5661,
+        "locality":"Rauris",
+        "id":23252
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Helga Gensbichler",
+        "street":"Nr. 86",
+        "zip_code":5743,
+        "locality":"Krimml",
+        "id":23253
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Sabina Hanke",
+        "street":"Schillerstra\u00dfe 1",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":23254
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Josef Herzog Tabaktrafik e.U.",
+        "street":"Nr. 20",
+        "zip_code":5671,
+        "locality":"Bruck a.d. Gro\u00dfglocknerstr.",
+        "id":23255
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Marktgemeinde Taxenbach",
+        "street":"Gp. 215\/3 KG.Embach",
+        "zip_code":5651,
+        "locality":"Lend",
+        "id":23256
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Walter Richter & Co GmbH & Co KG",
+        "street":"Oberkrimml 108",
+        "zip_code":5743,
+        "locality":"Krimml",
+        "id":23257
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Top Hotel Hochgurgl Betriebs GmbH & Co KG",
+        "street":"Obergurgl 73",
+        "zip_code":6456,
+        "locality":"Obergurgl",
+        "id":23258
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Camping Stubai Betriebs OG",
+        "street":"Dorf 92",
+        "zip_code":6167,
+        "locality":"Neustift im Stubaital",
+        "id":23259
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Stefan De Romedis",
+        "street":"Solegasse 1",
+        "zip_code":6065,
+        "locality":"Thaur",
+        "id":23260
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Stefan De Romedis",
+        "street":"Hauptstra\u00dfe 7",
+        "zip_code":6074,
+        "locality":"Rinn",
+        "id":23261
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Veronika Antonie Kirchmayer",
+        "street":"Karwendelweg 845\/Top 2",
+        "zip_code":6100,
+        "locality":"Seefeld in Tirol",
+        "id":23262
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Renate Oberthanner",
+        "street":"Schulweg 36",
+        "zip_code":6167,
+        "locality":"Neustift im Stubaital",
+        "id":23263
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Thomas Defner",
+        "street":"Eichlerstra\u00dfe 6",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23264
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Renate Oberthanner",
+        "street":"Seilergasse 4, T\u00fcr GemU",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23265
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Johannes Plattner - Johannes Plattner Fotografie",
+        "street":"Fennerstra\u00dfe 17",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23266
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Vinylpostcards - Timeless Media GmbH",
+        "street":"Ferdinand-Weyrer-Stra\u00dfe 13",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23267
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Chakib Zine",
+        "street":"Mitterweg 7",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":23268
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Geschenks ABC Plieseis KG",
+        "street":"Dorfstra\u00dfe 1",
+        "zip_code":6363,
+        "locality":"Westendorf",
+        "id":23269
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Geschenks ABC Plieseis KG",
+        "street":"Speckbacherstra\u00dfe 2",
+        "zip_code":6380,
+        "locality":"St.Johann\/T",
+        "id":23270
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Johann Degeser",
+        "street":"Landl Ackernalm",
+        "zip_code":6335,
+        "locality":"Thiersee",
+        "id":23271
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Johann Degeser",
+        "street":"Vorderthiersee 24",
+        "zip_code":6335,
+        "locality":"Thiersee",
+        "id":23272
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Stadtmarketing W\u00f6rgl GmbH",
+        "street":"Bahnhofstra\u00dfe 54\/Top 2",
+        "zip_code":6300,
+        "locality":"W\u00f6rgl",
+        "id":23273
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Stefan Alber",
+        "street":"Dorfstra\u00dfe 60",
+        "zip_code":6580,
+        "locality":"St. Anton am Arlberg",
+        "id":23274
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Eduard Wiestner KG",
+        "street":"Nauders 77",
+        "zip_code":6543,
+        "locality":"Nauders",
+        "id":23275
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Josef Eiter",
+        "street":"Gemeindegasse 2",
+        "zip_code":6580,
+        "locality":"St. Anton am Arlberg",
+        "id":23276
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Eva Maria Kammerlander-Ladurner",
+        "street":"Untergasse 4",
+        "zip_code":6533,
+        "locality":"Fiss",
+        "id":23277
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Patscheider Sport GMBH",
+        "street":"Untergasse 8",
+        "zip_code":6533,
+        "locality":"Fiss",
+        "id":23278
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Patscheider Sport GMBH",
+        "street":"Untere Dorfstra\u00dfe 25",
+        "zip_code":6534,
+        "locality":"Serfaus",
+        "id":23279
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Sporthotel Silvretta GmbH",
+        "street":"Persuttweg 24",
+        "zip_code":6561,
+        "locality":"Ischgl",
+        "id":23280
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Theodor Pies",
+        "street":"St. Anton a.A.",
+        "zip_code":6580,
+        "locality":"St. Anton am Arlberg",
+        "id":23281
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Maria Venier",
+        "street":"Untergasse 12",
+        "zip_code":6534,
+        "locality":"Serfaus",
+        "id":23282
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Lucas Ewald Dobnig",
+        "street":"Johannesplatz 5",
+        "zip_code":9900,
+        "locality":"Lienz",
+        "id":23283
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"GRAFIK ZLOEBL GmbH",
+        "street":"Wasserweg 4",
+        "zip_code":9907,
+        "locality":"Tristach",
+        "id":23284
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Gerhard Maximilian Passler",
+        "street":"Au\u00dferrotte 33",
+        "zip_code":9963,
+        "locality":"St. Jakob in Defereggen",
+        "id":23285
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Kathrin Ruth Schulz",
+        "street":"K\u00e4rntner Stra\u00dfe 25",
+        "zip_code":9900,
+        "locality":"Lienz",
+        "id":23286
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Michael Sulzenbacher",
+        "street":"Messinggasse 15",
+        "zip_code":9900,
+        "locality":"Lienz",
+        "id":23287
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"Kornelia Thomas",
+        "street":"H\u00e4selgehr 160",
+        "zip_code":6651,
+        "locality":"H\u00e4selgehr",
+        "id":23288
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Johann Degeser",
+        "street":"Achenkirch 661",
+        "zip_code":6215,
+        "locality":"Achenkirch",
+        "id":23289
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Martha Josefa Guggenbichler",
+        "street":"Kienbergstra\u00dfe 20",
+        "zip_code":6200,
+        "locality":"Jenbach",
+        "id":23290
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Jaroslav Justa",
+        "street":"Aufenfeldweg 15",
+        "zip_code":6274,
+        "locality":"Aschau im Zillertal",
+        "id":23291
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Markus Hochmuth e.U. Inhaber Markus Hochmuth",
+        "street":"Bahnhofstra\u00dfe 3",
+        "zip_code":6280,
+        "locality":"Zell am Ziller",
+        "id":23292
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"G\u00fcnther Johann M\u00fchlbacher",
+        "street":"Pfarrer-Krapf-Stra\u00dfe 395",
+        "zip_code":6290,
+        "locality":"Mayrhofen",
+        "id":23293
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Thomas Josef Rechberger",
+        "street":"Eggbachweg 19, Top 28",
+        "zip_code":6212,
+        "locality":"Maurach",
+        "id":23294
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Thomas Josef Rechberger",
+        "street":"Seepromenade 14",
+        "zip_code":6213,
+        "locality":"Pertisau",
+        "id":23295
+    },
+    {
+        "branche_layer_3":"Handel mit Post- und Ansichtskarten",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"TIROLAND Entertainment GmbH",
+        "street":"Stublerfeld 1",
+        "zip_code":6123,
+        "locality":"Terfens",
+        "id":23296
+    }
+]

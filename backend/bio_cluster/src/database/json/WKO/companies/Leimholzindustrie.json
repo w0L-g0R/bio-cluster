@@ -1,0 +1,152 @@
+[
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"FunderMax GmbH",
+        "street":"Bickfordstra\u00dfe 6",
+        "zip_code":7201,
+        "locality":"Neud\u00f6rfl",
+        "id":33759
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"MBS Handels GmbH",
+        "street":"Hollersberg 28",
+        "zip_code":9334,
+        "locality":"Guttaring",
+        "id":33760
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"NORITEC Holzindustrie GmbH",
+        "street":"Feistritz 1",
+        "zip_code":9751,
+        "locality":"Sachsenburg",
+        "id":33761
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"NORITEC Holzindustrie GmbH",
+        "street":"Latzendorf 100",
+        "zip_code":9832,
+        "locality":"Stall im M\u00f6lltal",
+        "id":33762
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Willibald H\u00f6llm\u00fcller Gesellschaft m.b.H.",
+        "street":"Habruck 3",
+        "zip_code":3611,
+        "locality":"Weinzierl am Walde",
+        "id":33763
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Franz Kirnbauer KG",
+        "street":"Hauptstra\u00dfe 2",
+        "zip_code":2630,
+        "locality":"Ternitz",
+        "id":33764
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Franz Kirnbauer KG",
+        "street":"Gasteil 9",
+        "zip_code":2640,
+        "locality":"Prigglitz",
+        "id":33765
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Mosser Leimholz Gesellschaft m.b.H.",
+        "street":"Fohlenhof 2",
+        "zip_code":3263,
+        "locality":"Randegg",
+        "id":33766
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Scheibbs",
+        "company_name":"Mosser Leimholz Gesellschaft m.b.H.",
+        "street":"Perwarth 88",
+        "zip_code":3263,
+        "locality":"Randegg",
+        "id":33767
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"A. Baumgartner Gesellschaft m.b.H.",
+        "street":"Industriestra\u00dfe 260",
+        "zip_code":2601,
+        "locality":"Sollenau",
+        "id":33768
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Stora Enso Wood Products GmbH",
+        "street":"Industriestra\u00dfe 260",
+        "zip_code":2601,
+        "locality":"Sollenau",
+        "id":33769
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Josef Feldbacher GmbH",
+        "street":"Schw\u00f6llstra\u00dfe 3",
+        "zip_code":5211,
+        "locality":"Lengau",
+        "id":33770
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"WIEHAG GmbH - WIEHAG GmbH",
+        "street":"Linzer Stra\u00dfe 24",
+        "zip_code":4950,
+        "locality":"Altheim",
+        "id":33771
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Herbert Handlos Gesellschaft m.b.H.",
+        "street":"Schulstra\u00dfe 20",
+        "zip_code":4284,
+        "locality":"Tragwein",
+        "id":33772
+    },
+    {
+        "branche_layer_3":"Leimholzindustrie",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"weinberger-abtenau gmbh",
+        "street":"Schratten 44",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":33773
+    }
+]

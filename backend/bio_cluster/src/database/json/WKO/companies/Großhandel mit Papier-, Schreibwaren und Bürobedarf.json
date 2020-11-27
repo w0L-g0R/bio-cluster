@@ -1,0 +1,2532 @@
+[
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Feldkirchen",
+        "company_name":"Mag. Margit Monika Billiani e.U.",
+        "street":"Buchscheiden 6",
+        "zip_code":9560,
+        "locality":"Feldkirchen in K\u00e4rnten",
+        "id":16188
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"A3 Trading GmbH",
+        "street":"Pischeldorfer Stra\u00dfe 270",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16189
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Daniel Adolf Buglnig",
+        "street":"Sir Karl Popper Stra\u00dfe 4\/2\/15",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16190
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"CLK Autopflege GmbH",
+        "street":"Heinrich Harrer Stra\u00dfe 3",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16191
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"D&B GROSSHANDEL GmbH",
+        "street":"Sir Karl Popper Stra\u00dfe 4\/2\/15",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16192
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Theodor Strein S\u00f6hne",
+        "street":"Gerberweg 36",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16193
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Wolfgang Zaufenberger - Constructor Zeichentechnik",
+        "street":"Erikaweg 3",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16194
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Manfred Muhr",
+        "street":"Polan 2A",
+        "zip_code":9062,
+        "locality":"Moosburg in K\u00e4rnten",
+        "id":16195
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"KommR Friedrich Reinbold - Reinbold Friedrich",
+        "street":"Engelsdorf, Neumarkter Stra\u00dfe 69",
+        "zip_code":9360,
+        "locality":"Friesach",
+        "id":16196
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Schm\u00f6lzer GmbH",
+        "street":"Unterdorf 15",
+        "zip_code":9812,
+        "locality":"Pusarnitz",
+        "id":16197
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"EUROBOX DV GmbH",
+        "street":"Fercher von Steinwand Stra\u00dfe 8a",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":16198
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Liemberger KG",
+        "street":"Tafernerstra\u00dfe 2A",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":16199
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Ingrid Hildegard Steiner",
+        "street":"Ossiacher Zeile 45",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":16200
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"WEBER Gl\u00fcckwunschkarten Inh. AlexanderWeber e.K.",
+        "street":"Nelkenweg 1",
+        "zip_code":9241,
+        "locality":"Wernberg",
+        "id":16201
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"INCELL GmbH",
+        "street":"Bad Eisenkappel 203",
+        "zip_code":9135,
+        "locality":"Bad Eisenkappel",
+        "id":16202
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"FEST-DEKOR Gesellschaft m.b.H. - Fest-Dekor Gesellschaft m.b.H.",
+        "street":"Industriestra\u00dfe 7",
+        "zip_code":9470,
+        "locality":"St. Paul im Lavanttal",
+        "id":16203
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Annemarie Lindmeier KG",
+        "street":"Weiter Bach 1",
+        "zip_code":5145,
+        "locality":"Neukirchen an der Enknach",
+        "id":16204
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Elisabeth Ebner",
+        "street":"Unterholzleiten 4",
+        "zip_code":5231,
+        "locality":"Schalchen",
+        "id":16205
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"JOST GmbH",
+        "street":"Thalheim 24",
+        "zip_code":5251,
+        "locality":"H\u00f6hnhart",
+        "id":16206
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"MAIER-PAPIER GmbH",
+        "street":"H\u00f6hnhart 84",
+        "zip_code":5251,
+        "locality":"H\u00f6hnhart",
+        "id":16207
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Eferding",
+        "company_name":"Ernst Stadelmann Gesellschaft m.b.H.",
+        "street":"Bahnhofstra\u00dfe 8",
+        "zip_code":4070,
+        "locality":"Eferding",
+        "id":16208
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Freistadt",
+        "company_name":"Merckens Pappe-L\u00f6sungen GmbH",
+        "street":"Josefstal 9",
+        "zip_code":4311,
+        "locality":"Tragwein",
+        "id":16209
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"\"B\u00fcrospezialist\" B\u00fcrowarengro\u00dfhandels-gmbH",
+        "street":"Kufhausstra\u00dfe 16",
+        "zip_code":4812,
+        "locality":"Pinsdorf",
+        "id":16210
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"EINS B\u00fcrobedarf Handelsgesellschaft m.b.H. - Handel mit B\u00fcrobedarf",
+        "street":"Schulstra\u00dfe 5b",
+        "zip_code":4710,
+        "locality":"Grieskirchen",
+        "id":16211
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"etipro e.U. - Kennzeichnungs-Spezialist",
+        "street":"Rottenbacherstra\u00dfe 23",
+        "zip_code":4680,
+        "locality":"Haag am Hausruck",
+        "id":16212
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Moosmayr Ges.m.b.H.",
+        "street":"Eben 4",
+        "zip_code":4716,
+        "locality":"Hofkirchen an der Trattnach",
+        "id":16213
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Grieskirchen",
+        "company_name":"Hubert Steinbock",
+        "street":"Blumenstra\u00dfe 18",
+        "zip_code":4722,
+        "locality":"Peuerbach",
+        "id":16214
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Maistapack GmbH",
+        "street":"P\u00fcrstingerweg 1",
+        "zip_code":4553,
+        "locality":"Schlierbach",
+        "id":16215
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Mondi Gr\u00fcnburg GmbH",
+        "street":"Steyrtalstra\u00dfe 5",
+        "zip_code":4593,
+        "locality":"Gr\u00fcnburg",
+        "id":16216
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"thomas bauernfeind Immobilien + Verpackungen GmbH - bauernfeind Immobilien Druck Displays und Verpackungen aus Voll und Wellpappe",
+        "street":"Steyrtalstra\u00dfe 9",
+        "zip_code":4593,
+        "locality":"Gr\u00fcnburg",
+        "id":16217
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"B\u00fcrofachmarkt GmbH - B\u00fcroland Wiesmayr",
+        "street":"Garnisonstr. 13",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16218
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"GRZ IT Center GmbH",
+        "street":"Europaplatz 1a",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16219
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Horst Six GmbH",
+        "street":"Johann-Metz-Stra\u00dfe 14",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16220
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Gerlinde Kukral - Schreibwaren Kukral",
+        "street":"Hauptstr. 37",
+        "zip_code":4040,
+        "locality":"Linz",
+        "id":16221
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Dipl.-Ing. Walter Leibetseder",
+        "street":"Parzhofstra\u00dfe 17",
+        "zip_code":4040,
+        "locality":"Linz",
+        "id":16222
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Dipl.-Ing. Harald Markon",
+        "street":"Volksfeststra\u00dfe 4",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16223
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Silvio Robert Mayr",
+        "street":"Stockhofstra\u00dfe 36 S 4",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16224
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"timo printware GmbH",
+        "street":"Hollabererstra\u00dfe 4",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16225
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Wilhelm K\u00f6rner GmbH & Co.KG",
+        "street":"Winetzhammerstr. 5",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":16226
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Werner Aigner",
+        "street":"Reitherstra\u00dfe 6a",
+        "zip_code":4060,
+        "locality":"Leonding",
+        "id":16227
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"ELOPAK Gesellschaft m.b.H.",
+        "street":"Johann Roithner-Stra\u00dfe 131",
+        "zip_code":4050,
+        "locality":"Traun",
+        "id":16228
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"GFL Buntpapierfabrik GmbH",
+        "street":"Freindorfer Stra\u00dfe 23",
+        "zip_code":4052,
+        "locality":"Ansfelden",
+        "id":16229
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Green Globoria GmbH",
+        "street":"Plus-Kauf-Stra\u00dfe 7",
+        "zip_code":4061,
+        "locality":"Pasching",
+        "id":16230
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Haider Lehrmittelverlag OG",
+        "street":"Derfflingerstra\u00dfe 6",
+        "zip_code":4501,
+        "locality":"Neuhofen an der Krems",
+        "id":16231
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"RICOH AUSTRIA GmbH",
+        "street":"Obere Landstra\u00dfe 19",
+        "zip_code":4055,
+        "locality":"Pucking",
+        "id":16232
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Smurfit Kappa Interwell GmbH & Co KG",
+        "street":"Schellingstra\u00dfe 40",
+        "zip_code":4053,
+        "locality":"Ansfelden",
+        "id":16233
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"social made e.U. - Gro\u00dfhandel mit Produkten aus sozialer Herkunft",
+        "street":"Kindergartenstra\u00dfe 2\/2",
+        "zip_code":4502,
+        "locality":"St. Marien",
+        "id":16234
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Ulrich Lell Gesellschaft m.b.H.",
+        "street":"Freindorfer Stra\u00dfe 23",
+        "zip_code":4052,
+        "locality":"Ansfelden",
+        "id":16235
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"ACP TEKAEF GmbH",
+        "street":"Gewerbestra\u00dfe West 14",
+        "zip_code":4921,
+        "locality":"Hohenzell",
+        "id":16236
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Marktplatzerl Inge Fuchs e.U.",
+        "street":"Marktplatz 1\/3",
+        "zip_code":4120,
+        "locality":"Neufelden",
+        "id":16237
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Papierfabrik Oberm\u00fchl Sonnberger GmbH - Verpackungspapiere - Handel und Ausr\u00fcstung",
+        "street":"Oberm\u00fchl 38-40",
+        "zip_code":4131,
+        "locality":"Kirchberg ob der Donau",
+        "id":16238
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Ing. Walter Furthner Gesellschaft m.b.H.",
+        "street":"Bernetsedt 4",
+        "zip_code":4755,
+        "locality":"Zell an der Pram",
+        "id":16239
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Sch\u00e4rding",
+        "company_name":"Josef Heindl Handelsgesellschat m.b.H.",
+        "street":"Linzer Tor 3",
+        "zip_code":4780,
+        "locality":"Sch\u00e4rding",
+        "id":16240
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Maistapack GmbH",
+        "street":"Burgkirchnerweg 13",
+        "zip_code":4540,
+        "locality":"Bad Hall",
+        "id":16241
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"T 4 P Team for packaging GmbH",
+        "street":"Hermesstra\u00dfe 7",
+        "zip_code":4595,
+        "locality":"Waldneukirchen",
+        "id":16242
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr-Land",
+        "company_name":"Zwettler & Co OG",
+        "street":"Waldrandstra\u00dfe 42 a",
+        "zip_code":4493,
+        "locality":"Wolfern",
+        "id":16243
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Peter Stelzm\u00fcller",
+        "street":"Unterlaimbach 21",
+        "zip_code":4190,
+        "locality":"Bad Leonfelden",
+        "id":16244
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"B\u00fcro2Work GmbH",
+        "street":"Brucknerweg 2",
+        "zip_code":4873,
+        "locality":"Frankenburg am Hausruck",
+        "id":16245
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Gerhard Rauch Import Gesellschaft m.b.H.",
+        "street":"Walter Simmer-Stra\u00dfe 9",
+        "zip_code":5310,
+        "locality":"Mondsee",
+        "id":16246
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Lenzing Papier GmbH",
+        "street":"Werkstra\u00dfe 2",
+        "zip_code":4860,
+        "locality":"Lenzing",
+        "id":16247
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Livepost Austria GmbH",
+        "street":"Industriestra\u00dfe 18",
+        "zip_code":4800,
+        "locality":"Attnang-Puchheim",
+        "id":16248
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Mondseestra\u00dfe 53",
+        "zip_code":5310,
+        "locality":"St. Lorenz",
+        "id":16249
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Pulp Trading GmbH",
+        "street":"Werkweg 1",
+        "zip_code":4860,
+        "locality":"Lenzing",
+        "id":16250
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"R+B Hygiene Handels GmbH",
+        "street":"Hauptstra\u00dfe 4",
+        "zip_code":4893,
+        "locality":"Zell am Moos",
+        "id":16251
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Bettina Wimmer",
+        "street":"Dr. Karl Renner-Platz 3",
+        "zip_code":4800,
+        "locality":"Attnang-Puchheim",
+        "id":16252
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"B\u00fcro Handel GmbH - B\u00fcro Handel GmbH",
+        "street":"Vogelweiderstra\u00dfe 37",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16253
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"COLOP Digital GmbH - Colop DIGITAL GmbH",
+        "street":"Dr.-Arming-Stra\u00dfe 5",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16254
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"COLOP Stempelerzeugung Skopek Ges.m.b.H. & Co.KG. - Stempelhersteller",
+        "street":"Dr.Armingstr. 5",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16255
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"CrossMediaGroup GmbH",
+        "street":"Haidestra\u00dfe 33",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16256
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Honetschl\u00e4ger Gesellschaft m.b.H. - Stempel Express",
+        "street":"Unterleithen 3",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16257
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"\"PBS Austria Papier B\u00fcro und Schreibwaren GmbH\"",
+        "street":"Vogelweiderstr. 37",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16258
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"PBS Holding AG",
+        "street":"Vogelweiderstra\u00dfe 37",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16259
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"PBS Logitek Dienstleistungen GmbH",
+        "street":"Vogelweiderstra\u00dfe 37",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16260
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"PSM Bestpoint GmbH",
+        "street":"Negrellistra\u00dfe 38",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16261
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"\"SSI\" Sch\u00e4fer Shop Gesellschaft m.b.H.",
+        "street":"Etrichstra\u00dfe 9",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16262
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Ing. Michael Christian Traunau",
+        "street":"Edelwei\u00dfstra\u00dfe 3",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16263
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Trodat GmbH",
+        "street":"Linzer Stra\u00dfe 156",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16264
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"A. Binder Handels GmbH - A.Binder HandelsgmbH",
+        "street":"B\u00fcrgergasse 4",
+        "zip_code":4616,
+        "locality":"Wei\u00dfkirchen an der Traun",
+        "id":16265
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"\"A. P\u00f6hli\" Gesellschaft m.b.H.",
+        "street":"Ritzstra\u00dfe 8",
+        "zip_code":4614,
+        "locality":"Marchtrenk",
+        "id":16266
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Dr. Waldo L\u00f6sch Gesellschaft m.b.H.",
+        "street":"G\u00e4nsenau 31",
+        "zip_code":4654,
+        "locality":"Bad Wimsbach\/Neydharting",
+        "id":16267
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Format Werk GmbH",
+        "street":"Wallackstra\u00dfe 3",
+        "zip_code":4623,
+        "locality":"Gunskirchen",
+        "id":16268
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"K\u00f6glberger & Zaunbauer, Design Factory OG",
+        "street":"Linzerstra\u00dfe 30 a",
+        "zip_code":4650,
+        "locality":"Edt bei Lambach",
+        "id":16269
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Labelident.at GmbH",
+        "street":"Tassilostra\u00dfe 7",
+        "zip_code":4642,
+        "locality":"Sattledt",
+        "id":16270
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"PRINT MANAGEMENT GmbH Nfg KG",
+        "street":"Am Thalbach 100",
+        "zip_code":4600,
+        "locality":"Thalheim bei Wels",
+        "id":16271
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Thomas Stahrlinger",
+        "street":"Moritz-von-Schwind-Stra\u00dfe 14",
+        "zip_code":4651,
+        "locality":"Stadl-Paura",
+        "id":16272
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"B\u00fcroorganisation Walter Brandst\u00e4tter e.U.",
+        "street":"Innsbrucker Bundesstra\u00dfe 71",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16273
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"CARGOE GmbH & Co KG",
+        "street":"Friedrich-von-Walchen-Stra\u00dfe 37",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16274
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Cosy Verlag GmbH & Co KG",
+        "street":"M\u00fcnchner Bundesstra\u00dfe 156",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16275
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"DUNI Handelsgesellschaft m.b.H.",
+        "street":"Sterneckstra\u00dfe 37",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16276
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"FRZ. Hackenbuchner Beteiligungsgesellschaft m.b.H. & Co. KG",
+        "street":"Getreidegasse 12",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16277
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Alfred Gr\u00fcndler",
+        "street":"Schillinghofstra\u00dfe 16",
+        "zip_code":5023,
+        "locality":"Salzburg",
+        "id":16278
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Heidi Pechlaner",
+        "street":"Linke Glanzeile 17",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16279
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Sallmann GmbH - Sallmann GmbH",
+        "street":"Alois-Stockinger-Stra\u00dfe 16",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16280
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Schm\u00f6lzer GmbH",
+        "street":"Aribonenstra\u00dfe 10",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16281
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Spielzeugschachtel HandelsgmbH",
+        "street":"Europastra\u00dfe 1\/42",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16282
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Antalis Verpackungen GmbH",
+        "street":"Handelszentrum 8",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":16283
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"BERBERICH PAPIER Gesellschaft m.b.H.",
+        "street":"Industriestra\u00dfe 5",
+        "zip_code":5303,
+        "locality":"Thalgau",
+        "id":16284
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"B\u00fcroprofi Plus GmbH",
+        "street":"Watzmannstra\u00dfe 31",
+        "zip_code":5110,
+        "locality":"Oberndorf bei Salzburg",
+        "id":16285
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"CARGOE GmbH & Co KG",
+        "street":"St. Leonharder Stra\u00dfe 10",
+        "zip_code":5081,
+        "locality":"Anif",
+        "id":16286
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"COLiPRI GmbH",
+        "street":"Staufenstra\u00dfe 1",
+        "zip_code":5161,
+        "locality":"Elixhausen",
+        "id":16287
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"IBA Industriebedarf Aigner GmbH",
+        "street":"Katzelsberg 10",
+        "zip_code":5162,
+        "locality":"Obertrum am See",
+        "id":16288
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Josef Lindner Strasse 4\/ Top 1",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":16289
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Roadcenter Alfred Gerner",
+        "street":"Michael Haydn-Weg 15",
+        "zip_code":5112,
+        "locality":"Lamprechtshausen",
+        "id":16290
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Federer Handel Gesellschaft mbH",
+        "street":"Maier 58",
+        "zip_code":5452,
+        "locality":"Pfarrwerfen",
+        "id":16291
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"MEGATIMER INTERNATIONAL GESELLSCHAFT mbH - H\u00d6HERE WIRKSAMKEIT IM BERUF UND PRIVAT LEBEN DURCH ZIELORIENTIERTE LEBENSF\u00dcHRUNG",
+        "street":"Mitterschartenweg 7",
+        "zip_code":5522,
+        "locality":"St.Martin am Tennengebirge",
+        "id":16292
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Markus Silvester Breitfu\u00df",
+        "street":"Maisalmweg 562",
+        "zip_code":5753,
+        "locality":"Saalbach-Hinterglemm",
+        "id":16293
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"ADA Cosmetics International GmbH - aha",
+        "street":"Unterdorf 5",
+        "zip_code":6473,
+        "locality":"Wenns",
+        "id":16294
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Michael Berkelmans",
+        "street":"Lassigg 60A",
+        "zip_code":6460,
+        "locality":"Imst",
+        "id":16295
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"MHA M\u00fcller HandelsgmbH",
+        "street":"Industriezone 32",
+        "zip_code":6460,
+        "locality":"Imst",
+        "id":16296
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"GEWI Winkler GmbH",
+        "street":"Siemensstra\u00dfe 2",
+        "zip_code":6063,
+        "locality":"Rum",
+        "id":16297
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Gottfried Moser & S\u00f6hne, Buch-, Papier- und Fotohandlung Gesellschaft m.b.H. & Co KG - skribo \/ b\u00fcroprofi Buch, Papier, Schreibwaren",
+        "street":"Oberer Stadtplatz 3",
+        "zip_code":6060,
+        "locality":"Hall in Tirol",
+        "id":16298
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Grassmair Ablagesysteme GmbH",
+        "street":"Stollenstrasse 49",
+        "zip_code":6065,
+        "locality":"Thaur",
+        "id":16299
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"HERA music & media GMBH",
+        "street":"B\u00fchelstra\u00dfe 3\/Top 21",
+        "zip_code":6170,
+        "locality":"Zirl",
+        "id":16300
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Ihr B\u00fcro GmbH",
+        "street":"Gewerbepark Mutters-G\u00e4rberbach 9",
+        "zip_code":6020,
+        "locality":"Mutters",
+        "id":16301
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Ille Papier-Service GmbH",
+        "street":"Au\u00dferweg 2a",
+        "zip_code":6145,
+        "locality":"Navis",
+        "id":16302
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"LPT Ing. Martin Kratzer e.U.",
+        "street":"Weidach 381i",
+        "zip_code":6105,
+        "locality":"Leutasch",
+        "id":16303
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Mag. Brigitte Manca-Wacker",
+        "street":"Milser Stra\u00dfe 27",
+        "zip_code":6060,
+        "locality":"Hall in Tirol",
+        "id":16304
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Josef Schaur",
+        "street":"Solegasse 5, T\u00fcr 3",
+        "zip_code":6065,
+        "locality":"Thaur",
+        "id":16305
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Tiroler Kunstverlag ChizzaliGmbH",
+        "street":"Kaplanstra\u00dfe 10",
+        "zip_code":6063,
+        "locality":"Rum",
+        "id":16306
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Antalis Austria GmbH",
+        "street":"Eduard-Bode,-Gasse 8",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16307
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Leonh. Lang",
+        "street":"Archenweg 56",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16308
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Leonhard Lang GmbH",
+        "street":"Archenweg 56",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16309
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Messerle GmbH",
+        "street":"Kirschentalgasse 3",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16310
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"PAGRO Direkt f\u00fcr Gro\u00dfkunden GmbH",
+        "street":"Eduard-Bodem-Gasse 3",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16311
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Johannes Plattner - Johannes Plattner Fotografie",
+        "street":"Fennerstra\u00dfe 17",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16312
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Stempelwarenfabrik Franz Just & S\u00f6hne GmbH & Co KG",
+        "street":"Leopoldstra\u00dfe 13",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16313
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Verlagsanstalt Tyrolia Gesellschaft m.b.H.",
+        "street":"Exlgasse 20",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16314
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Chakib Zine",
+        "street":"Mitterweg 7",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16315
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Hans Tscholl KG",
+        "street":"Vorderstadt 19",
+        "zip_code":6370,
+        "locality":"Kitzb\u00fchel",
+        "id":16316
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Percy Carl Ingvar Jakobsson",
+        "street":"Postangerweg 8",
+        "zip_code":6361,
+        "locality":"Hopfgarten im Brixental",
+        "id":16317
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Wolfgang Wirl Gesellschaft m.b.H.",
+        "street":"Anichweg 5",
+        "zip_code":6380,
+        "locality":"St. Johann in Tirol",
+        "id":16318
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"GEOtec Schul- und B\u00fcrowaren GmbH",
+        "street":"Jakob Prandtauer-Stra\u00dfe 1",
+        "zip_code":6300,
+        "locality":"W\u00f6rgl",
+        "id":16319
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Siegfried Tusch - DIE FEUERWERKER",
+        "street":"Untere Sparchen 16",
+        "zip_code":6330,
+        "locality":"Kufstein",
+        "id":16320
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"zw-office Weich & Zott OHG",
+        "street":"Peter-Anich-Stra\u00dfe 17",
+        "zip_code":6300,
+        "locality":"W\u00f6rgl",
+        "id":16321
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Gustl Spiel & Papier GmbH",
+        "street":"M\u00fchlgasse 1",
+        "zip_code":9900,
+        "locality":"Lienz",
+        "id":16322
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"Gl\u00fcckszwerge GmbH",
+        "street":"Schulstra\u00dfe 20",
+        "zip_code":6600,
+        "locality":"Reutte",
+        "id":16323
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"SERO Handels GmbH",
+        "street":"Hermine-Berghofer-Stra\u00dfe 50-52",
+        "zip_code":6130,
+        "locality":"Schwaz",
+        "id":16324
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Meier Verpackungen GmbH",
+        "street":"Diepoldsauerstra\u00dfe 37",
+        "zip_code":6845,
+        "locality":"Hohenems",
+        "id":16325
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Paterno B\u00fcrowelt GmbH & Co KG - Paterno B\u00fcrowelt",
+        "street":"Messestra\u00dfe 2",
+        "zip_code":6850,
+        "locality":"Dornbirn",
+        "id":16326
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Dornbirn",
+        "company_name":"Suzano International Trade GmbH",
+        "street":"Millennium Park 6",
+        "zip_code":6890,
+        "locality":"Lustenau",
+        "id":16327
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"JOS Verpackungen GmbH",
+        "street":"Im Plattner 24",
+        "zip_code":6833,
+        "locality":"Klaus",
+        "id":16328
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"M\u00dcROLL GmbH - \u00d6sterreichischer Hersteller von Klebeb\u00e4nder, Papierrollen und Etiketten",
+        "street":"Satteinser Stra\u00dfe 12",
+        "zip_code":6820,
+        "locality":"Frastanz",
+        "id":16329
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Feldkirch",
+        "company_name":"Thalmann-Papier Handels-GmbH",
+        "street":"Sonderberg 12",
+        "zip_code":6840,
+        "locality":"G\u00f6tzis",
+        "id":16330
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"A.W. Faber-Castell Austria GmbH",
+        "street":"Tuchlauben 17\/Top 13",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16331
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Aerztezentrale f\u00fcr Ferngespr\u00e4chs\u00fcbermittlung Dr. Wilfried Rodler e.U.",
+        "street":"Helferstorferstra\u00dfe 2(ident mit Freyung 6)",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16332
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Dr. Henriette Dahm GmbH",
+        "street":"Philharmonikerstra\u00dfe 6",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16333
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Eberhardt Kuvert GmbH",
+        "street":"G\u00f6lsdorfgasse 2\/2\/12",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16334
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"NWL Austria GmbH",
+        "street":"Schottenring 14",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16335
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Dr. Felicia Oblegorska",
+        "street":"Griechengasse 7\/9",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16336
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"PDI Paper Distribution International GmbH",
+        "street":"Rudolfsplatz 1\/15A",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16337
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Schuster & Schuster Gesellschaft m.b.H.",
+        "street":"Stadiongasse 6-8",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16338
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Vimpex Handelsgesellschaft m.b.H.",
+        "street":"K\u00e4rntner Ring 4",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16339
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"Werla Handelsgesellschaft m.b.H.",
+        "street":"Biberstra\u00dfe 15",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16340
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"WestRock GmbH",
+        "street":"Wipplingerstra\u00dfe 2\/3. OG",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16341
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Ballons & Ballons e.U.",
+        "street":"Taborstra\u00dfe 98",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16342
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"CONNECTED SYSTEMS DATENVERARBEITUNG GMBH",
+        "street":"F\u00f6rstergasse 2",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16343
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Coolibree GmbH",
+        "street":"Raimundgasse 1",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16344
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Dkfm. Wolfgang Habenberger e.U.",
+        "street":"Aspernbr\u00fcckengasse 4",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16345
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Dipl.-Ing. Milun Grbovic",
+        "street":"Nordwestbahnstra\u00dfe 29\/9",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16346
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Franz Gr\u00f6ller",
+        "street":"Praterstra\u00dfe 14",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16347
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Ottokar Moravec GmbH & Co KG",
+        "street":"Alliiertenstra\u00dfe 13",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16348
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Rail Cargo Logistics - Austria GmbH",
+        "street":"Freudenauer Hafenstra\u00dfe 24-26",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16349
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"STABILO International GmbH",
+        "street":"Handelskai 130\/5\/6",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16350
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"UHU Austria Ges.m.b.H.",
+        "street":"Trabrennstra\u00dfe 5, Top 2.1",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16351
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Dipl.-Ing. Wolfgang Weilguny",
+        "street":"Stuwerstra\u00dfe 23",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16352
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Heidelberger Druckmaschinen Austria Vertriebs-GmbH",
+        "street":"Karl-Farkas-Gasse 22",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16353
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Heidelberger Druckmaschinen Osteuropa Vertriebs-GmbH",
+        "street":"Karl-Farkas-Gasse 22",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16354
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Hans-Joachim Kammer",
+        "street":"Beatrixgasse 18",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16355
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Mondi AG",
+        "street":"Marxergasse 4A WIEN MITTE TOWER",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16356
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Mondi Neusiedler GmbH",
+        "street":"Marxergasse 4A WIEN MITTE TOWER",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16357
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Mondi Paper Sales GmbH",
+        "street":"Marxergasse 4A WIEN MITTE TOWER",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16358
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Polo Handelsaktiengesellschaft - Marketingorganisation f\u00fcr Papier und Karton",
+        "street":"Hainburger Stra\u00dfe 34\/Stg.1",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16359
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Gabriel Ptacek",
+        "street":"Khunngasse 5\/38",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16360
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"tesa GmbH",
+        "street":"Leopold-B\u00f6hm-Stra\u00dfe 10\/Office 1\/OG 5\/TOP 537-545",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16361
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Wohlfahrtseinrichtung der Tabaktrafikanten \u00d6sterreichs",
+        "street":"Marxergasse 25\/3",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16362
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Avery Zweckform Austria GmbH",
+        "street":"Gu\u00dfhausstra\u00dfe 14",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16363
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"gd fundoffice GmbH",
+        "street":"Margaretenstra\u00dfe 44\/11",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16364
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Wolfgang H\u00fcbner",
+        "street":"Sch\u00f6nburgstra\u00dfe 3\/9",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16365
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"TKM Handelsgesellschaft mbH",
+        "street":"Johann-Strau\u00df-Gasse 7\/5",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16366
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Weitsprung Werbe und Vertriebs GmbH",
+        "street":"Schl\u00fcsselgasse 2\/10",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16367
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Agens-Werk Geyer + Reisser Buch- und Offsetdruck, Buchbinderei, Papierverarbeitung, Papiergro\u00dfhandel, Kassablockerzeugung GesmbH & Co KG",
+        "street":"Arbeitergasse 7",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16368
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Go-Trolley GmbH",
+        "street":"Sch\u00f6nbrunner Stra\u00dfe 31\/11",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16369
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"pack&weg! Spedition und Handels GmbH",
+        "street":"Kettenbr\u00fcckengasse 5",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16370
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Schiebel Handelsgesellschaft m.b.H.",
+        "street":"Margaretenstra\u00dfe 112",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16371
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Trend-Visions-Trading GmbH",
+        "street":"Spengergasse 37\/2",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16372
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 6. Bezirk (Mariahilf)",
+        "company_name":"Ernst Miller KG",
+        "street":"Mariahilfer Stra\u00dfe 93",
+        "zip_code":1060,
+        "locality":"Wien",
+        "id":16373
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 6. Bezirk (Mariahilf)",
+        "company_name":"Nebel GmbH & Co KG - Gro\u00dfhandel f\u00fcr Buchbindereibedarf und die graphische Industrie in \u00d6sterreich.",
+        "street":"Otto-Bauer-Gasse 4-6",
+        "zip_code":1060,
+        "locality":"Wien",
+        "id":16374
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"Fedrigoni Austria GmbH",
+        "street":"Stiftgasse 21\/13",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":16375
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"Verlag Der Apfel e.U. - Verlag Der Apfel",
+        "street":"Schottenfeldgasse 24\/13",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":16376
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"Rojnik Handels GesmbH",
+        "street":"Skodagasse 10",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":16377
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"Sappi Papier Holding GmbH",
+        "street":"Alser Stra\u00dfe 21",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":16378
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"Mag.rer.soc. Jirar Cherkezian - GreenTechSolar",
+        "street":"Pulverturmgasse 8\/5",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":16379
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"Raccolta Molnar & Greiner Gesellschaft m.b.H.",
+        "street":"Thurngasse 10",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":16380
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Alexander Burger - Malerbedarf Burger, Wien",
+        "street":"Muhrengasse 46",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":16381
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Kimberly-Clark GmbH",
+        "street":"Wienerbergstra\u00dfe 11",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":16382
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Rail Cargo Logistics - Austria GmbH",
+        "street":"Am Hauptbahnhof 2",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":16383
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Antalis Austria GmbH",
+        "street":"Modecenterstra\u00dfe 17Obj. 2",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":16384
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"DURABLE Austria Handels-GmbH",
+        "street":"Simmeringer Hauptstra\u00dfe 24",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":16385
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"\"Kombipack\" Handelsgesellschaft m.b.H.",
+        "street":"7.Haidequerstra\u00dfe 4",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":16386
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"multi marking Oswald Heimhilcher GmbH & Co KG - Etiketten, Schilder, Beschriftungen, alle Gestaltungen, Materialien, Techniken",
+        "street":"Ewaldgasse 7",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":16387
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"3M \u00d6sterreich Gesellschaft m.b.H.",
+        "street":"Kranichberggasse 4",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16388
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Akinoma GmbH",
+        "street":"Hasenhutgasse 5-11\/7\/4",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16389
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Central National Gottesman Europe GmbH - Handel mit Papier, Pappe und Zellstoff",
+        "street":"Altmannsdorfer Stra\u00dfe 74",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16390
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"DPS Digital Print Services GmbH",
+        "street":"Wagenseilgasse 5",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16391
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Sigurd Reiner Honsell",
+        "street":"KLG RosenbergPARZ. 56",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":16392
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"AV-Verlag Bankenbedarfsartikel GmbH Nfg. KG",
+        "street":"Sturzgasse 1A",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":16393
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"K\u00f6ck & Partner KG",
+        "street":"Korngoldgasse 26",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":16394
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"Wiener Spielkartenfabrik Ferd. Piatnik & S\u00f6hne GmbH & Co KG",
+        "street":"H\u00fctteldorfer Stra\u00dfe 229-231",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":16395
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Islam Awad",
+        "street":"Beingasse 31",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16396
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Liemberger GmbH",
+        "street":"Clementinengasse 27\/30",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16397
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Michael Robert Potutschnig",
+        "street":"Zw\u00f6lfergasse 8\/3\/2",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16398
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Sch\u00fcller Trading GmbH",
+        "street":"Talgasse 11\/1",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16399
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"\"Staedtler\" Schreib- und Zeichenger\u00e4te Vertriebsgesellschaft m.b.H.",
+        "street":"Stutterheimstra\u00dfe 16-18\/2",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16400
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Altan OG",
+        "street":"Fe\u00dftgasse 14\/2\/R1",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":16401
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"DIKI Entwicklungs- und Handels GmbH",
+        "street":"Oberwiedenstra\u00dfe 63\/GRP. E\/PARZ. 2",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":16402
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Kale Medien KG",
+        "street":"Paltaufgasse 26",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":16403
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Igor Andru\u015fceac",
+        "street":"Geblergasse 83\/T\u00fcr 8",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":16404
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"CARDS & PAPER Handelsgesellschaft m.b.H.",
+        "street":"Bienenweg (Hernals) 9",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":16405
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"ROTE NASEN Service GmbH",
+        "street":"Wattgasse 48",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":16406
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Hugo Botschen e.U.",
+        "street":"Starkfriedgasse 29(HAUS 1)\/2",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":16407
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"paper republic e.U.",
+        "street":"Schopenhauerstra\u00dfe 36\/2a",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":16408
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Reinauer HandelsgesmbH. - REINAUER HandelsgesmbH.",
+        "street":"Wallri\u00dfstra\u00dfe 83",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":16409
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Th. Kollm e.U.",
+        "street":"Theresiengasse 39\/2",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":16410
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Gesell & Co. Gesellschaft m.b.H.",
+        "street":"Kaasgrabengasse 37",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16411
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"KORES GmbH",
+        "street":"Muthgasse 36",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16412
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"M. St\u00f6ger Gesellschaft m.b.H.",
+        "street":"Weinberggasse 14",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16413
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Peter Niedereder",
+        "street":"Rudolfinergasse 20",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16414
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"allesgrafik GmbH",
+        "street":"Karl-Mei\u00dfl-Stra\u00dfe 12\/4",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":16415
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"PUSH THE ARTISTS j.w. e.U.",
+        "street":"Streffleurgasse 2, T\u00fcr 25",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":16416
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Europapier Austria GmbH",
+        "street":"Autokaderstra\u00dfe 86",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16417
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Europapier CE GmbH",
+        "street":"Autokaderstra\u00dfe 86-96",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16418
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Fr\u00f6hlich Papier GmbH",
+        "street":"Schwaigergasse 19\/2, T\u00fcr 30",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16419
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Japico-Feinpapier-Vertriebs GmbH",
+        "street":"Czeija-Nissl-Gasse 7",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16420
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Mayr-Melnhof Packaging Austria GmbH",
+        "street":"Scheydgasse 46",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16421
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Pacovis \u00d6sterreich GmbH & Co KG",
+        "street":"Czeija-Nissl-Gasse 11",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16422
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Kurt Schachinger",
+        "street":"Arnoldgasse 2\/8\/49",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16423
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Stempelwarenfabrik Franz Just & S\u00f6hne GmbH & Co KG",
+        "street":"Koloniestra\u00dfe 33",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16424
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Brevillier-Urban & Sachs GmbH & Co KG",
+        "street":"Lichtblaustra\u00dfe 6",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16425
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Europapier CE GmbH",
+        "street":"Wagramer Stra\u00dfe 24-26",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16426
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"MDH-Media GmbH",
+        "street":"Sch\u00fcttauplatz 22",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16427
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Otto Wirl GmbH",
+        "street":"Percostra\u00dfe 10",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16428
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"R. Sporr GmbH",
+        "street":"Voitgasse 2A",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16429
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Mina Samsami",
+        "street":"J\u00fcptnergasse 18\/7\/7",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16430
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"3M \u00d6sterreich Gesellschaft m.b.H.",
+        "street":"Lemb\u00f6ckgasse 49 Haus 1\/A (A))",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16431
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"A. HAGEN OHG - Modellbau-Modellbahn Hagen Papier-B\u00fccher-Spielwaren HAGEN Geschenkartikel-HAGEN B\u00fcroprofi-HAGEN",
+        "street":"Breitenfurter Stra\u00dfe 379",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16432
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Franz Zimmermann, Import- und Export-Gesellschaft m.b.H.",
+        "street":"Deutschstra\u00dfe 8",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16433
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Gobatin Handelsgesellschaft m.b.H.",
+        "street":"Kaffeeweg 8",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16434
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"\"OMEGA\" Spezialfabrik f\u00fcr Durchschreibeb\u00fccher, Kassen- und Kontrollblocks, Gesellschaft m.b.H.",
+        "street":"Altmannsdorfer Stra\u00dfe 154-156",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16435
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"pack&weg! Spedition und Handels GmbH",
+        "street":"Perfektastra\u00dfe 86",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16436
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"R. G\u00e4rdtner & Comp. Gesellschaft m.b.H. - Spezialist f\u00fcr Stempel & Schilder",
+        "street":"Fr\u00f6hlichgasse 15",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16437
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"TELCOP Papierrollenproduktion Ch. Ostermeier GmbH",
+        "street":"Deutschstra\u00dfe 3",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16438
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Weihs GmbH & Co KG",
+        "street":"Eduard-Kittenberger-Gasse 97\/1",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16439
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Ze.Wa.medicalsystems GmbH Nfg. KG",
+        "street":"Franz-Heider-Gasse 7",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":16440
+    }
+]

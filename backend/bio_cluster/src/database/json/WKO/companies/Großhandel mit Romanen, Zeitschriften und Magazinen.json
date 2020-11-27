@@ -1,0 +1,72 @@
+[
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"BBO e.U.",
+        "street":"Industriestra\u00dfe 15-17",
+        "zip_code":7000,
+        "locality":"Eisenstadt",
+        "id":16441
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Mag. Rainald Hiller",
+        "street":"Untere Hauptstra\u00dfe 28\/2",
+        "zip_code":7100,
+        "locality":"Neusiedl am See",
+        "id":16442
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"Tanvir Mahmood",
+        "street":"Am Kurpark 2d",
+        "zip_code":7431,
+        "locality":"Bad Tatzmannsdorf",
+        "id":16443
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"K\u00e4rntner Monat Zeitungs-GmbH",
+        "street":"Eiskellerstra\u00dfe 3\/2",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16444
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Ferdinand Berger & S\u00f6hne Gesellschaft m.b.H.",
+        "street":"Lacknerwinkel 32",
+        "zip_code":5325,
+        "locality":"Plainfeld",
+        "id":16445
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"MHA M\u00fcller HandelsgmbH",
+        "street":"Industriezone 32",
+        "zip_code":6460,
+        "locality":"Imst",
+        "id":16446
+    },
+    {
+        "branche_layer_3":"Gro\u00dfhandel mit Romanen, Zeitschriften und Magazinen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Nicola Mina Verity Bauer",
+        "street":"Baumannstra\u00dfe 3\/19",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16447
+    }
+]

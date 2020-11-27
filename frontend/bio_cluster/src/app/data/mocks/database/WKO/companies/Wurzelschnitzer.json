@@ -1,0 +1,172 @@
+[
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Harald Hofer",
+        "street":"Hauptstra\u00dfe 96",
+        "zip_code":9873,
+        "locality":"D\u00f6briach",
+        "id":45272
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Richard Erhart",
+        "street":"Wenns 406, Schweizer Hof",
+        "zip_code":6473,
+        "locality":"Wenns",
+        "id":45273
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Norbert Danler",
+        "street":"Ellb\u00f6gen 42",
+        "zip_code":6083,
+        "locality":"Ellb\u00f6gen",
+        "id":45274
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Karl Josef R\u00f6ck",
+        "street":"Innsbrucker Stra\u00dfe 20",
+        "zip_code":6100,
+        "locality":"Seefeld in Tirol",
+        "id":45275
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Robertus Falkner",
+        "street":"Hornweg 19-21",
+        "zip_code":6370,
+        "locality":"Kitzb\u00fchel",
+        "id":45276
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Thomas Viertl",
+        "street":"Velbenstra\u00dfe 18b",
+        "zip_code":6380,
+        "locality":"St. Johann in Tirol",
+        "id":45277
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"AKRON Kronthaler OG",
+        "street":"M\u00fchlgraben 72",
+        "zip_code":6343,
+        "locality":"Erl",
+        "id":45278
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Thomas Einwaller",
+        "street":"Kaiserbergstra\u00dfe 40",
+        "zip_code":6341,
+        "locality":"Ebbs",
+        "id":45279
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Erich Gschwentner",
+        "street":"Ramsau 95",
+        "zip_code":6252,
+        "locality":"Breitenbach am Inn",
+        "id":45280
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Andreas H\u00f6rfarter",
+        "street":"Naunspitzweg 20",
+        "zip_code":6342,
+        "locality":"Niederndorf",
+        "id":45281
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Andreas Wibmer",
+        "street":"Schopperstra\u00dfe 16\/4",
+        "zip_code":6336,
+        "locality":"Langkampfen",
+        "id":45282
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Landeck",
+        "company_name":"Erwin Rettenbacher",
+        "street":"Ried i.O. 74",
+        "zip_code":6531,
+        "locality":"Ried im Oberinntal",
+        "id":45283
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Erwin Leitner",
+        "street":"Unterrotte 57",
+        "zip_code":9963,
+        "locality":"St. Jakob in Defereggen",
+        "id":45284
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Ingrid Burgstaller",
+        "street":"Gewerbestra\u00dfe 3",
+        "zip_code":6274,
+        "locality":"Aschau im Zillertal",
+        "id":45285
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Alois Kellner",
+        "street":"Gerlos 40 (fr\u00fcher 86)",
+        "zip_code":6281,
+        "locality":"Gerlos",
+        "id":45286
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Gisela St\u00f6ckl",
+        "street":"Gerlos 107",
+        "zip_code":6281,
+        "locality":"Gerlos",
+        "id":45287
+    },
+    {
+        "branche_layer_3":"Wurzelschnitzer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Michael Franz Thanner",
+        "street":"Hauptstra\u00dfe 455",
+        "zip_code":6290,
+        "locality":"Mayrhofen",
+        "id":45288
+    }
+]

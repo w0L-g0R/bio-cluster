@@ -1,0 +1,62 @@
+[
+    {
+        "branche_layer_3":"Energieholzindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Hermagor",
+        "company_name":"NORICA - PELLETS GmbH",
+        "street":"Egger Stra\u00dfe 15 (Pelletswerk)",
+        "zip_code":9620,
+        "locality":"Hermagor",
+        "id":2929
+    },
+    {
+        "branche_layer_3":"Energieholzindustrie",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"RZ Pellets Wiesenau GmbH",
+        "street":"Wiesenau 4",
+        "zip_code":9462,
+        "locality":"Bad St. Leonhard im Lavanttal",
+        "id":2930
+    },
+    {
+        "branche_layer_3":"Energieholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Pelletswerk Waldviertel GmbH",
+        "street":"Rastenfeld 168",
+        "zip_code":3532,
+        "locality":"Rastenfeld",
+        "id":2931
+    },
+    {
+        "branche_layer_3":"Energieholzindustrie",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"KIRNBAUER HOLZ LiegenschaftsGmbH",
+        "street":"Hauptstra\u00dfe 2",
+        "zip_code":2630,
+        "locality":"Ternitz",
+        "id":2932
+    },
+    {
+        "branche_layer_3":"Energieholzindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Sturmberger Energieversorgung aus Holz e.U.",
+        "street":"Diepersdorf 68",
+        "zip_code":4552,
+        "locality":"Wartberg\/Krems",
+        "id":2933
+    },
+    {
+        "branche_layer_3":"Energieholzindustrie",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Sturmberger GmbH",
+        "street":"Diepersdorf 68",
+        "zip_code":4552,
+        "locality":"Wartberg an der Krems",
+        "id":2934
+    }
+]

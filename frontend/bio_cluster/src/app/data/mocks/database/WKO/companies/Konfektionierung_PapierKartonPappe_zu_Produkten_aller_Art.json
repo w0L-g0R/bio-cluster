@@ -1,0 +1,42 @@
+[
+    {
+        "branche_layer_3":"Konfektionierung Papier,Karton,Pappe zu Produkten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Horn Kartonagen GmbH",
+        "street":"Untere Donaustra\u00dfe 29",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":31786
+    },
+    {
+        "branche_layer_3":"Konfektionierung Papier,Karton,Pappe zu Produkten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"INS Digital Etiketten Erzeugung und Vertrieb GmbH",
+        "street":"S\u00fcdrandstra\u00dfe 7",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31787
+    },
+    {
+        "branche_layer_3":"Konfektionierung Papier,Karton,Pappe zu Produkten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"INSIGNIS Etiketten Erzeugung und Vertrieb GmbH - INSIGNIS Etiketten",
+        "street":"Gro\u00dfmarktstra\u00dfe 5B",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31788
+    },
+    {
+        "branche_layer_3":"Konfektionierung Papier,Karton,Pappe zu Produkten aller Art",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"ULIKETT GmbH - Rollen- und Etikettendruck",
+        "street":"Wiegelestra\u00dfe 26",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":31789
+    }
+]

@@ -1,0 +1,1092 @@
+[
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Netz Burgenland GmbH",
+        "street":"Kasernenstra\u00dfe 9",
+        "zip_code":7000,
+        "locality":"Eisenstadt",
+        "id":16079
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Jennersdorf",
+        "company_name":"Energie 42 Beteiligungs GmbH",
+        "street":"Industriegel\u00e4nde 7",
+        "zip_code":7561,
+        "locality":"Heiligenkreuz im Lafnitztal",
+        "id":16080
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"KNG-K\u00e4rnten Netz GmbH",
+        "street":"Arnulfplatz 2",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16081
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"GAS CONNECT AUSTRIA GmbH",
+        "street":"Auersthal",
+        "zip_code":2214,
+        "locality":"Auersthal",
+        "id":16082
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"GAS CONNECT AUSTRIA GmbH",
+        "street":"Baumgarten an der March",
+        "zip_code":2295,
+        "locality":"Weiden an der March",
+        "id":16083
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"RAG Austria AG",
+        "street":"Spitalgasse 3",
+        "zip_code":2225,
+        "locality":"Zistersdorf",
+        "id":16084
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"EVN AG",
+        "street":"EVN-Platz",
+        "zip_code":2344,
+        "locality":"Maria Enzersdorf",
+        "id":16085
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"EVN Energievertrieb GmbH & Co KG",
+        "street":"EVN-Platz",
+        "zip_code":2344,
+        "locality":"Maria Enzersdorf",
+        "id":16086
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Greenhouse Power GmbH",
+        "street":"A.-Feierfeil-Stra\u00dfe 3",
+        "zip_code":2380,
+        "locality":"Perchtoldsdorf",
+        "id":16087
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Netz Nieder\u00f6sterreich GmbH",
+        "street":"EVN-Platz",
+        "zip_code":2344,
+        "locality":"Maria Enzersdorf",
+        "id":16088
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"GAS CONNECT AUSTRIA GmbH",
+        "street":"Eggendorf",
+        "zip_code":2492,
+        "locality":"Eggendorf",
+        "id":16089
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"RAG Austria AG",
+        "street":"Bezirk Br-Sch-V\u00f6-Wl-Gm",
+        "zip_code":5280,
+        "locality":"Braunau am Inn",
+        "id":16090
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Laakirchen Papier AG - Laakirchen Papier AG",
+        "street":"Schillerstra\u00dfe 5",
+        "zip_code":4663,
+        "locality":"Laakirchen",
+        "id":16091
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Energie AG Ober\u00f6sterreich Trading GmbH",
+        "street":"B\u00f6hmerwaldstra\u00dfe 3",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16092
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Energie AG Ober\u00f6sterreich Vertrieb GmbH",
+        "street":"Neubauzeile 99",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":16093
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Linz Gas Vertrieb GmbH & Co KG",
+        "street":"Wiener Stra\u00dfe 151",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16094
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"LINZ NETZ GmbH",
+        "street":"Fichtenstra\u00dfe 7",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":16095
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Netz Ober\u00f6sterreich GmbH",
+        "street":"Neubauzeile 99",
+        "zip_code":4030,
+        "locality":"Linz",
+        "id":16096
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Energie Ried Gesellschaft m.b.H.",
+        "street":"Kellergasse 10",
+        "zip_code":4910,
+        "locality":"Ried im Innkreis",
+        "id":16097
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"RAG Austria AG",
+        "street":"Ried\/Innkr.",
+        "zip_code":4910,
+        "locality":"Ried\/Innkr.",
+        "id":16098
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr (Stadt)",
+        "company_name":"Stadtbetriebe Steyr GmbH",
+        "street":"Ennser Stra\u00dfe 10",
+        "zip_code":4400,
+        "locality":"Steyr",
+        "id":16099
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"eww ag",
+        "street":"Stelzhamerstr. 27",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16100
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"eww ag",
+        "street":"Wiesenstra\u00dfe 43",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16101
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"eww ag",
+        "street":"Wels-Thalheim, Streckenleitung",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":16102
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Nahw\u00e4rme Abtenau GmbH",
+        "street":"Markt 79",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":16103
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"G11 Unternehmensverbund AG",
+        "street":"Giselakai 45",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16104
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Bayerhamerstra\u00dfe 16",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16105
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Hagenau 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16106
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Wasserfeldstra\u00dfe 31",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16107
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Salzburg Netz GmbH",
+        "street":"Bayerhamerstra\u00dfe 16",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16108
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Wildenhofer Energie und Service GmbH",
+        "street":"Gnigler Stra\u00dfe 5",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":16109
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Fuschler Nahw\u00e4rme GmbH",
+        "street":"Filblingstra\u00dfe 11",
+        "zip_code":5330,
+        "locality":"Fuschl am See",
+        "id":16110
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Hackschnitzel- und Heizgenossenschaft Stra\u00dfwalchen registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Westbahnstra\u00dfe 6",
+        "zip_code":5204,
+        "locality":"Stra\u00dfwalchen",
+        "id":16111
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Nahw\u00e4rme Eugendorf GmbH",
+        "street":"Stettnerstra\u00dfe 2",
+        "zip_code":5301,
+        "locality":"Eugendorf",
+        "id":16112
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Nahw\u00e4rme Thalgau GmbH",
+        "street":"Enzersberger Stra\u00dfe 56",
+        "zip_code":5303,
+        "locality":"Thalgau",
+        "id":16113
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"s.nahwaerme.at Energiecontracting GmbH",
+        "street":"Brunnbachweg 70",
+        "zip_code":5303,
+        "locality":"Thalgau",
+        "id":16114
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Wals 125",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":16115
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Salzburg AG f\u00fcr Energie, Verkehr und Telekommunikation",
+        "street":"Bahnhofstra\u00dfe 13a",
+        "zip_code":5202,
+        "locality":"Neumarkt am Wallersee",
+        "id":16116
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Bio W\u00e4rme Eben GmbH",
+        "street":"Niedernfritzerstra\u00dfe 42",
+        "zip_code":5531,
+        "locality":"Eben im Pongau",
+        "id":16117
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Bioenergie Pongau GmbH",
+        "street":"Heizhausgasse 9",
+        "zip_code":5500,
+        "locality":"Bischofshofen",
+        "id":16118
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Hackschnitzel und Heizgenossenschaft Gro\u00dfarl registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Gewerbepark 8",
+        "zip_code":5611,
+        "locality":"Gro\u00dfarl",
+        "id":16119
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Holzw\u00e4rme Altenmarkt GmbH",
+        "street":"KG: Altenmarkt GSt. Nr. 542\/2, 541\/",
+        "zip_code":5541,
+        "locality":"Altenmarkt im Pongau",
+        "id":16120
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Fernw\u00e4rmeversorgungs-GmbH",
+        "street":"W\u00f6lting 74",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":16121
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Hackschnitzel- und Heizgenossenschaft Mauterndorf registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Nr. 385",
+        "zip_code":5570,
+        "locality":"Mauterndorf",
+        "id":16122
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Biomasse Fernw\u00e4rme Unken registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Unken 142",
+        "zip_code":5091,
+        "locality":"Unken",
+        "id":16123
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Biomassewerk Asitz GmbH",
+        "street":"Rain 125",
+        "zip_code":5771,
+        "locality":"Leogang",
+        "id":16124
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"BIO-W\u00c4RME LOFER registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Lofer 253",
+        "zip_code":5090,
+        "locality":"Lofer",
+        "id":16125
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Hackschnitzel- und Heizgenossenschaft Lofer-St.Martin Reg.Genossenschaft m.b.H.",
+        "street":"Gp. 108\/4",
+        "zip_code":5090,
+        "locality":"Lofer",
+        "id":16126
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Hackschnitzel- und Heizgenossenschaft Maria Alm eGen",
+        "street":"Schattberg 63",
+        "zip_code":5761,
+        "locality":"Maria Alm a.Steinernen Meer",
+        "id":16127
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Hackschnitzel- und Heizgenossenschaft Rauris registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Oberer Markt 13",
+        "zip_code":5661,
+        "locality":"Rauris",
+        "id":16128
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Nahw\u00e4rme Neukirchen GmbH",
+        "street":"Kreuzschiedstra\u00dfe 217",
+        "zip_code":5741,
+        "locality":"Neukirchen am Gro\u00dfvenediger",
+        "id":16129
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"VERBUND Hydro Power GmbH",
+        "street":"Kesselfallstra\u00dfe 1",
+        "zip_code":5710,
+        "locality":"Kaprun",
+        "id":16130
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"W\u00e4rmeversorgung Piesendorf registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
+        "street":"Bahnhofsiedlung 543",
+        "zip_code":5721,
+        "locality":"Piesendorf",
+        "id":16131
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Marktgemeinde Veitsch",
+        "street":"Obere Hauptstra\u00dfe 18",
+        "zip_code":8663,
+        "locality":"Veitsch",
+        "id":16132
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Stadtwerke Kapfenberg GmbH - Stadtwerke Kapfenberg",
+        "street":"Stadtwerkestra\u00dfe 6",
+        "zip_code":8605,
+        "locality":"Kapfenberg",
+        "id":16133
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Stadtwerke M\u00fcrzzuschlag Gesellschaft m.b.H.",
+        "street":"Mariazeller Stra\u00dfe 45c",
+        "zip_code":8680,
+        "locality":"M\u00fcrzzuschlag",
+        "id":16134
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Graz GmbH & Co KG",
+        "street":"Sch\u00f6naug\u00fcrtel 65",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16135
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark AG - Energie Steiermark AG",
+        "street":"Leonhardstra\u00dfe 59",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16136
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energie Steiermark Business GmbH",
+        "street":"Leonhardg\u00fcrtel 10",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16137
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Energienetze Steiermark GmbH",
+        "street":"Leonhardg\u00fcrtel 10",
+        "zip_code":8010,
+        "locality":"Graz",
+        "id":16138
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"VERBUND Thermal Power GmbH & Co KG - VERBUND",
+        "street":"Kraftwerkstra\u00dfe 1 u. 3",
+        "zip_code":8410,
+        "locality":"Dillach",
+        "id":16139
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"VERBUND Thermal Power GmbH & Co KG - VERBUND",
+        "street":"Katastralgemeinde: 66413 Grundst\u00fccksnummer: 27\/11",
+        "zip_code":8410,
+        "locality":"Kainach bei Wildon",
+        "id":16140
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"Stadtgemeinde Leoben",
+        "street":"Kerpelystra\u00dfe 21",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":16141
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"voestalpine Stahl Donawitz GmbH",
+        "street":"Kerpelystra\u00dfe 199",
+        "zip_code":8700,
+        "locality":"Leoben",
+        "id":16142
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Weiz",
+        "company_name":"VNG Austria GmbH",
+        "street":"Pirching 95",
+        "zip_code":8200,
+        "locality":"Hofst\u00e4tten an der Raab",
+        "id":16143
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"Gutmann Gesellschaft m.b.H.",
+        "street":"F\u00fcrstenweg 87",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16144
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Stadt",
+        "company_name":"TIGAS-Erdgas Tirol GmbH",
+        "street":"Salurner Stra\u00dfe 15",
+        "zip_code":6020,
+        "locality":"Innsbruck",
+        "id":16145
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"Elektrizit\u00e4tswerke Reutte AG",
+        "street":"Gro\u00dffeldstra\u00dfe 10-14",
+        "zip_code":6600,
+        "locality":"Reutte",
+        "id":16146
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Reutte",
+        "company_name":"Elektrizit\u00e4tswerke Reutte AG",
+        "street":"Untermarkt 33",
+        "zip_code":6600,
+        "locality":"Reutte",
+        "id":16147
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"illwerke vkw AG",
+        "street":"Weidachstra\u00dfe 6",
+        "zip_code":6900,
+        "locality":"Bregenz",
+        "id":16148
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Stadtwerke Bregenz G.m.b.H.",
+        "street":"Reutegasse 33",
+        "zip_code":6900,
+        "locality":"Bregenz",
+        "id":16149
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Vorarlberger Energienetze GmbH",
+        "street":"Weidachstra\u00dfe 6",
+        "zip_code":6900,
+        "locality":"Bregenz",
+        "id":16150
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"CE Gas Marketing & Trading GmbH",
+        "street":"Fleischmarkt 1",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16151
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"GASLAND Trading GmbH",
+        "street":"Pestalozzigasse 3",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16152
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"GEN-I Vienna GmbH",
+        "street":"Gonzagagasse 15",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16153
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"LA Kraftanlage GmbH",
+        "street":"Getreidemarkt 14\/32",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16154
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"\u00d6sterr. Verband f\u00fcr Fl\u00fcssiggas (\u00d6VFG)",
+        "street":"Schubertring 14",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16155
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"RAG Austria AG",
+        "street":"Schwarzenbergplatz 16",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16156
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"RAG Energy Storage GmbH",
+        "street":"Canovagasse 1-5",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16157
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"STURM ENERGIE GmbH",
+        "street":"Universit\u00e4tsring 10",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16158
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"UNIFIT Vertriebsges.m.b.H.",
+        "street":"Lugeck 1\/1\/4\/13",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16159
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"VERBUND AG",
+        "street":"Am Hof 6A",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16160
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"WINGAS GmbH",
+        "street":"L\u00f6welstra\u00dfe 20\/6",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16161
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"WINGAS Holding GmbH",
+        "street":"L\u00f6welstra\u00dfe 20\/6",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":16162
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Leu Energie Austria GmbH",
+        "street":"Lassallestra\u00dfe 7B (Betrieb)",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16163
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"OMV Gas Marketing & Trading GmbH",
+        "street":"Trabrennstra\u00dfe 6-8",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16164
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"OMV Gas Storage GmbH",
+        "street":"Trabrennstra\u00dfe 6-8",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":16165
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"First Energy AG",
+        "street":"Dietrichgasse 27\/3. OG",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16166
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"WIENER STADTWERKE GmbH",
+        "street":"Thomas-Klestil-Platz 13",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":16167
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"A.P.M.P. Handelsgesellschaft m.b.H.",
+        "street":"Prinz-Eugen-Stra\u00dfe 14\/12",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16168
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Centrex Europe Energy & Gas AG",
+        "street":"Wiedner Hauptstra\u00dfe 17\/7",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":16169
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"Vitalis Handels GmbH in Liqu.",
+        "street":"Sch\u00f6nbrunner Stra\u00dfe 131\/1",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":16170
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 6. Bezirk (Mariahilf)",
+        "company_name":"Trans Austria Gasleitung GmbH",
+        "street":"Mollardgasse 33",
+        "zip_code":1060,
+        "locality":"Wien",
+        "id":16171
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"CET Central Energy Trade GmbH",
+        "street":"Piaristengasse 41\/10",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":16172
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"AGCS Gas Clearing and Settlement AG",
+        "street":"Alserbachstra\u00dfe 14-16",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":16173
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"WIEN ENERGIE Vertrieb GmbH & Co KG",
+        "street":"Mariannengasse 4-6",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":16174
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"ENERGIEALLIANZ Austria GmbH",
+        "street":"Wienerbergstra\u00dfe 11",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":16175
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"SWITCH Energievertriebsgesellschaft m.b.H.",
+        "street":"Wienerbergstra\u00dfe 11",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":16176
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"WIENER NETZE GmbH",
+        "street":"Erdbergstra\u00dfe 236",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":16177
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"MFGK Austria GmbH",
+        "street":"Am Europlatz 2Geb\u00e4ude G Stiege 5. 1. Stock",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":16178
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"MyElectric Energievertriebs- und -dienstleistungs GmbH",
+        "street":"Storchengasse 1(BUEROHAUS)",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":16179
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"MONTANA Energie-Handel AT GmbH",
+        "street":"Heiligenst\u00e4dter Stra\u00dfe 201-203, Top 20",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":16180
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"ENGIE Energie GmbH",
+        "street":"Dresdner Stra\u00dfe 43",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":16181
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"AGGM Austrian Gas Grid Management AG",
+        "street":"Floridsdorfer Hauptstra\u00dfe 1",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16182
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Alpes Handels GmbH",
+        "street":"Gm\u00fcndstra\u00dfe 20",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16183
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Central European Gas Hub AG",
+        "street":"Floridsdorfer Hauptstra\u00dfe 1(FLORIDO TOWER)",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16184
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"GAS CONNECT AUSTRIA GmbH",
+        "street":"Gerasdorfer Stra\u00dfe 151",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":16185
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"GTE-Geb\u00e4ude-Technik-Energie-Betriebs- und Verwaltungsgesellschaft m.b.H. & Co. KG - GTE - Geb\u00e4ude, Technik, Energie",
+        "street":"Donau-City-Stra\u00dfe 1",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16186
+    },
+    {
+        "branche_layer_3":"Gasversorgungsunternehmen",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Shell Austria Gesellschaft m.b.H.",
+        "street":"Lobgrundstra\u00dfe 3",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":16187
+    }
+]

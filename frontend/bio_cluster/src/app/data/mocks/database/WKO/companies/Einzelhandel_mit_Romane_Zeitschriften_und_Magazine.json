@@ -1,0 +1,2182 @@
+[
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Ruster Stra\u00dfe 148",
+        "zip_code":7000,
+        "locality":"Eisenstadt",
+        "id":2711
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"G\u00fcssing",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Wiener Stra\u00dfe 35Top E 21",
+        "zip_code":7540,
+        "locality":"G\u00fcssing",
+        "id":2712
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Jennersdorf",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Technologiepark 9",
+        "zip_code":8380,
+        "locality":"Jennersdorf",
+        "id":2713
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Walbersdorf Arenaplatz 6\/1",
+        "zip_code":7210,
+        "locality":"Walbersdorf",
+        "id":2714
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Eisenst\u00e4dter Stra\u00dfe 29Shop 13",
+        "zip_code":2421,
+        "locality":"Kittsee",
+        "id":2715
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Altenburger Strasse 20",
+        "zip_code":7100,
+        "locality":"Neusiedl am See",
+        "id":2716
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Richard Erlinger Platz 2, Top P 04",
+        "zip_code":7111,
+        "locality":"Parndorf",
+        "id":2717
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"M\u00f6nchhofer Stra\u00dfe",
+        "zip_code":7132,
+        "locality":"Frauenkirchen",
+        "id":2718
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberpullendorf",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Gymnasiumstra\u00dfe 25",
+        "zip_code":7350,
+        "locality":"Oberpullendorf",
+        "id":2719
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Steinamangerer Stra\u00dfe 177-183 (Shoppingarena)",
+        "zip_code":7400,
+        "locality":"Oberwart",
+        "id":2720
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Peter Bachler",
+        "street":"Markt 127",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":2721
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Christian Kirschnek",
+        "street":"Robertplatz 2",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":2722
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Christian Kirschnek",
+        "street":"Kr\u00f6gerbauernstra\u00dfe 23",
+        "zip_code":5411,
+        "locality":"Oberalm",
+        "id":2723
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Sonja Elisabeth Lerch",
+        "street":"Halleiner Landesstra\u00dfe 42",
+        "zip_code":5411,
+        "locality":"Oberalm",
+        "id":2724
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Pramerplatz 2",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":2725
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hauptstra\u00dfe 20",
+        "zip_code":5440,
+        "locality":"Golling an der Salzach",
+        "id":2726
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Markt 150",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":2727
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Bahnhofstra\u00dfe 5",
+        "zip_code":5400,
+        "locality":"Hallein",
+        "id":2728
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Tabaktrafik Hermine Golser e.U.",
+        "street":"Halleiner Landesstra\u00dfe 899",
+        "zip_code":5411,
+        "locality":"Oberalm",
+        "id":2729
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Sieglinde Unterkofler",
+        "street":"Nr. 82",
+        "zip_code":5440,
+        "locality":"Golling an der Salzach",
+        "id":2730
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"AWP Projektentwicklungs GmbH",
+        "street":"Alpenstra\u00dfe 93",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2731
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"FRZ. Hackenbuchner Beteiligungsgesellschaft m.b.H. & Co. KG",
+        "street":"Getreidegasse 12",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2732
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Helga Mitter e.U.",
+        "street":"Franz-Martin-Stra\u00dfe 25",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2733
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Ivo Haas Gesellschaft m.b.H.",
+        "street":"Griesgasse 10",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2734
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Monika Gerhaber Tabak Trafik e.U.",
+        "street":"Ignaz-Harrer-Stra\u00dfe 35",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2735
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Oliver Mudri",
+        "street":"Eugen-M\u00fcller-Stra\u00dfe 39",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2736
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Axel Nemec",
+        "street":"Moosstra\u00dfe 10",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2737
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Alpenstra\u00dfe 99",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2738
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Eberhard-Fugger-Stra\u00dfe 5-7",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2739
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Europastra\u00dfe 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2740
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Maxglaner Hauptstra\u00dfe 70",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2741
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Residenzplatz 9",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2742
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Schrannengasse 10c",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2743
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Strubergasse 18",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2744
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"S\u00fcdtiroler Platz 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2745
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Versorgungshausstra\u00dfe 14",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2746
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Aigner Stra\u00dfe 78",
+        "zip_code":5026,
+        "locality":"Salzburg-Aigen",
+        "id":2747
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Wolfgang Pichler",
+        "street":"F\u00fcrbergstra\u00dfe 2",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2748
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Alpenstra\u00dfe 107",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2749
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Alpenstra\u00dfe 95-97",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2750
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Dreifaltigkeitsgasse 18\/1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2751
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"F\u00fcrbergstra\u00dfe 18 - 20",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2752
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Schumacherstra\u00dfe 14",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2753
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Sterneckstra\u00dfe 33",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2754
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Manuela Reindl",
+        "street":"Werkst\u00e4ttenstra\u00dfe 17",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2755
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Sallmann GmbH - Sallmann GmbH",
+        "street":"Alois-Stockinger-Stra\u00dfe 16",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":2756
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Europapier Austria GmbH",
+        "street":"Gewerbegebiet Nord 13",
+        "zip_code":5204,
+        "locality":"Stra\u00dfwalchen",
+        "id":2757
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Rolf Finke",
+        "street":"Nr. 148",
+        "zip_code":5322,
+        "locality":"Hof bei Salzburg",
+        "id":2758
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Flachgauer Papier und Buchhandlung GmbH",
+        "street":"Watzmannstra\u00dfe 31",
+        "zip_code":5110,
+        "locality":"Oberndorf bei Salzburg",
+        "id":2759
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Hermann F\u00fcrst-Fournier",
+        "street":"Kienbergweg 2b",
+        "zip_code":5303,
+        "locality":"Thalgau",
+        "id":2760
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Ingeborg Kastler",
+        "street":"Wiener Bundesstra\u00dfe 55",
+        "zip_code":5300,
+        "locality":"Hallwang",
+        "id":2761
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Franz Rudolf Kogler",
+        "street":"Hauptstra\u00dfe 42",
+        "zip_code":5201,
+        "locality":"Seekirchen am Wallersee",
+        "id":2762
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Lang Werbeartikel GmbH & Co KG - Erwin Lang",
+        "street":"Xantenweg 4",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":2763
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Dr. Hans Lechnerstra\u00dfe 17",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":2764
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Walserfeldstra\u00dfe 45",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":2765
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Dr.Richard Hartmannstra\u00dfe 10",
+        "zip_code":5082,
+        "locality":"Gr\u00f6dig",
+        "id":2766
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Handelszentrum 2",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":2767
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Kolpingstra\u00dfe 1",
+        "zip_code":5110,
+        "locality":"Oberndorf bei Salzburg",
+        "id":2768
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hauptstra\u00dfe 4",
+        "zip_code":5112,
+        "locality":"Lamprechtshausen",
+        "id":2769
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Bahnhofstra\u00dfe 5",
+        "zip_code":5201,
+        "locality":"Seekirchen am Wallersee",
+        "id":2770
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Marktplatz 13",
+        "zip_code":5204,
+        "locality":"Stra\u00dfwalchen",
+        "id":2771
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wiener Bundesstra\u00dfe 23",
+        "zip_code":5300,
+        "locality":"Hallwang",
+        "id":2772
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wolfgangseestra\u00dfe 28",
+        "zip_code":5322,
+        "locality":"Hof bei Salzburg",
+        "id":2773
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Perwein GesmbH & Co. KG",
+        "street":"Salzburgerstra\u00dfe 5",
+        "zip_code":5204,
+        "locality":"Stra\u00dfwalchen",
+        "id":2774
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Josef-Lindner-Stra\u00dfe 2 c",
+        "zip_code":5071,
+        "locality":"Wals-Siezenheim",
+        "id":2775
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Salzburger Stra\u00dfe 56",
+        "zip_code":5110,
+        "locality":"Oberndorf bei Salzburg",
+        "id":2776
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Gewerbepark Obertrum Halle 7",
+        "zip_code":5162,
+        "locality":"Obertrum am See",
+        "id":2777
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Salzburger Stra\u00dfe 52c",
+        "zip_code":5204,
+        "locality":"Stra\u00dfwalchen",
+        "id":2778
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"M\u00f6belstra\u00dfe 19",
+        "zip_code":5301,
+        "locality":"Eugendorf",
+        "id":2779
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"R\u00f6merstra\u00dfe 3A",
+        "zip_code":5301,
+        "locality":"Eugendorf",
+        "id":2780
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Reischl & Sohn Gesellschaft m.b.H. - Speisekarten seit 1891",
+        "street":"Dichtled 1a",
+        "zip_code":5112,
+        "locality":"Lamprechtshausen",
+        "id":2781
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Marion Winkler",
+        "street":"Handelszentrum 2",
+        "zip_code":5101,
+        "locality":"Bergheim",
+        "id":2782
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Siegfried Bauer",
+        "street":"Gadaunererstra\u00dfe 1",
+        "zip_code":5630,
+        "locality":"Bad Hofgastein",
+        "id":2783
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"MEGATIMER INTERNATIONAL GESELLSCHAFT mbH - H\u00d6HERE WIRKSAMKEIT IM BERUF UND PRIVAT LEBEN DURCH ZIELORIENTIERTE LEBENSF\u00dcHRUNG",
+        "street":"Mitterschartenweg 7",
+        "zip_code":5522,
+        "locality":"St.Martin am Tennengebirge",
+        "id":2784
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Bahnhofgasse 18-20",
+        "zip_code":5500,
+        "locality":"Bischofshofen",
+        "id":2785
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Salzburger Stra\u00dfe 1",
+        "zip_code":5550,
+        "locality":"Radstadt",
+        "id":2786
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hauptstra\u00dfe 28",
+        "zip_code":5600,
+        "locality":"St. Johann im Pongau",
+        "id":2787
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Salzburgerstra\u00dfe 18",
+        "zip_code":5620,
+        "locality":"Schwarzach im Pongau",
+        "id":2788
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Postgasse 4",
+        "zip_code":5630,
+        "locality":"Bad Hofgastein",
+        "id":2789
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Bahnhofplatz 5",
+        "zip_code":5640,
+        "locality":"Bad Gastein",
+        "id":2790
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Gasteinerstra\u00dfe 50-52",
+        "zip_code":5500,
+        "locality":"Bischofshofen",
+        "id":2791
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Oberndorferstra\u00dfe 4",
+        "zip_code":5541,
+        "locality":"Altenmarkt im Pongau",
+        "id":2792
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Hauptstra\u00dfe 37",
+        "zip_code":5600,
+        "locality":"St. Johann im Pongau",
+        "id":2793
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Kirchenplatz 8",
+        "zip_code":5630,
+        "locality":"Bad Hofgastein",
+        "id":2794
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Schneider Papier - B\u00fcro - Druck, GmbH & Co KG",
+        "street":"Brunnbauerngasse 5, T\u00fcr 1",
+        "zip_code":5541,
+        "locality":"Altenmarkt im Pongau",
+        "id":2795
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"W.Szedlarik, Buch-,Papier- und Spielwarenhandel e.U.",
+        "street":"Pfarrgasse 5",
+        "zip_code":5630,
+        "locality":"Bad Hofgastein",
+        "id":2796
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Wallig Igler KG - Buch- und Papierhandlung",
+        "street":"Schernbergstra\u00dfe 7",
+        "zip_code":5550,
+        "locality":"Radstadt",
+        "id":2797
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Waltraud Anna Lamprecht",
+        "street":"Amtsgasse 7",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":2798
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Kuenburgstra\u00dfe 7",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":2799
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Poststra\u00dfe 6",
+        "zip_code":5582,
+        "locality":"Sankt Michael im Lungau",
+        "id":2800
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Kuenburgstra\u00dfe 13",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":2801
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Tamsweg",
+        "company_name":"Markus Till",
+        "street":"Marktplatz 7",
+        "zip_code":5580,
+        "locality":"Tamsweg",
+        "id":2802
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Gerwald Andreas Anderle",
+        "street":"Brucker Bundesstra\u00dfe 100",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2803
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Ellmauer - Zeit zum Lesen GmbH",
+        "street":"Bahnhofstra\u00dfe 1",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2804
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Ellmauer - Zeit zum Lesen GmbH",
+        "street":"Kirchgasse 4",
+        "zip_code":5730,
+        "locality":"Mittersill",
+        "id":2805
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Foidl e.U. - B\u00fcroprofi BBS Foidl Saalfelden",
+        "street":"Leopold-Luger-Stra\u00dfe 1",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":2806
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Helga Gensbichler",
+        "street":"Nr. 86",
+        "zip_code":5743,
+        "locality":"Krimml",
+        "id":2807
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Sabina Hanke",
+        "street":"Schillerstra\u00dfe 1",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2808
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Hannes Kirchner KG",
+        "street":"Nr. 152",
+        "zip_code":5733,
+        "locality":"Bramberg am Wildkogel",
+        "id":2809
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Josef Herzog Tabaktrafik e.U.",
+        "street":"Nr. 20",
+        "zip_code":5671,
+        "locality":"Bruck a.d. Gro\u00dfglocknerstr.",
+        "id":2810
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"K\u00f6ck Petra e.U",
+        "street":"Kitzsteinhornstra\u00dfe 7",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2811
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Maria Helene Kranawendter",
+        "street":"Sonnberg 1",
+        "zip_code":5771,
+        "locality":"Leogang",
+        "id":2812
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Postplatz 4",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2813
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Poststra\u00dfe 2",
+        "zip_code":5730,
+        "locality":"Mittersill",
+        "id":2814
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Mittergasse 26",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":2815
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Michael Peterleitner - b\u00fcroprofi peterleitner",
+        "street":"Br\u00e4uschmiedsteig 3",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2816
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Gletschermoosstra\u00dfe 33",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":2817
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Stadtplatz 17",
+        "zip_code":5730,
+        "locality":"Mittersill",
+        "id":2818
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"PL Handelsgesellschaft mbH",
+        "street":"Leopold-Radauer-Stra\u00dfe 1",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":2819
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"John Voithofer - John & Manuel Voithofer GbR - B.A.S. Voithofer",
+        "street":"Jochbergweg 17",
+        "zip_code":5723,
+        "locality":"Uttendorf",
+        "id":2820
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Fleischmarkt 19",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":2821
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Krugerstra\u00dfe 13",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":2822
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wipplingerstra\u00dfe 1",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":2823
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"The Change Group Wechselstuben GmbH",
+        "street":"K\u00e4rntner Stra\u00dfe 16",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":2824
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 1. Bezirk (Innere Stadt)",
+        "company_name":"The Change Group Wechselstuben GmbH",
+        "street":"Singerstra\u00dfe 1",
+        "zip_code":1010,
+        "locality":"Wien",
+        "id":2825
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Elderschplatz 4",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":2826
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Obere Donaustra\u00dfe 73\/1",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":2827
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Weintraubengasse 22(Postamt)",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":2828
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Philippe Dominique Ren\u00e9 Sergent",
+        "street":"Rabensburger Stra\u00dfe 20, T\u00fcr 11",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":2829
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 2. Bezirk (Leopoldstadt)",
+        "company_name":"Mario Simon - Collectors Corner",
+        "street":"Gredlerstra\u00dfe 4",
+        "zip_code":1020,
+        "locality":"Wien",
+        "id":2830
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Arctic Paper Papierhandels GmbH",
+        "street":"Hainburger Stra\u00dfe 34\/A",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2831
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Austria Tabak GmbH",
+        "street":"Erdberger L\u00e4nde 26a\/71",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2832
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"IMM M\u00fcnz-Institut Institut f\u00fcr M\u00fcnz- und Medaillenkunst GmbH",
+        "street":"Rennweg 79-81",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2833
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Markl Gesellschaft m.b.H.",
+        "street":"Landstra\u00dfer Hauptstra\u00dfe 67",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2834
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Gestettengasse 2A",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2835
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hetzgasse 35",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2836
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Rochusplatz 1",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2837
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Traungasse 12",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2838
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"Annemarie Virt - COMICFACHHANDEL",
+        "street":"L\u00f6wengasse 19",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2839
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"ZHS Office- & Facilitymanagement GmbH",
+        "street":"Am Stadtpark 9",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":2840
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Buchklub Verlags- und MedienvertriebsgmbH",
+        "street":"Mayerhofgasse 6",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":2841
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Faulmanngasse 6",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":2842
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Taubstummengasse 7-9",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":2843
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wiedner Hauptstra\u00dfe 72-74",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":2844
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 5. Bezirk (Margareten)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Am Hundsturm 11",
+        "zip_code":1050,
+        "locality":"Wien",
+        "id":2845
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 6. Bezirk (Mariahilf)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Gumpendorfer Stra\u00dfe 70",
+        "zip_code":1060,
+        "locality":"Wien",
+        "id":2846
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Zieglergasse 10",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":2847
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Zollergasse 2\/2",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":2848
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 7. Bezirk (Neubau)",
+        "company_name":"Skyline Handels GmbH",
+        "street":"Mariahilfer Stra\u00dfe 72",
+        "zip_code":1070,
+        "locality":"Wien",
+        "id":2849
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Alser Stra\u00dfe 31",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":2850
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Bennogasse 1",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":2851
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Maria-Treu-Gasse 4",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":2852
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 8. Bezirk (Josefstadt)",
+        "company_name":"G\u00fcnther Polland - Comic-Galerie",
+        "street":"Albertgasse 24",
+        "zip_code":1080,
+        "locality":"Wien",
+        "id":2853
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"Mad Titan Comics e.U.",
+        "street":"Bleichergasse 5\/L1",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":2854
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Althanstra\u00dfe 10(POSTAMT)",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":2855
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Porzellangasse 18",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":2856
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 9. Bezirk (Alsergrund)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"W\u00e4hringer G\u00fcrtel 18-20",
+        "zip_code":1090,
+        "locality":"Wien",
+        "id":2857
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Thomas Ertl",
+        "street":"Senefeldergasse 5",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2858
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Ada-Christen-Gasse 2\/A (Postamt)",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2859
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Buchengasse 77",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2860
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Sonnleithnergasse 53",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2861
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Troststra\u00dfe 11A",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2862
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wienerbergstra\u00dfe 5",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2863
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 10. Bezirk (Favoriten)",
+        "company_name":"Thalia Buch & Medien GmbH",
+        "street":"Am Hauptbahnhof 1HAUPTBAHNHOF WIEN",
+        "zip_code":1100,
+        "locality":"Wien",
+        "id":2864
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Antiquariat Fuhs OG",
+        "street":"Simmeringer Hauptstra\u00dfe 34\/1\/R02",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":2865
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Unter der Kirche 22",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":2866
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Thalia Buch & Medien GmbH",
+        "street":"Landwehrstra\u00dfe 6\/OG\/116",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":2867
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Tugay Kaya",
+        "street":"Niederhofstra\u00dfe 19",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":2868
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Am Sch\u00f6pfwerk 29",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":2869
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Bonygasse 8\/2",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":2870
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hetzendorfer Stra\u00dfe 76",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":2871
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wilhelmstra\u00dfe 41",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":2872
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 12. Bezirk (Meidling)",
+        "company_name":"Dr. med. Bardia Sadat Gouch\u00e9",
+        "street":"Singrienergasse 20",
+        "zip_code":1120,
+        "locality":"Wien",
+        "id":2873
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Werner Hierzer",
+        "street":"Schlo\u00df Sch\u00f6nbrunnS, T\u00fcr 61 (Finsterer Gang)",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":2874
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hietzinger Hauptstra\u00dfe 1A",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":2875
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hietzinger Hauptstra\u00dfe 80",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":2876
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Speisinger Stra\u00dfe 41",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":2877
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Albert-Schweitzer-Gasse 6\/Top 6 A",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":2878
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Felbigergasse 37",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":2879
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"H\u00fctteldorfer Stra\u00dfe 293",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":2880
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 14. Bezirk (Penzing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Kuefsteingasse 37",
+        "zip_code":1140,
+        "locality":"Wien",
+        "id":2881
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Gablenzgasse 5(EINKAUFSZENTRUM)",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":2882
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"H\u00fctteldorfer Stra\u00dfe 58",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":2883
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Lehnergasse (Rudolfsheim-F\u00fcnfhaus) 2",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":2884
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Thalia Buch & Medien GmbH",
+        "street":"Europaplatz 2BAHNHOF CITY WIEN WEST",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":2885
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Austria Tabak GmbH",
+        "street":"Koppstra\u00dfe 116",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":2886
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Sandleitengasse 41",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":2887
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Thaliastra\u00dfe 136",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":2888
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Thaliastra\u00dfe 78",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":2889
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"bookpoint e.U.",
+        "street":"Kalvarienberggasse 30",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":2890
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Krankenhaus G\u00f6ttlicher Heiland GmbH",
+        "street":"Dornbacher Stra\u00dfe 20-30",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":2891
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wattgasse 56-60",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":2892
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Elterleinplatz 11-13\/1",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":2893
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 17. Bezirk (Hernals)",
+        "company_name":"Markus Richter",
+        "street":"J\u00f6rgerstra\u00dfe 34\/6",
+        "zip_code":1170,
+        "locality":"Wien",
+        "id":2894
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Gersthofer Stra\u00dfe 65",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":2895
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Martinstra\u00dfe 61",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":2896
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Sternwartestra\u00dfe 1",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":2897
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Johann Beitel",
+        "street":"Josefsdorf 2(Souvenir Kahlenberg)",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":2898
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"Sabine Haderer",
+        "street":"Scheibengasse 1\/3",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":2899
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Heiligenst\u00e4dter Stra\u00dfe 185",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":2900
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Krottenbachstra\u00dfe 42-46",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":2901
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 19. Bezirk (D\u00f6bling)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"W\u00fcrthgasse 9",
+        "zip_code":1190,
+        "locality":"Wien",
+        "id":2902
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Dresdner Stra\u00dfe 116-118",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":2903
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Stromstra\u00dfe 24-28",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":2904
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 20. Bezirk (Brigittenau)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wallensteinstra\u00dfe 32",
+        "zip_code":1200,
+        "locality":"Wien",
+        "id":2905
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Bahnsteggasse 17-23",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2906
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Berlagasse 7-11",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2907
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Br\u00fcnner Stra\u00dfe 26-32",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2908
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"K\u00fcrschnergasse 9",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2909
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Trillergasse 4",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2910
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Christine Sark\u00f6zi",
+        "street":"Prager Stra\u00dfe 8",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2911
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 21. Bezirk (Floridsdorf)",
+        "company_name":"Peter Vycital",
+        "street":"Br\u00fcnner Stra\u00dfe 21",
+        "zip_code":1210,
+        "locality":"Wien",
+        "id":2912
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Ingrid Hollaus",
+        "street":"Wagramer Stra\u00dfe 81, Printshop",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2913
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"MDH-Media GmbH",
+        "street":"Sch\u00fcttauplatz 22",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2914
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Am Bahnhof 4",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2915
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Hasibederstra\u00dfe 2\/70",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2916
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Lavaterstra\u00dfe 6\/2",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2917
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Moissigasse 14",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2918
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Schr\u00f6dingerplatz 2",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2919
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Wagramer Stra\u00dfe 162",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2920
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Thalia Buch & Medien GmbH",
+        "street":"Wagramer Stra\u00dfe 94(DONAUZENTRUM)\/T 933",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":2921
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"A. HAGEN OHG - Modellbau-Modellbahn Hagen Papier-B\u00fccher-Spielwaren HAGEN Geschenkartikel-HAGEN B\u00fcroprofi-HAGEN",
+        "street":"Breitenfurter Stra\u00dfe 379",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2922
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Anton-Baumgartner-Stra\u00dfe 121(POST)",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2923
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Endresstra\u00dfe 121",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2924
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Jochen-Rindt-Stra\u00dfe 7",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2925
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Liesinger Platz 2",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2926
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"\u00d6sterreichische Post Aktiengesellschaft",
+        "street":"Willergasse 11",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2927
+    },
+    {
+        "branche_layer_3":"Einzelhandel mit Romane, Zeitschriften und Magazine",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"R. G\u00e4rdtner & Comp. Gesellschaft m.b.H. - Spezialist f\u00fcr Stempel & Schilder",
+        "street":"Fr\u00f6hlichgasse 15",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2928
+    }
+]

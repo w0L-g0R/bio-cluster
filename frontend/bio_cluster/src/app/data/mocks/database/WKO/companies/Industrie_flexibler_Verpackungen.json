@@ -1,0 +1,42 @@
+[
+    {
+        "branche_layer_3":"Industrie flexibler Verpackungen",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz-Land",
+        "company_name":"Flexopack-Verpackungen Gesellschaft m.b.H.",
+        "street":"Allhaming 110",
+        "zip_code":4511,
+        "locality":"Allhaming",
+        "id":31502
+    },
+    {
+        "branche_layer_3":"Industrie flexibler Verpackungen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Verpackungsindustrie Volckmar Gesellschaft m.b.H.",
+        "street":"Stahlgasse 10",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":31503
+    },
+    {
+        "branche_layer_3":"Industrie flexibler Verpackungen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Stenqvist Austria Gesellschaft m.b.H.",
+        "street":"3 G Gewerbepark 1",
+        "zip_code":8755,
+        "locality":"St. Peter ob Judenburg",
+        "id":31504
+    },
+    {
+        "branche_layer_3":"Industrie flexibler Verpackungen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Coveris Flexibles Austria GmbH",
+        "street":"Kufsteiner Stra\u00dfe 2",
+        "zip_code":6336,
+        "locality":"Langkampfen",
+        "id":31505
+    }
+]

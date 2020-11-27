@@ -1,0 +1,132 @@
+[
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Christian Schurian - Caravan Schurian Christian",
+        "street":"Ehrentaler Stra\u00dfe 33",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":16000
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Falle GmbH - Falle GmbH",
+        "street":"Maria Gailer Stra\u00dfe 59",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":16001
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Udo Karl Hundhammer - Helgru-mobil",
+        "street":"Gewerbepark 70",
+        "zip_code":9710,
+        "locality":"Feistritz an der Drau",
+        "id":16002
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Wolfsberg",
+        "company_name":"Autohaus Grohs GmbH",
+        "street":"Walter Grohs Stra\u00dfe 2",
+        "zip_code":9400,
+        "locality":"Wolfsberg",
+        "id":16003
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Karl Steiner",
+        "street":"Sportweg 8",
+        "zip_code":5730,
+        "locality":"Mittersill",
+        "id":16004
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"KLEDO Reisemobile GesmbH - KLEDO Reisemobile & Wohnwagen GmbH",
+        "street":"Gradnerstra\u00dfe 66",
+        "zip_code":8055,
+        "locality":"Graz",
+        "id":16005
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"Steierm\u00e4rkischer Automobil-und Motorsportklub (STAMK)",
+        "street":"Alte Poststra\u00dfe 161",
+        "zip_code":8020,
+        "locality":"Graz",
+        "id":16006
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"E-M Technik GmbH",
+        "street":"Murm\u00fchlweg 10a",
+        "zip_code":8112,
+        "locality":"Gratwein",
+        "id":16007
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Hartberg-F\u00fcrstenfeld",
+        "company_name":"Lindner GmbH",
+        "street":"Hirnsdorf 107",
+        "zip_code":8221,
+        "locality":"Hirnsdorf",
+        "id":16008
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Erich Haring",
+        "street":"Gleinst\u00e4tten 53",
+        "zip_code":8443,
+        "locality":"Gleinst\u00e4tten",
+        "id":16009
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leoben",
+        "company_name":"RmF CamperTreff OG",
+        "street":"Lagergasse 4",
+        "zip_code":8700,
+        "locality":"Leitendorf",
+        "id":16010
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Gebetsroither Handels GmbH",
+        "street":"Gebetsroitherweg 1",
+        "zip_code":8940,
+        "locality":"Wei\u00dfenbach bei Liezen",
+        "id":16011
+    },
+    {
+        "branche_layer_3":"Gaseinrichtungen in mobilen Fahrzeugen und Anlagen",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Martin Sebastian Wagner",
+        "street":"Untere Sparchen 20",
+        "zip_code":6330,
+        "locality":"Kufstein",
+        "id":16012
+    }
+]

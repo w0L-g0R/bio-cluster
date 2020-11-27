@@ -1,0 +1,28 @@
+<mat-toolbar fxLayout fxLayoutAlign="end center">
+
+    <!-- <span fxFlex>
+        <img src="https://fontmeme.com/permalink/201107/83e1b4b995211d9ee44bdf5e26437f8b.png">
+    </span> -->
+
+    <!-- <button style="font-size: 18px" mat-button fxHide.lt-xs>
+
+        <mat-icon class="mr">
+            menu
+        </mat-icon>
+
+    </button> -->
+
+    <button style="font-size: 18px" mat-button *ngFor="let item of navItems" [routerLink]=item.routerLink [disabled]=item.isDisabled fxHide.lt-xs>
+
+        <mat-icon class="mr">
+            {{item.icon}}
+        </mat-icon>
+
+        <span fxHide.lt-sm >
+            {{item.label}}
+        </span>
+
+
+    </button>
+
+</mat-toolbar>

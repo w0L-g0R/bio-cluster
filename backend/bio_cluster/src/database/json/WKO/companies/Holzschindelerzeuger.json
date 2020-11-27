@@ -1,0 +1,412 @@
+[
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Sankt Veit an der Glan",
+        "company_name":"Zippusch GmbH",
+        "street":"Gutschen 44",
+        "zip_code":9372,
+        "locality":"Eberstein",
+        "id":31142
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Franz Aichholzer",
+        "street":"Baldramsdorf 6\/2",
+        "zip_code":9805,
+        "locality":"Baldramsdorf",
+        "id":31143
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Andreas Stefan Granig",
+        "street":"Gro\u00dfkirchheim 58\/1 LN",
+        "zip_code":9843,
+        "locality":"Grosskirchheim",
+        "id":31144
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"V\u00f6lkermarkt",
+        "company_name":"Franz Riepl - Riepl Franz",
+        "street":"Grafenbach 46",
+        "zip_code":9103,
+        "locality":"Diex",
+        "id":31145
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Kirchdorf an der Krems",
+        "company_name":"Ivica Vrban",
+        "street":"Hochgasse 18c \/2",
+        "zip_code":4596,
+        "locality":"Steinbach an der Steyr",
+        "id":31146
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Beyer-Holzschindel GmbH",
+        "street":"V\u00f6cklatal 37",
+        "zip_code":4890,
+        "locality":"Wei\u00dfenkirchen im Attergau",
+        "id":31147
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Hehenfelder OG",
+        "street":"Raudaschlm\u00fchle 5",
+        "zip_code":4860,
+        "locality":"Lenzing",
+        "id":31148
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Thomas Lohninger",
+        "street":"Kohlstatt 84",
+        "zip_code":4866,
+        "locality":"Unterach am Attersee",
+        "id":31149
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Wolfgang Mautner",
+        "street":"B\u00e4ckerberg 2",
+        "zip_code":4672,
+        "locality":"Bachmanning",
+        "id":31150
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Renato Zambelli",
+        "street":"Hauptstra\u00dfe 65",
+        "zip_code":4642,
+        "locality":"Sattledt",
+        "id":31151
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"Renato Zambelli",
+        "street":"Birkenstra\u00dfe 5",
+        "zip_code":4653,
+        "locality":"Eberstalzell",
+        "id":31152
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Martin Brunauer",
+        "street":"Gai\u00dfau 324",
+        "zip_code":5425,
+        "locality":"Krispl",
+        "id":31153
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Thomas Fallnhauser",
+        "street":"Obere Langgasse 69",
+        "zip_code":5424,
+        "locality":"Bad Vigaun",
+        "id":31154
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Hallein",
+        "company_name":"Pendl Holzschindel GmbH",
+        "street":"D\u00f6llerhof 6",
+        "zip_code":5441,
+        "locality":"Abtenau",
+        "id":31155
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Michael Hausjell",
+        "street":"F\u00fcrbergstra\u00dfe 7",
+        "zip_code":5340,
+        "locality":"Sankt Gilgen",
+        "id":31156
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Andreas Kreuzberger",
+        "street":"Katzmoosstra\u00dfe 47a",
+        "zip_code":5161,
+        "locality":"Elixhausen",
+        "id":31157
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Katharina Renate Schweizer - B\u00fcro Kathi",
+        "street":"Gschwendt 217-\/2",
+        "zip_code":5342,
+        "locality":"Strobl",
+        "id":31158
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Stefan Albin Krahbichler",
+        "street":"Schinking 56, T\u00fcr 9",
+        "zip_code":5760,
+        "locality":"Saalfelden",
+        "id":31159
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Harald Rapold - Schindelfachgesch\u00e4ft",
+        "street":"Lofer 223",
+        "zip_code":5090,
+        "locality":"Lofer",
+        "id":31160
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Alexander Prosen",
+        "street":"Schulgasse 59a",
+        "zip_code":6465,
+        "locality":"Nassereith",
+        "id":31161
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"Bernhard Georg Stern",
+        "street":"Zw\u00f6lferweg 5\/T\u00fcr 1",
+        "zip_code":6167,
+        "locality":"Neustift im Stubaital",
+        "id":31162
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Innsbruck Land",
+        "company_name":"TRIO GmbH",
+        "street":"Steinbockallee 17-17c",
+        "zip_code":6063,
+        "locality":"Rum",
+        "id":31163
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Peter Berger",
+        "street":"Langau 8",
+        "zip_code":6370,
+        "locality":"Kitzb\u00fchel",
+        "id":31164
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Philipp G\u00fcnther Daxauer",
+        "street":"Schie\u00dfstandgasse 16",
+        "zip_code":6380,
+        "locality":"St. Johann in Tirol",
+        "id":31165
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Peter Puelacher",
+        "street":"Reith 26",
+        "zip_code":6392,
+        "locality":"St. Jakob in Haus",
+        "id":31166
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kitzb\u00fchel",
+        "company_name":"Anton Widmoser",
+        "street":"Stra\u00df 40",
+        "zip_code":6393,
+        "locality":"St. Ulrich am Pillersee",
+        "id":31167
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Johann Eberharter",
+        "street":"Achleit 24",
+        "zip_code":6320,
+        "locality":"Angerberg",
+        "id":31168
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Kufstein",
+        "company_name":"Rudolf Vorhofer - Holzschindelerzeuger",
+        "street":"Kirchfeld 10",
+        "zip_code":6235,
+        "locality":"Reith im Alpbachtal",
+        "id":31169
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Bernhard Berger",
+        "street":"Ainet 144",
+        "zip_code":9951,
+        "locality":"Ainet",
+        "id":31170
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Peter Paul Berger",
+        "street":"Haslachweg 37",
+        "zip_code":9972,
+        "locality":"Virgen",
+        "id":31171
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Michael Egger",
+        "street":"Leisach 27",
+        "zip_code":9909,
+        "locality":"Leisach",
+        "id":31172
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Markus Gsaller",
+        "street":"Schlo\u00df-Wei\u00dfenstein-Stra\u00dfe 6",
+        "zip_code":9971,
+        "locality":"Matrei in Osttirol",
+        "id":31173
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Josef Kalser - Schindelerzeugung",
+        "street":"Leisach 8 a",
+        "zip_code":9909,
+        "locality":"Leisach",
+        "id":31174
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Lienz",
+        "company_name":"Arno Josef Weiskopf",
+        "street":"Lesach 24, T\u00fcr 1",
+        "zip_code":9981,
+        "locality":"Kals\/Gro\u00dfglockner",
+        "id":31175
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Astner Holzschindeln GesmbH",
+        "street":"Bradl 328",
+        "zip_code":6210,
+        "locality":"Wiesing",
+        "id":31176
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Andreas Laimb\u00f6ck",
+        "street":"M\u00e4rzenstra\u00dfe 46",
+        "zip_code":6275,
+        "locality":"Stumm",
+        "id":31177
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Florian B\u00e4r - Forstunternehmen B\u00e4r",
+        "street":"Wieden 517",
+        "zip_code":6883,
+        "locality":"Au",
+        "id":31178
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Ivo Berlinger",
+        "street":"Schwarzen 878a",
+        "zip_code":6861,
+        "locality":"Alberschwende",
+        "id":31179
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Martin Armin M\u00f6\u00dflang",
+        "street":"H\u00f6ll 140",
+        "zip_code":6861,
+        "locality":"Alberschwende",
+        "id":31180
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Bernhard Peter",
+        "street":"G\u00fcggelstein 187, T\u00fcr 1",
+        "zip_code":6867,
+        "locality":"Schwarzenberg",
+        "id":31181
+    },
+    {
+        "branche_layer_3":"Holzschindelerzeuger",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 15. Bezirk (Rudolfsheim-F\u00fcnfhaus)",
+        "company_name":"Guido Niedrist",
+        "street":"Akkonplatz 6\/19",
+        "zip_code":1150,
+        "locality":"Wien",
+        "id":31182
+    }
+]

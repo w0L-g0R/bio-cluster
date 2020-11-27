@@ -1,0 +1,52 @@
+[
+    {
+        "branche_layer_3":"Faltschachtelindustrie",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Oberwart",
+        "company_name":"europrint gmbh",
+        "street":"Steinamangererstra\u00dfe 187",
+        "zip_code":7400,
+        "locality":"Oberwart",
+        "id":2935
+    },
+    {
+        "branche_layer_3":"Faltschachtelindustrie",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Stadt",
+        "company_name":"AR Packaging Graz GmbH - Verpackungsdruckerei",
+        "street":"Erna-Diez-Stra\u00dfe 2",
+        "zip_code":8053,
+        "locality":"Graz",
+        "id":2936
+    },
+    {
+        "branche_layer_3":"Faltschachtelindustrie",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Imst",
+        "company_name":"Schwab Druck - Kartonagen GmbH",
+        "street":"Schlappach 1-3",
+        "zip_code":6421,
+        "locality":"Rietz",
+        "id":2937
+    },
+    {
+        "branche_layer_3":"Faltschachtelindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Mosburger GmbH",
+        "street":"Ketzergasse 112",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2938
+    },
+    {
+        "branche_layer_3":"Faltschachtelindustrie",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 23. Bezirk (Liesing)",
+        "company_name":"Mosburger GmbH",
+        "street":"Lemb\u00f6ckgasse 21-23",
+        "zip_code":1230,
+        "locality":"Wien",
+        "id":2939
+    }
+]

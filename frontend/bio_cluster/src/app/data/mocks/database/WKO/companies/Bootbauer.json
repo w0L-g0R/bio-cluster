@@ -1,0 +1,1332 @@
+[
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"CAR MAGIX e.U.",
+        "street":"Industriegel\u00e4nde 1",
+        "zip_code":7082,
+        "locality":"Donnerskirchen",
+        "id":1479
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Drescher Line GmbH",
+        "street":"M\u00f6rbischerstra\u00dfe 1",
+        "zip_code":7071,
+        "locality":"Rust",
+        "id":1480
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Stefan Luzsicza",
+        "street":"Industriegel\u00e4nde 4",
+        "zip_code":2491,
+        "locality":"Steinbrunn",
+        "id":1481
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"MULTI YACHTING GmbH",
+        "street":"Sebastianstra\u00dfe 54",
+        "zip_code":7063,
+        "locality":"Oggau am Neusiedler See",
+        "id":1482
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Thomas Ernst Piller",
+        "street":"Industriegel\u00e4nde 1\/Tor 22",
+        "zip_code":7082,
+        "locality":"Donnerskirchen",
+        "id":1483
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Eisenstadt-Umgebung",
+        "company_name":"Ralph Patrick Roschek",
+        "street":"Spitalgasse 1a, T\u00fcr 2",
+        "zip_code":7091,
+        "locality":"Breitenbrunn",
+        "id":1484
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"FREI-Schleifmittel GmbH",
+        "street":"Berggasse 60",
+        "zip_code":7222,
+        "locality":"Rohrbach bei Mattersburg",
+        "id":1485
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Mattersburg",
+        "company_name":"Holz-Center Haring GmbH",
+        "street":"Walbersdorf Bauweltstra\u00dfe 10",
+        "zip_code":7210,
+        "locality":"Walbersdorf",
+        "id":1486
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Gerhard Heider",
+        "street":"Oberer Satzweg 56",
+        "zip_code":7100,
+        "locality":"Neusiedl am See",
+        "id":1487
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Thorsten Knabe",
+        "street":"Oskar Helmer-Gasse 5\/3",
+        "zip_code":2474,
+        "locality":"Gattendorf",
+        "id":1488
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Maletschek Nautics GmbH - Maletschek Nautics",
+        "street":"Betriebsgebiet Jochen 1\/4",
+        "zip_code":7121,
+        "locality":"Weiden am See",
+        "id":1489
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"NIULA Boats GmbH",
+        "street":"Bahnstra\u00dfe 21",
+        "zip_code":7093,
+        "locality":"Jois",
+        "id":1490
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Christian Romero",
+        "street":"Neubaugasse 46",
+        "zip_code":7121,
+        "locality":"Weiden am See",
+        "id":1491
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Erwin Rumpf",
+        "street":"Seestra\u00dfe 4Stg. 1, T\u00fcr 3",
+        "zip_code":7100,
+        "locality":"Neusiedl am See",
+        "id":1492
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Burgenland",
+        "locality_layer_2":"Neusiedl am See",
+        "company_name":"Sailing Center Betriebsges.m.b.H. - Sailing-Center Segelhafen \"Seegarten\" Segelmacherei M\u00f6stl",
+        "street":"Seeg\u00e4rten 117",
+        "zip_code":7100,
+        "locality":"Neusiedl am See",
+        "id":1493
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Alexander Wolfgang Riedl - boote riedl",
+        "street":"Wiegelegasse 15",
+        "zip_code":9020,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":1494
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt",
+        "company_name":"Stefan Smole",
+        "street":"Halleggerstra\u00dfe 65",
+        "zip_code":9201,
+        "locality":"Klagenfurt am W\u00f6rthersee",
+        "id":1495
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Fun-Products Handels GmbH - Funproducts Mastercraft Mureny",
+        "street":"S\u00fcduferstra\u00dfe 104c",
+        "zip_code":9081,
+        "locality":"Reifnitz",
+        "id":1496
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Ing. Christof Goritschnigg",
+        "street":"Fischerweg 15",
+        "zip_code":9082,
+        "locality":"Maria W\u00f6rth",
+        "id":1497
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Stefan Hofst\u00e4tter",
+        "street":"Hadnweg 12",
+        "zip_code":9065,
+        "locality":"Ebenthal",
+        "id":1498
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"JetMarine Schiffswerft GmbH",
+        "street":"Gewerbepark-Draubogen 11",
+        "zip_code":9162,
+        "locality":"Strau",
+        "id":1499
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Lex Handels KG",
+        "street":"W\u00f6rthersee-S\u00fcduferstra\u00dfe 232",
+        "zip_code":9082,
+        "locality":"Maria W\u00f6rth",
+        "id":1500
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Klagenfurt-Land",
+        "company_name":"Dieter Heribert Seebacher - aquawatt Yachtbau , D.H. Seebacher",
+        "street":"Wasserstra\u00dfe 1",
+        "zip_code":9062,
+        "locality":"Moosburg in K\u00e4rnten",
+        "id":1501
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Spittal an der Drau",
+        "company_name":"Michael Georg Winkler",
+        "street":"Neusach 30",
+        "zip_code":9762,
+        "locality":"Weissensee",
+        "id":1502
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Boote Schmalzl GmbH",
+        "street":"Ossiachersee S\u00fcduferstra\u00dfe 34",
+        "zip_code":9523,
+        "locality":"Villach-Landskron",
+        "id":1503
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Werner Klaus Jaklitsch - Jaklitsch Werner Klaus",
+        "street":"Ossiachersee S\u00fcdufer Stra\u00dfe 93",
+        "zip_code":9523,
+        "locality":"Villach-Landskron",
+        "id":1504
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"ORTNER-BOOTE GmbH",
+        "street":"Zehenthofstra\u00dfe 26",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":1505
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach",
+        "company_name":"Alexander Wilhelm Zeichen",
+        "street":"Hans Leb Weg 4",
+        "zip_code":9500,
+        "locality":"Villach",
+        "id":1506
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Boote Schmalzl GmbH",
+        "street":"Jessenigstra\u00dfe 3a",
+        "zip_code":9220,
+        "locality":"Velden am W\u00f6rther See",
+        "id":1507
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Boote Schmalzl GmbH",
+        "street":"Seecorso 13",
+        "zip_code":9220,
+        "locality":"Velden am W\u00f6rther See",
+        "id":1508
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"INGENITY GmbH",
+        "street":"S\u00fcduferstra\u00dfe 131",
+        "zip_code":9220,
+        "locality":"Velden am W\u00f6rther See",
+        "id":1509
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"K\u00e4rnten",
+        "locality_layer_2":"Villach-Land",
+        "company_name":"Dipl.-Ing. Thomas Karl Nikolasch",
+        "street":"Panoramaweg 4",
+        "zip_code":9520,
+        "locality":"Annenheim",
+        "id":1510
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Karl-Heinz Lehner",
+        "street":"Wiesenstra\u00dfe 8",
+        "zip_code":3300,
+        "locality":"Greinsfurth",
+        "id":1511
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Karl-Heinz Lehner",
+        "street":"Hafen 3",
+        "zip_code":3321,
+        "locality":"Ardagger Markt",
+        "id":1512
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Robert Raderbauer",
+        "street":"Hafen 3",
+        "zip_code":3321,
+        "locality":"Ardagger Markt",
+        "id":1513
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Amstetten",
+        "company_name":"Hubert Franz W\u00f6hri",
+        "street":"Leitenstra\u00dfe 6",
+        "zip_code":3363,
+        "locality":"Ulmerfeld",
+        "id":1514
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Christian Anton",
+        "street":"Parkstra\u00dfe 11",
+        "zip_code":2521,
+        "locality":"Trumau",
+        "id":1515
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Baden",
+        "company_name":"Felix Recht",
+        "street":"Badener Stra\u00dfe (Tribuswinkel) 35",
+        "zip_code":2512,
+        "locality":"Traiskirchen",
+        "id":1516
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Michael Kurt Berger",
+        "street":"Schwalbengasse 7",
+        "zip_code":2402,
+        "locality":"Maria Ellend",
+        "id":1517
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Patrik Mike Berger",
+        "street":"Schwalbengasse (Maria Ellend) 7",
+        "zip_code":2402,
+        "locality":"Maria Ellend",
+        "id":1518
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Bruck\/Leitha",
+        "company_name":"Benedikt K\u00f6ck",
+        "street":"Deutsch Altenburgerstra\u00dfe 13",
+        "zip_code":2472,
+        "locality":"Prellenkirchen",
+        "id":1519
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"c.o. BOOTsservice & Teile e.U.",
+        "street":"Feldstra\u00dfe 91",
+        "zip_code":2231,
+        "locality":"Strasshof\/Nordbahn",
+        "id":1520
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"G\u00e4nserndorf",
+        "company_name":"OBERMAR e.U.",
+        "street":"Dr. Adolf Sch\u00e4rf-Stra\u00dfe 18",
+        "zip_code":2232,
+        "locality":"Deutsch-Wagram",
+        "id":1521
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Georg Friedl",
+        "street":"Franz-Zeiller-Gasse 2\/2",
+        "zip_code":2102,
+        "locality":"Bisamberg",
+        "id":1522
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Korneuburg",
+        "company_name":"Zorica Madrujki\u0107",
+        "street":"Fabriksgasse 7\/36\/56",
+        "zip_code":2201,
+        "locality":"Gerasdorf",
+        "id":1523
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Christopher Meyer Boote e.U. - Meyer Bootswerft e.U.",
+        "street":"Aggsbach Markt 79",
+        "zip_code":3641,
+        "locality":"Aggsbach",
+        "id":1524
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Krems\/Donau (Land)",
+        "company_name":"Meyer Bootswerft GmbH",
+        "street":"Aggsbach Markt 79(Werkstatt)",
+        "zip_code":3641,
+        "locality":"Aggsbach Markt",
+        "id":1525
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"M\u00f6dling",
+        "company_name":"Auriga Holding GmbH",
+        "street":"Kientalgasse 3b",
+        "zip_code":2371,
+        "locality":"Hinterbr\u00fchl",
+        "id":1526
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Neunkirchen",
+        "company_name":"Dieter Zens",
+        "street":"Neunkirchnerstra\u00dfe 6",
+        "zip_code":2624,
+        "locality":"Breitenau",
+        "id":1527
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Tulln",
+        "company_name":"Tobias Van Kooij - Mobiler Yachtservice",
+        "street":"Feldergasse 49a",
+        "zip_code":3400,
+        "locality":"Weidling",
+        "id":1528
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Nieder\u00f6sterreich",
+        "locality_layer_2":"Wiener Neustadt (Land)",
+        "company_name":"Ph\u00f6nix Wiener Neustadt, Verein f\u00fcr Arbeits- und Besch\u00e4ftigungsinitiativen",
+        "street":"Neunkirchner Stra\u00dfe 65",
+        "zip_code":2700,
+        "locality":"Wiener Neustadt",
+        "id":1529
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Braunau am Inn",
+        "company_name":"Blitz Facility Service GmbH",
+        "street":"Gewerbepark 1, Top 18-7",
+        "zip_code":5222,
+        "locality":"Munderfing",
+        "id":1530
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Boote Marian GmbH",
+        "street":"Weinbach 46",
+        "zip_code":5360,
+        "locality":"St. Wolfgang im Salzkammergut",
+        "id":1531
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Frauscher Bootshafen und Bootshandel GmbH & Co KG - Frauscher Hafen",
+        "street":"M\u00fcnzfeld 8",
+        "zip_code":4810,
+        "locality":"Gschwandt",
+        "id":1532
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Frauscher Bootswerft GmbH & Co KG - Frauscher Bootswerft",
+        "street":"Betriebspark Ehrenfeld 3",
+        "zip_code":4694,
+        "locality":"Ohlsdorf",
+        "id":1533
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Uwe Graf",
+        "street":"Schwarzenbach 60",
+        "zip_code":5360,
+        "locality":"St. Wolfgang im Salzkammergut",
+        "id":1534
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Peter Dominic H\u00f6dlmoser",
+        "street":"Weinbach 67",
+        "zip_code":5360,
+        "locality":"St. Wolfgang im Salzkammergut",
+        "id":1535
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Josef Holzinger",
+        "street":"Traunsteinstra\u00dfe 76",
+        "zip_code":4810,
+        "locality":"Gmunden",
+        "id":1536
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"HP Nautic OG",
+        "street":"Webergrub 1",
+        "zip_code":4816,
+        "locality":"Gschwandt",
+        "id":1537
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Dominik Gustav Huber - Bootsvermietung",
+        "street":"Karl Jos.v. Frey-Gasse 6\/2",
+        "zip_code":4810,
+        "locality":"Gmunden",
+        "id":1538
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Ing. Robert Franz Kreuzer",
+        "street":"Brunnm\u00fchlstra\u00dfe 71",
+        "zip_code":4655,
+        "locality":"Vorchdorf",
+        "id":1539
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Gmunden",
+        "company_name":"Silverwings Boote e.U.",
+        "street":"Ort 14",
+        "zip_code":4817,
+        "locality":"St. Konrad",
+        "id":1540
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"DDSG Services GmbH",
+        "street":"Ignaz-Mayer-Stra\u00dfe 14a",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":1541
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Dipl.Ing.(FH) Oliver Rihl e.U.",
+        "street":"Josef-Scheu-Weg 30",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":1542
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Josef Rathwallner",
+        "street":"Kopernikusstra\u00dfe 28 \/4",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":1543
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"Schellenbacher GmbH",
+        "street":"Am Winterhafen 15",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":1544
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Linz (Stadt)",
+        "company_name":"TopYacht Handels- und Service GmbH",
+        "street":"Ignaz-Mayer-Stra\u00dfe 10",
+        "zip_code":4020,
+        "locality":"Linz",
+        "id":1545
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"HERMES Bootbau OG",
+        "street":"Retzfeld 7",
+        "zip_code":4222,
+        "locality":"St. Georgen an der Gusen",
+        "id":1546
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"katSolution e.U.",
+        "street":"Dr. Hoyos-Stra\u00dfe 7",
+        "zip_code":4311,
+        "locality":"Schwertberg",
+        "id":1547
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Perg",
+        "company_name":"Stefan Schauer",
+        "street":"Statzing-Dorf 53, T\u00fcr 2",
+        "zip_code":4225,
+        "locality":"Luftenberg an der Donau",
+        "id":1548
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"Karl Georg Kinast",
+        "street":"Antiesen 14",
+        "zip_code":4906,
+        "locality":"Eberschwang",
+        "id":1549
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Ried im Innkreis",
+        "company_name":"QFR Solutions GmbH - QFR Solutions GmbH",
+        "street":"Kochreith 13",
+        "zip_code":4971,
+        "locality":"Aurolzm\u00fcnster",
+        "id":1550
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Thomas Josef Dall - Yachtservice Dall",
+        "street":"Unterhart 3",
+        "zip_code":4113,
+        "locality":"Sankt Martin im M\u00fchlkreis",
+        "id":1551
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Christian Heribert K\u00f6nigsdorfer",
+        "street":"Niederranna 38",
+        "zip_code":4085,
+        "locality":"Hofkirchen im M\u00fchlkreis",
+        "id":1552
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Rohrbach",
+        "company_name":"Ing. Gerald Witti - Boots- und Zillenbau",
+        "street":"Freizell 4",
+        "zip_code":4085,
+        "locality":"Hofkirchen im M\u00fchlkreis",
+        "id":1553
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Steyr (Stadt)",
+        "company_name":"SMARTKAT Bootsbau und Vertriebs GmbH",
+        "street":"Hochstra\u00dfe 36",
+        "zip_code":4400,
+        "locality":"Steyr",
+        "id":1554
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Hannes Harsch",
+        "street":"Gerstmayrweg 5",
+        "zip_code":4040,
+        "locality":"Lichtenberg",
+        "id":1555
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Gerald Karl",
+        "street":"Walchschmiede 8",
+        "zip_code":4204,
+        "locality":"Reichenau im M\u00fchlkreis",
+        "id":1556
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Urfahr-Umgebung",
+        "company_name":"Thomas Ludwig Schmalzer",
+        "street":"Pulgarner Stra\u00dfe 28",
+        "zip_code":4221,
+        "locality":"Steyregg",
+        "id":1557
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Auriga Holding GmbH",
+        "street":"Seestra\u00dfe 88",
+        "zip_code":4861,
+        "locality":"Sch\u00f6rfling am Attersee",
+        "id":1558
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Johannes Fisch",
+        "street":"Kapellenweg 30",
+        "zip_code":4865,
+        "locality":"Nu\u00dfdorf am Attersee",
+        "id":1559
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Johannes Haitzinger",
+        "street":"Aufham 13",
+        "zip_code":4864,
+        "locality":"Attersee",
+        "id":1560
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"R\u00fcdiger Franz Walter Krischke",
+        "street":"St\u00f6ttham 19",
+        "zip_code":4881,
+        "locality":"Stra\u00df im Attergau",
+        "id":1561
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Franz Mittendorfer",
+        "street":"Gahberggasse 1464\/5,1464\/6",
+        "zip_code":4861,
+        "locality":"Sch\u00f6rfling am Attersee",
+        "id":1562
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"PEHN Bootsbau GmbH",
+        "street":"Attergaustra\u00dfe 84",
+        "zip_code":4880,
+        "locality":"St. Georgen im Attergau",
+        "id":1563
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Pro-Boot GmbH",
+        "street":"Seefeld 70",
+        "zip_code":4853,
+        "locality":"Steinbach am Attersee",
+        "id":1564
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Manuel Rainer - Boat Builder on Tour",
+        "street":"Unterpilsbach 49",
+        "zip_code":4840,
+        "locality":"Pilsbach",
+        "id":1565
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Christian Resch",
+        "street":"Dorfstra\u00dfe 18",
+        "zip_code":4865,
+        "locality":"Nu\u00dfdorf am Attersee",
+        "id":1566
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Christian Resch",
+        "street":"Attergaustra\u00dfe 99-101",
+        "zip_code":4880,
+        "locality":"St. Georgen im Attergau",
+        "id":1567
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Thomas Tschepen",
+        "street":"Sch\u00f6rflinger Stra\u00dfe 1",
+        "zip_code":4844,
+        "locality":"Regau",
+        "id":1568
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"V\u00f6cklabruck",
+        "company_name":"Yacht Service Gebetsroither Gesellschaftm.b.H. & Co. KG.",
+        "street":"Unterbuchberg 15",
+        "zip_code":4863,
+        "locality":"Seewalchen am Attersee",
+        "id":1569
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels (Stadt)",
+        "company_name":"Christian Eigl",
+        "street":"Albrechtstra\u00dfe 14",
+        "zip_code":4600,
+        "locality":"Wels",
+        "id":1570
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Ober\u00f6sterreich",
+        "locality_layer_2":"Wels-Land",
+        "company_name":"LITOP-Management GmbH",
+        "street":"Am Rappelberg 48",
+        "zip_code":4616,
+        "locality":"Wei\u00dfkirchen an der Traun",
+        "id":1571
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Austrian Yacht Consulting & Service e.U.",
+        "street":"H\u00f6glw\u00f6rthweg 23",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":1572
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"Timo Reinhard Fuchs",
+        "street":"Ludwig-Zeller-Weg 1",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":1573
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Stadt",
+        "company_name":"KORMARAN GmbH",
+        "street":"Wilhelm-Spazier-Stra\u00dfe 2a",
+        "zip_code":5020,
+        "locality":"Salzburg",
+        "id":1574
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Petra Andrea Engel",
+        "street":"Steinkl\u00fcftstra\u00dfe 29",
+        "zip_code":5340,
+        "locality":"Sankt Gilgen",
+        "id":1575
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Josef Handlechner",
+        "street":"Wallerseestra\u00dfe 27",
+        "zip_code":5201,
+        "locality":"Seekirchen am Wallersee",
+        "id":1576
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Johann H\u00f6fner",
+        "street":"Hinterauweg 1",
+        "zip_code":5322,
+        "locality":"Hof bei Salzburg",
+        "id":1577
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"KORMARAN GmbH",
+        "street":"Salzburgerstra\u00dfe 340",
+        "zip_code":5084,
+        "locality":"Gro\u00dfgmain",
+        "id":1578
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Heinz Walter Risch",
+        "street":"Mondseestra\u00dfe 28",
+        "zip_code":5340,
+        "locality":"Sankt Gilgen",
+        "id":1579
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Hermann Steiner - Steiner - Nautic",
+        "street":"Seestra\u00dfe 227",
+        "zip_code":5163,
+        "locality":"Mattsee",
+        "id":1580
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Salzburg-Umgebung",
+        "company_name":"Sunbeam Yachts OG - SUNBEAM Yachts",
+        "street":"K\u00f6stendorfer Landesstra\u00dfe 7",
+        "zip_code":5163,
+        "locality":"Mattsee",
+        "id":1581
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Gerhard Gr\u00fcbl - Gerhard Gr\u00fcbl Bootsservice",
+        "street":"Ostermaisstra\u00dfe 11",
+        "zip_code":5522,
+        "locality":"St.Martin am Tennengebirge",
+        "id":1582
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Sankt Johann im Pongau",
+        "company_name":"Peter Siller",
+        "street":"P\u00f6ham 50",
+        "zip_code":5452,
+        "locality":"Pfarrwerfen",
+        "id":1583
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Salzburg",
+        "locality_layer_2":"Zell am See",
+        "company_name":"Barbara Scheicher - Scheicher Boote Bootsbau,Bootsvermietung,Bootshandel",
+        "street":"Seespitzstra\u00dfe 17",
+        "zip_code":5700,
+        "locality":"Zell am See",
+        "id":1584
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Bruck-M\u00fcrzzuschlag",
+        "company_name":"Davor Koscak",
+        "street":"Ungerfeldgasse 17, T\u00fcr 3",
+        "zip_code":8650,
+        "locality":"Kindberg",
+        "id":1585
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Sankt Hubertus Boote & Yachten GmbH & Co KG",
+        "street":"Dorfstra\u00dfe 25",
+        "zip_code":8071,
+        "locality":"Hausmannst\u00e4tten",
+        "id":1586
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Graz-Umgebung",
+        "company_name":"Georg Tamm",
+        "street":"Roseggergasse 3",
+        "zip_code":8055,
+        "locality":"Seiersberg",
+        "id":1587
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Leibnitz",
+        "company_name":"Philipp Holzer",
+        "street":"St. Johann im Saggautal 154",
+        "zip_code":8453,
+        "locality":"Sankt Johann im Saggautal",
+        "id":1588
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Liezen",
+        "company_name":"Wolfgang M\u00fcllegger",
+        "street":"Altaussee 140",
+        "zip_code":8992,
+        "locality":"Altaussee",
+        "id":1589
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Steiermark",
+        "locality_layer_2":"Murtal",
+        "company_name":"Sebastian Alexander Waidhofer",
+        "street":"Gr\u00fcngasse 2",
+        "zip_code":8750,
+        "locality":"Judenburg",
+        "id":1590
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Tirol",
+        "locality_layer_2":"Schwaz",
+        "company_name":"Raphael Maximilian Hu\u00dfl",
+        "street":"Kirchstra\u00dfe 25",
+        "zip_code":6123,
+        "locality":"Terfens",
+        "id":1591
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Uwe Biatel - Bootbau Biatel",
+        "street":"Allmendstra\u00dfe 83",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1592
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Johannes Blum",
+        "street":"Spital 9",
+        "zip_code":6972,
+        "locality":"Fu\u00dfach",
+        "id":1593
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Bootswerft Hartmann GmbH & Co KG",
+        "street":"Hafenstra\u00dfe 5",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1594
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Thomas Garnitschnig",
+        "street":"Kohlplatzstra\u00dfe 12",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1595
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Manuel Hrach",
+        "street":"Am S\u00e4genkanal 19a, Top 11",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1596
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Karl Heinz Jansenberger",
+        "street":"Kanalstra\u00dfe 47",
+        "zip_code":6921,
+        "locality":"Kennelbach",
+        "id":1597
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Sirlei Kufner-Ciola",
+        "street":"Seestra\u00dfe 54",
+        "zip_code":6973,
+        "locality":"H\u00f6chst",
+        "id":1598
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Michael M\u00e4hr",
+        "street":"Mesnergasse 6",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1599
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Rene Huber GmbH",
+        "street":"Lustenauer Stra\u00dfe 23",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1600
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"rupprecht & blum Bootbau und Segelwerkstatt OG - Bootbau, Segelmacher",
+        "street":"Grafenweg 7",
+        "zip_code":6971,
+        "locality":"Hard",
+        "id":1601
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Sporer GmbH & Co KG",
+        "street":"Alte F\u00e4hre im Yachthafen",
+        "zip_code":6911,
+        "locality":"Lochau",
+        "id":1602
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Vorarlberg",
+        "locality_layer_2":"Bregenz",
+        "company_name":"Yachtwerft Bilgeri GmbH",
+        "street":"Hafenstra\u00dfe 11",
+        "zip_code":6972,
+        "locality":"Fu\u00dfach",
+        "id":1603
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 3. Bezirk (Landstra\u00dfe)",
+        "company_name":"ALST Design Heinrich KG - Tischlerei Alst Design",
+        "street":"Fasangasse 48\/12A",
+        "zip_code":1030,
+        "locality":"Wien",
+        "id":1604
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 4. Bezirk (Wieden)",
+        "company_name":"Peter Cargnelli",
+        "street":"Viktorgasse 12A",
+        "zip_code":1040,
+        "locality":"Wien",
+        "id":1605
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"BOOTSZENTRUM WIEN OST Roder & Simerea OG",
+        "street":"Fabianistra\u00dfe 8",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":1606
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 11. Bezirk (Simmering)",
+        "company_name":"Cornelia Klausecker - mts.wien Marine Trouble Shooting & Global Yacht Assistance",
+        "street":"Simmeringer Hauptstra\u00dfe 80-82\/2\/32",
+        "zip_code":1110,
+        "locality":"Wien",
+        "id":1607
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 13. Bezirk (Hietzing)",
+        "company_name":"Harald Szohl",
+        "street":"Auhofstra\u00dfe 4\/2\/2",
+        "zip_code":1130,
+        "locality":"Wien",
+        "id":1608
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 16. Bezirk (Ottakring)",
+        "company_name":"Andreas Ramstorfer",
+        "street":"Neumayrgasse 16\/15",
+        "zip_code":1160,
+        "locality":"Wien",
+        "id":1609
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 18. Bezirk (W\u00e4hring)",
+        "company_name":"Steven John Goaziou",
+        "street":"Michaelerstra\u00dfe 33\/22",
+        "zip_code":1180,
+        "locality":"Wien",
+        "id":1610
+    },
+    {
+        "branche_layer_3":"Bootbauer",
+        "locality_layer_1":"Wien",
+        "locality_layer_2":"Wien 22. Bezirk (Donaustadt)",
+        "company_name":"Christiane Ahammer - EPPEL-BOOTE Christiane Ahammer Bootsvermietung, Bootseinstellung, Buffet",
+        "street":"Wagramer Stra\u00dfe 48A",
+        "zip_code":1220,
+        "locality":"Wien",
+        "id":1611
+    }
+]
