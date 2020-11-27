@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bio-cluster"
+  },
+  "targets": {
+    "bio-cluster": {
+      "hosting": {
+        "bioeconomy-cluster": [
+          "bio-cluster"
+        ]
+      }
+    }
+  }
+}

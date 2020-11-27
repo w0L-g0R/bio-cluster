@@ -16,7 +16,7 @@ import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { InMemoryDataService } from './data/services/in-memory-data.service';
 
 // Run app locally
-import { APP_BASE_HREF, LocationStrategy, HashLocationStrategy } from '@angular/common';
+// import { APP_BASE_HREF, LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 
 @NgModule({
@@ -39,8 +39,8 @@ import { APP_BASE_HREF, LocationStrategy, HashLocationStrategy } from '@angular/
     )
   ],
   providers: [
-    { provide: APP_BASE_HREF, useValue: '/' },
-    { provide: LocationStrategy, useClass: HashLocationStrategy },
+    // { provide: APP_BASE_HREF, useValue: '/' },
+    // { provide: LocationStrategy, useClass: HashLocationStrategy },
 
   ],
   bootstrap: [AppComponent]
