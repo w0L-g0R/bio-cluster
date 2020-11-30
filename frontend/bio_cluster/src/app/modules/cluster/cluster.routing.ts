@@ -10,7 +10,7 @@ const routes: Routes = [
     path: '',
     // component: RadialTreeComponent,
     children: [
-      { path: '', redirectTo: 'radial-tree', pathMatch: 'full' },
+      // { path: '', redirectTo: 'radial-tree', pathMatch: 'full' },
       { path: 'datatable', component: DatatableComponent },
       { path: 'radial-tree', component: RadialTreeComponent },
       { path: '**', redirectTo: 'radial-tree' }

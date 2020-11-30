@@ -1,5 +1,5 @@
 import { Injectable, OnInit } from '@angular/core';
-import { Observable, of, Subject } from 'rxjs';
+import { Observable, of, Subject, Subscription } from 'rxjs';
 // import flare_data from './json/flare.json';
 // import WKO_business_data from '../mocks/database/WKO/tree_WKO.json';
 
@@ -17,6 +17,7 @@ export class WkoDataService implements OnInit {
   private businessDataTree = new Subject();
   // private companyData = new Subject();
   private companyData;
+  private companyDataSubs: Subscription;
   // public companyData$ = this.companyData.asObservable()
 
   private wkoCompaniesDir = 'data/mocks/database/WKO/companies';

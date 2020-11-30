@@ -1,7 +1,10 @@
 {
-    "name": "Bioökonomie",
+    "name": "",
     "flag_LT": null,
     "item": null,
+    "lineStyle": {
+        "width": 0
+    },
     "children": [{
             "name": "Verarbeitung und Dienstleistung",
             "flag_LT": null,
@@ -366,6 +369,7 @@
             "flag_LT": null,
             "item": null,
             "layer_id": 0,
+
             "children": [{
                 "name": "Industrie",
                 "flag_LT": null,

@@ -1,0 +1,97 @@
+<mat-accordion fxLayout="column" fxLayoutAlign="start start" class="radial-tree-accordion" displayMode="flat">
+
+    <!-- View Radio-->
+    <!-- <mat-expansion-panel [expanded]="step === 0" (opened)="setStep(0)" hideToggle fxLayout="column" fxLayoutAlign="center start">
+
+        <mat-expansion-panel-header fxLayout="row">
+            <mat-icon class="icon-title" fxFlexOrder="1">support</mat-icon>
+
+            <mat-panel-title class="panel-title" fxFlexOrder="2">
+                Ansicht
+            </mat-panel-title>
+
+        </mat-expansion-panel-header>
+
+        <div fxLayout="row" fxLayoutAlign="center space-between" fxLayoutGap="10%" class="panel-title">
+
+            <mat-radio-group class="radio-view" [(ngModel)]="selectedView">
+                <mat-radio-button color="primary" class="radio-view-button" *ngFor="let view of views" [value]="view" (change)="selectView($event.value)">
+                    {{view}}
+                </mat-radio-button>
+            </mat-radio-group>
+
+        </div>
+    </mat-expansion-panel> -->
+
+    <!-- View Layer Sider -->
+    <mat-expansion-panel [expanded]="step === 1" (opened)="setStep(1)" hideToggle fxLayout="column" fxLayoutAlign="center start" fxLayoutGap="5px">
+
+        <mat-expansion-panel-header fxLayout="row">
+
+            <mat-icon class="icon-title" fxFlexOrder="1">layers</mat-icon>
+
+            <mat-panel-title class="panel-title" fxFlexOrder="2">Ebenen</mat-panel-title>
+
+        </mat-expansion-panel-header>
+
+        <div class="slider">
+            <mat-slider color="primary" thumbLabel [tickInterval]="1" min="0" max="4" step="1" value="4" invert="true" labelPosition="after" (change)="selectLayers($event.value)"></mat-slider>
+        </div>
+
+    </mat-expansion-panel>
+
+    <!-- Nodes Button -->
+    <mat-expansion-panel [expanded]="step === 2" (opened)="setStep(2)" hideToggle fxLayout="column" fxLayoutAlign="center start">
+
+        <mat-expansion-panel-header fxLayout="row">
+
+            <mat-icon class="icon-title" fxFlexOrder="1">support</mat-icon>
+
+            <mat-panel-title class="panel-title" fxFlexOrder="2">
+                Knoten
+            </mat-panel-title>
+
+        </mat-expansion-panel-header>
+
+        <div fxLayout="row" fxLayoutAlign="center center" fxLayoutGap="10px" class="zoom-buttons">
+
+            <button mat-button name="removeNode" color="primary" (click)="addOrRemoveNodes($event)">
+        <mat-icon>remove</mat-icon>
+      </button>
+
+            <button mat-button name="addNode" color="primary" (click)="addOrRemoveNodes($event)">
+        <mat-icon>add</mat-icon>
+      </button>
+        </div>
+
+    </mat-expansion-panel>
+
+    <!-- Lighthouse Select -->
+    <mat-expansion-panel [expanded]="step===3" (opened)="setStep(3) " hideToggle fxLayout="column " fxLayoutAlign="center start ">
+
+        <mat-expansion-panel-header fxLayout="row ">
+            <mat-icon class="icon-title " fxFlexOrder="1 ">device_hub</mat-icon>
+
+            <mat-panel-title class="panel-title " fxFlexOrder="2 ">
+                Leuchttürme
+            </mat-panel-title>
+
+        </mat-expansion-panel-header>
+
+        <div>
+            <mat-form-field class="select-form ">
+                <!-- <mat-label>State</mat-label> -->
+                <mat-select matNativeControl placeholder="Auswahl " class="select-option " color="primary" (selectionChange)="selectLighthouse($event.value)">
+                    <mat-option class="select-option ">Reset</mat-option>
+                    <mat-option *ngFor="let lighthouse of lighthouses " [value]="lighthouse">{{lighthouse}} </mat-option>
+                </mat-select>
+            </mat-form-field>
+        </div>
+    </mat-expansion-panel>
+
+    <div class="reset-button-box">
+        <button mat-stroked-button name="reset" color="accent" (click)="reset($event)">RESET</button>
+        <button mat-stroked-button name="data" color="accent" routerLink="/cluster/datatable" (click)="reset($event)">DATA</button>
+        <button mat-stroked-button name="excel" color="accent" (click)="exportExcel($event)">EXCEL</button>
+    </div>
+</mat-accordion>

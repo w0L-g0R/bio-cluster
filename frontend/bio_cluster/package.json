@@ -24,16 +24,18 @@
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
     "angular-in-memory-web-api": "^0.11.0",
+    "danfojs-node": "^0.1.5",
     "echarts": "^4.9.0",
     "file-saver": "^2.0.5",
+    "firebase": "^7.0.0 || ^8.0.0",
     "lodash": "^4.17.20",
     "ngx-echarts": "^5.2.1",
+    "ngx-slider": "0.0.5",
     "resize-observer-polyfill": "^1.5.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "xlsx": "^0.16.9",
-    "zone.js": "~0.10.2",
-    "firebase": "^7.0.0 || ^8.0.0"
+    "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1002.0",

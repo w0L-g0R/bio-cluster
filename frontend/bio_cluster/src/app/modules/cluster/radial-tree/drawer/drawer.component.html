@@ -1,0 +1,44 @@
+<div class="navbar-container" [class.example-is-mobile]="mobileQuery.matches">
+    <!-- <mat-toolbar color="accent" class="example-toolbar">
+        <button mat-icon-button (click)="snav.toggle()">
+      <mat-icon>menu</mat-icon>
+    </button>
+        <h1 class="example-app-name">Responsive App</h1>
+    </mat-toolbar> -->
+    <mat-sidenav-container class="navbar-sidenav-container">
+        <!-- Side nav -->
+        <mat-sidenav #snav [opened]="!mobileQuery.matches" [mode]="mobileQuery.matches ? 'over' : 'side'" [fixedInViewport]="mobileQuery.matches" fixedTopGap="56" class="sidenav">
+            <mat-nav-list>
+
+                <div class="chart-controls">
+
+                    <mat-card>
+                        <mat-card-header fxLayout="row" fxLayoutAlign="start start" fxLayoutGap="15px">
+                            <button mat-fab color="accent" routerLink="/cluster/radial-tree"><mat-icon>
+                                opacity
+                            </mat-icon></button>
+                            <br>
+                            <div fxFlex="70%" class="title-container">
+                                <mat-card-title>Bioökonomie</mat-card-title>
+                                <mat-card-subtitle>Cluster</mat-card-subtitle>
+                            </div>
+                        </mat-card-header>
+
+                        <mat-card-content>
+
+                        </mat-card-content>
+                    </mat-card>
+                </div>
+                <div class="panel-container">
+                    <app-radial-tree-panel></app-radial-tree-panel>
+                </div>
+
+            </mat-nav-list>
+        </mat-sidenav>
+
+        <!-- Main content -->
+        <mat-sidenav-content class="sidenav-content">
+            <router-outlet></router-outlet>
+        </mat-sidenav-content>
+    </mat-sidenav-container>
+</div>

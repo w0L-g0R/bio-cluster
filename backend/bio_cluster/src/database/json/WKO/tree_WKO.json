@@ -1,21 +1,17 @@
 {
-    "name": "Bio",
+    "name": "",
     "flag_LT": null,
     "item": null,
-    "children": [
-        {
+    "symbol": "image://https://icons.iconarchive.com/icons/hopstarter/soft-scraps/64/Network-MAC-icon.png",
+    "children": [{
             "name": "Gewerbe und Handwerk",
             "flag_LT": null,
             "item": null,
-                    "collapsed": true,
-
-            "children": [
-                {
+            "children": [{
                     "name": "Gewerbliche Dienstleister (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Agrarunternehmer",
                             "flag_LT": null,
                             "item": null
@@ -41,8 +37,7 @@
                     "name": "Holzbau (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Holzbaugewerbetreibender, eingeschr. auf ausf\u00fchrende T\u00e4t.",
                             "flag_LT": null,
                             "item": null
@@ -68,8 +63,7 @@
                     "name": "G\u00e4rtner und Floristen (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Floristen (Blumenbinder und Blumeneinzelh\u00e4ndler)",
                             "flag_LT": null,
                             "item": null
@@ -100,8 +94,7 @@
                     "name": "Sanit\u00e4r-, Heizungs- und L\u00fcftungstechniker (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Gas- und Sanit\u00e4rtechnik",
                             "flag_LT": null,
                             "item": null
@@ -147,8 +140,7 @@
                     "name": "Tischler und Holzgestalter (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Bootbauer",
                             "flag_LT": null,
                             "item": null
@@ -201,13 +193,11 @@
             "name": "Handel",
             "flag_LT": null,
             "item": null,
-            "children": [
-                {
+            "children": [{
                     "name": "Baustoff-, Eisen-, Hartwaren- und Holzhandel (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Handel mit Holz",
                             "flag_LT": null,
                             "item": null
@@ -223,8 +213,7 @@
                     "name": "Energiehandel (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Handel mit festen, mineralischen oder biogenen Brennstoffen",
                             "flag_LT": null,
                             "item": null
@@ -250,8 +239,7 @@
                     "name": "Papier- und Spielwarenhandel (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Einzelhandel mit Papier-, Schreibwaren und B\u00fcrobedarf",
                             "flag_LT": null,
                             "item": null
@@ -299,13 +287,11 @@
             "name": "Industrie",
             "flag_LT": null,
             "item": null,
-            "children": [
-                {
+            "children": [{
                     "name": "Gas- und W\u00e4rmeversorgungsunternehmungen (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Gasversorgungsunternehmen",
                             "flag_LT": null,
                             "item": null
@@ -321,8 +307,7 @@
                     "name": "Holzindustrie (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Energieholzindustrie",
                             "flag_LT": null,
                             "item": null
@@ -408,8 +393,7 @@
                     "name": "Industr. Hersteller von Produkten aus Papier und Karton (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
+                    "children": [{
                             "name": "Briefumschlag- und Papierausstattungsindustrie",
                             "flag_LT": null,
                             "item": null
@@ -505,13 +489,11 @@
                     "name": "Papierindustrie (gesamt)",
                     "flag_LT": null,
                     "item": null,
-                    "children": [
-                        {
-                            "name": "Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
-                            "flag_LT": null,
-                            "item": null
-                        }
-                    ]
+                    "children": [{
+                        "name": "Papier-, Zellstoff-, Holzstoff- und Pappenindustrie",
+                        "flag_LT": null,
+                        "item": null
+                    }]
                 }
             ]
         }

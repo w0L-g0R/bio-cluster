@@ -1,12 +1,14 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { ContentLayoutComponent } from '@layout/content-layout/content-layout.component';
+import { DrawerComponent } from '@modules/cluster/radial-tree/drawer/drawer.component';
 
 
 const routes: Routes = [
   {
     path: '',
-    component: ContentLayoutComponent,
+    // Redirect to Layoutcomponent
+    component: DrawerComponent,
     children: [
       {
         path: 'cluster',

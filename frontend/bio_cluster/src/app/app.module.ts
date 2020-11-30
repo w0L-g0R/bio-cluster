@@ -15,9 +15,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { InMemoryDataService } from './data/services/in-memory-data.service';
 
-// Run app locally
-// import { APP_BASE_HREF, LocationStrategy, HashLocationStrategy } from '@angular/common';
-
 
 @NgModule({
   declarations: [

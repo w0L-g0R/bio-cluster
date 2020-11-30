@@ -1,0 +1,55 @@
+.navbar-spacer
+  flex: 1 1 auto
+
+.navbar
+  z-index: 2
+
+  &-brand
+    text-decoration: none
+    color: white
+
+  &-container
+    display: flex
+    flex-direction: column
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+
+  &-is-mobile .navbar
+    position: fixed
+    z-index: 2
+
+  &-sidenav-container
+
+    flex: 1
+
+  &-is-mobile .navbar-sidenav-container
+
+    flex: 1 0 auto
+
+mat-sidenav
+    min-width: 180px !important
+    border-right: 1px solid #eee
+    box-shadow: 6px 0 6px rgba(0, 0, 0, .1)
+
+
+a.mat-list-item.active
+  background: rgba(0, 0, 0, .04)
+
+#push-bottom
+  position: absolute
+  bottom: 0
+
+.title-container
+  padding-top: 12px
+
+.panel-container
+  // padding-left: 2em
+
+.mat-icon 
+  font-size: 40px
+  padding-right: 15px
+  padding-bottom: 150px
+  color: #1a1a1de0
